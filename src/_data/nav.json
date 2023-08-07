@@ -1,0 +1,16 @@
+{
+    "items":[
+        {
+            "url": "/",
+            "name": "About"
+        },
+        {
+            "url": "/episodes",
+            "name": "Episodes"
+        },
+        {
+            "url": "/guides",
+            "name": "Guides"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+---
+layout: base.njk
+extraStyle:
+  ["/style/episode.css", "https://unpkg.com/katex@latest/dist/katex.min.css"]
+---
+
+
+<h1 class="mb-4">{{ title }}</h1>
+{% if page.date %}
+<p class="font-sans">
+  {{
+    page.date.toLocaleDateString("en-GB", { year: "numeric", month: "long" })
+  }}
+</p>
+{% endif %} {% backLink "episodes", "episodes" %} {% if content | toc %}
+
+<script
+  type="module"
+  crossorigin
+  src="https://embed.type3.audio/player.js"
+></script>
+<type-3-player
+  mp3-url="{{ audio }}"
+  author="Hear This Idea"
+  background-color="#333"
+  analytics="none"
+  primary-color="#eee"
+  secondary-color="#ddd"
+  accent-color="#ffe343"
+  primary-font-family="Merriweather,Source Serif Pro,Apple Garamond,Baskerville,Libre Baskerville,Droid Serif,Times New Roman,Times,serif,ui-serif,Noto Emoji,Quivira, serif"
+  t3a-logo="false"
+  secondary-font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+>
+</type-3-player>
+
+<div class="flex flex-wrap py-8">
+  {% for item in links.items %}
+  <a
+    href="{{ item.url }}"
+    class="no-underline bg-gold-400 font-sans outline-gold-500 outline-[3px] my-2 mx-2 px-3 py-2 rounded-lg block hover:outline outline-offset-[-3px]"
+    target="_blank"
+    >{{ item.name }}</a
+  >
+  {% endfor %}
+</div>
+
+<div class="block desktop:hidden text-sm rounded-md px-8 py-2 font-sans mb-4">
+  <h2 class="mt-4">Contents</h2>
+  {{ content | toc | safe }}
+</div>
+
+<nav class="side-nav opacity-60 text-sm hidden font-sans hover:opacity-100">
+  <div class="side-nav-offset hidden desktop:block overflow-hidden">
+    <h2>Contents</h2>
+    <p>{{ content | wordStats }}</p>
+    {{ content | toc | safe }}
+    <a href="#top">Back to top</a>
+  </div>
+</nav>
+{% endif %}
+{{ content | safe }}
+<br />
+{% aside %} You can
+<a href="https://www.admonymous.co/fin" target="_blank"
+  >leave (anonymous) feedback</a
+>
+on this post, or any other aspect of this website. {% endaside %}
+<br />
+{% backLink "episodes", "episodes" %}
