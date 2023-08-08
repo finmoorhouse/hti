@@ -4,8 +4,8 @@ path: "/episodes/assadi"
 date: "2023-07-18"
 title: "Guive Assadi on Whether Humanity Will Choose Its Future"
 audio: "https://pinecast.com/listen/db9bffba-7ab6-446d-9e0b-33a6f62f57e7.mp3"
-featuredImage: "images/assadi-share.png"
-backgroundImage: "images/guive-bg-1.png"
+featuredImage: "assadi-share.png"
+backgroundImage: "guive-bg-1.png"
 status: "live"
 tags: [episodes]
 ---

@@ -4,8 +4,8 @@ path: "/episodes/cohen"
 date: "2023-06-25"
 title: "Michael Cohen on Input Tampering in Advanced RL Agents"
 audio: "https://pinecast.com/listen/8ae8d664-64de-46d3-92ed-a95500ef281e.mp3"
-featuredImage: "images/cohen-share.png"
-backgroundImage: "images/9.png"
+featuredImage: "cohen-share.png"
+backgroundImage: "9.png"
 status: "live"
 ---
 

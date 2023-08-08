@@ -4,8 +4,8 @@ path: "/episodes/tobias"
 date: "2019-10-22"
 title: "Tobias Cremer on Right-wing Populism and Christianity"
 audio: "https://pinecast.com/listen/cc1f80db-b5d7-4d01-ad0c-5a892229ad4c.mp3"
-featuredImage: "./tobias.jpg"
-backgroundImage: "./cross.jpg"
+featuredImage: "tobias.jpg"
+backgroundImage: "cross.jpg"
 status: "live"
 ---
 

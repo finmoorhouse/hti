@@ -4,8 +4,8 @@ path: "/episodes/garfinkel"
 date: "2023-05-13"
 title: "Ben Garfinkel on AI Governance"
 audio: "https://pinecast.com/listen/38d8b847-e34e-49f5-b041-6e9306943665.mp3"
-featuredImage: "images/ben-share.png"
-backgroundImage: "images/bg2.png"
+featuredImage: "ben-share.png"
+backgroundImage: "bg2.png"
 status: "live"
 ---
 
