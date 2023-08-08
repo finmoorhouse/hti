@@ -28,7 +28,7 @@ In this episode, we talk about:
 
 In the article below, we summarize and illustrate these key ideas, providing both more detail and further readings for listeners who want to find out more.
 
-![Jeffrey Sachs](jeffrey_sachs.jpg)
+{% image "jeffrey_sachs.jpg" "Jeffrey Sachs" %}
 
 ## Book Recommendations 📚
 
@@ -164,7 +164,7 @@ Whilst ending extreme poverty may ultimately rely on the actions of government a
 
 - (Technical) macroeconomic [paper](https://ideas.repec.org/p/cam/camdae/2116.html) and [blogpost](https://voxeu.org/article/economic-consequences-covid-19-multi-country-analysis) on the fiscal impacts of covid
 
-![IMF Covid spending graphic](imf_covid_spending.png)
+{% image "imf_covid_spending.png" "IMF Covid spending graphic" %}
 
 Source: [IMF](https://www.imf.org/en/Topics/imf-and-covid19/Fiscal-Policies-Database-in-Response-to-COVID-19)
 
@@ -202,7 +202,7 @@ Source: [IMF](https://www.imf.org/en/Topics/imf-and-covid19/Fiscal-Policies-Data
 
 - See also our [interview with Matt Ives](https://hearthisidea.com/episodes/matt) on climate change modelling
 
-![IPCC risk graphic](ipcc_risk.png)
+{% image "ipcc_risk.png" "IPCC risk graphic" %}
 
 Source: [IPCC](https://www.ipcc.ch/sr15/chapter/spm/b/spm2/)
 

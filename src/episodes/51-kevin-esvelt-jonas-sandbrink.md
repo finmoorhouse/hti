@@ -20,7 +20,7 @@ Jonas Sandbrink is a researcher and DPhil student at the [Future of Humanity Ins
 
 <div class="episode-image_variable max-600">
 
-![Doyne Farmer](kevin-and-jonas.png)
+{% image "kevin-and-jonas.png" "Doyne Farmer" %}
 
 *Kevin Esvelt (left) and Jonas Sandbrink (right)*
 

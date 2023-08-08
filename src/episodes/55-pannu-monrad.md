@@ -17,11 +17,11 @@ In this episode, Luca talks to Jassi Pannu and Joshua Monrad.
 <div class="episode-image_variable max-500">
 
 
-![Jassi Pannu](jassi.jpg)
+{% image "jassi.jpg" "Jassi Pannu" %}
 
 <h5>Jassi Pannu</h5>
 
-![Joshua Monrad](joshua.jpg)
+{% image "joshua.jpg" "Joshua Monrad" %}
 
 <h5>Joshua Monrad</h5>
 

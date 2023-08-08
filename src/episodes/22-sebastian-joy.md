@@ -18,7 +18,7 @@ In this episode, we talk about Sebastian's career and the work that ProVeg does.
 
 In the article below, we summarise and illustrate the key points from the episode; providing more detail and further reading for listeners who want to find out more.
 
-![Sebastian Joy](sebastian-joy.jpg)
+{% image "sebastian-joy.jpg" "Sebastian Joy" %}
 
 ## Book Recommendations 📚
 
@@ -63,7 +63,7 @@ Sebastian was struck by comparisons between "speciesism" and other historic form
 
 > It's easy to judge the mistakes of parents or grandparents, but what are going to be the mistakes that our future grandchildren will judge us by?
 
-![Memorial in the Geschwister Scholl Platz](scholl-denkmal.jpg)
+{% image "scholl-denkmal.jpg" "Memorial in the Geschwister Scholl Platz" %}
 
 Memorial in the Geschwister Scholl Platz. Source: [Wikipedia](https://en.wikipedia.org/wiki/White_Rose)
 
@@ -71,9 +71,9 @@ Memorial in the Geschwister Scholl Platz. Source: [Wikipedia](https://en.wikiped
 
 Knowing that he wanted to help animals, Sebastian says it took him a long time to figure out how to act on this conviction. He started by getting involved in direct advocacy, helping PETA to raise awareness through publicity stunts. This includes the "ruining the running of the bulls" in Pamplona, shown below.
 
-![Ruining the running of the bulls](pamplona.webp)
+{% image "pamplona.webp" "Ruining the running of the bulls" %}
 
-![Ruining the running of the bulls](pamplona2.webp)
+{% image "pamplona2.webp" "Ruining the running of the bulls" %}
 
 Source: [PETA](https://www.peta.org/blog/ruining-running-bulls/)
 
@@ -136,7 +136,7 @@ You can read more about these '5 reasons' [here](https://proveg.com/5-pros/):
 
 > This is also encapsulated in our mission, which is "a world where everybody chooses delicious and healthy food, that is good for all humans, animals and our planet" [...] If you compare this sentence to "we are fighting for a vegan world" you get much more buy-in.
 
-![Moral circle](moral-circle.png)
+{% image "moral-circle.png" "Moral circle" %}
 
 Source: [Vox](https://www.vox.com/future-perfect/2019/4/4/18285986/robot-animal-nature-expanding-moral-circle-peter-singer)
 
@@ -152,7 +152,7 @@ Looking at what Pro Veg does, we see five main areas of action:
 
 For more on ProVeg's actions, we recommend checking their [website](https://proveg.com/what-we-do/) and [Wikipedia page](https://en.wikipedia.org/wiki/ProVeg_International). Animal Charity Evaluators (who we interviewed in a [previous episode](http://hearthisidea.com/episodes/ace/)) also conducted a [comprehensive review](https://animalcharityevaluators.org/charity-review/proveg/#comprehensive-review) of ProVeg in 2018.
 
-![ProVeg theory of change](proveg-ace.png)
+{% image "proveg-ace.png" "ProVeg theory of change" %}
 
 Source: [Animal Charity Evaluators](https://animalcharityevaluators.org/charity-review/proveg/#comprehensive-review)
 
@@ -182,7 +182,7 @@ Sebastian talks about how he tries to follow the [Lean Start-Up](http://theleans
 
 > Often I don't really exactly know how it's going to end up or what I actually want to do. Often there is only a market in mind, or an idea.
 
-![The build-measure-learn loop](build-measure-learn.png)
+{% image "build-measure-learn.png" "The build-measure-learn loop" %}
 
 Source: [The Lean Start Up](http://theleanstartup.com/principles)
 
@@ -196,7 +196,7 @@ Sebastian talks about how this was a key lesson for him when he helped develop V
 
 > The amount of good you can achieve is without limits if you don't care who gets the credit.
 
-![B12 toothpaste](toothpaste.png)
+{% image "toothpaste.png" "B12 toothpaste" %}
 
 Source: [Sebastian Joy](https://www.sebastianjoy.com/)
 

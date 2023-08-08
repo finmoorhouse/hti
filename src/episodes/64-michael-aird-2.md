@@ -20,7 +20,7 @@ Michael previously spoke to us about impact-driven research on [Episode 52](http
 
 <div class="episode-image_variable episode-image_smaller">
 
-![Michael Aird](michael.png)
+{% image "michael.png" "Michael Aird" %}
 
 </div>
 
@@ -121,7 +121,7 @@ Another project that we have is just like actually trying to put a bunch of conc
 
 We have someone looking into export controls, what will be the effects of the recent export controls that the US did on China. And we have people looking into what is the suite of actions that labs could take to reduce risks from AI that they plausibly could be convinced to take relatively soon and could be really good and trying to package this in a nice presentable format that then can be shared with these people and hopefully influence them, among many other things. Cool. 
 
-![Michael Aird](bg1.png)
+{% image "bg1.png" "Michael Aird" %}
 
 ### Why focus on existential risk from advanced AI?
 
@@ -374,7 +374,7 @@ And if it says, like, omelets, then it'll be told, like, yes, correct. Good job.
 
 Yeah, I think it's a nice point that some people might read stories like these. Like the one you're pointing to, J root is trying to imagine worlds where at some point in the future, the terminator comes online and the red eyes start glowing and it develops some kind of malevolent consciousness and it wants to break free. But really what's going on is just extrapolating a fairly kind of mechanistic story, which we already have toy examples of and kind of drops out quite quickly of just the things that are in front of us right now. But okay, so here's a thing that I might also think we're talking about the default or the easiest path leading to something really bad without specific safeguards. 
 
-![Michael Aird](bg2.png)
+{% image "bg2.png" "Michael Aird" %}
 
 ### Won't everyone care enough for this not to be a problem?
 
@@ -859,7 +859,7 @@ Yeah, if you do a downside risky thing but it's just like ten people hear it and
 
 With what framings? Like to who? Do I put this in like some really prestigious journal? Do I like slap this in an op ed that policymakers will read so each step you can assess. 
 
-![Michael Aird](bg3.png)
+{% image "bg3.png" "Michael Aird" %}
 
 ### A high-level plan for reducing AI risk
 

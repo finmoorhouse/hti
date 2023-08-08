@@ -18,7 +18,7 @@ status: "live"
 
 <div class="episode-image_variable max-600">
 
-![Lord John Bird](lord-bird.jpg)
+{% image "lord-bird.jpg" "Lord John Bird" %}
 
 ##### Image credit: [Radio Times](https://www.radiotimes.com/tv/documentaries/its-a-confederacy-of-amateurs-john-bird-opens-up-the-house-of-lords-in-bbc-documentary/)
 

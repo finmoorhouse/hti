@@ -16,7 +16,7 @@ status: "live"
 
 <div class="episode-image_variable max-600">
 
-![Michael Bhaskar](michael.jpg)
+{% image "michael.jpg" "Michael Bhaskar" %}
 
 </div>
 
@@ -49,7 +49,7 @@ In our conversation, we discuss —
 
 - The ‘Henry Adams Curve’ — [a closer look](http://wimflyc.blogspot.com/2021/01/the-henry-adams-curve-closer-look.html) by J. Storrs Hall
 
-![Adams curve](adams-curve.png)
+{% image "adams-curve.png" "Adams curve" %}
 
 - [Where is my Flying Car?](https://press.stripe.com/where-is-my-flying-car)
   - Review in [Roots of Progress](https://rootsofprogress.org/where-is-my-flying-car)

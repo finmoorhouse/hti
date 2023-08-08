@@ -18,7 +18,7 @@ We begin by discussing the reasons Vasilis became interested in these formal mod
 - [Formal Logic](https://www.goodreads.com/book/show/829692.Formal_Logic?from_search=true&qid=44Pc3pDKu6&rank=2) by Richard C. Jeffrey
 - [Why Free Will Is Real](https://www.goodreads.com/book/show/42525004-why-free-will-is-real) by Christian List
 
-![Vas’ book choices.](vas-book-choices.jpg)
+{% image "vas-book-choices.jpg" "Vas’ book choices." %}
 
 ## Rational choice theory
 
@@ -42,7 +42,7 @@ Now the discussion turned to the (arguably) more interesting part, where we get 
 
 It is useful to think in terms of rectangles representing populations. We couldn’t depict that in the podcast, but we can here! In the image below, rectangles stand for groups of people. The height of the rectangle stands for the average happiness of everybody in that group, while the width stands for the number of people. Letters indicate populations.
 
-![The Four Stages](MereAddition.png)
+{% image "MereAddition.png" "The Four Stages" %}
 
 At this point in the episode, Vas mentions that a natural way to think about what is going on, particularly when presented with the rectangle example, is that all we care about is the total area of the rectangles of each population. Since B has more area than A, we should prefer B to A. Roughly speaking, it’s a kind of [*total utilitarian*](https://www.utilitarianism.net/types-of-utilitarianism#population-ethics) reasoning: we only care about maximising the sum total of happiness. It is true that total utilitarians are going to be particularly keen to prefer B to A; and that most people’s preferences match those of the total utilitarian. **But** it would be a mistake to think the problem we are about to meet only matters for total utilitarians. Notice that in the argument above, we never relied on any explicitly [utilitarian](https://www.utilitarianism.net/) rules or maxims: we just appealed to the value of *mere addition*, and the value (if any) of *equality*.
 

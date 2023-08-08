@@ -9,7 +9,7 @@ backgroundImage: "computers.jpg"
 status: "live"
 ---
 
-![Diane Coyle](diane-portrait.jpg)
+{% image "diane-portrait.jpg" "Diane Coyle" %}
 
 Professor Diane Coyle co-directs the Bennett Institute for Public Policy in Cambridge and was previously Professor of Economics at the University of Manchester. She is the author of more than 15 books and runs the popular [Enlightened Economics](http://enlightenmenteconomics.com/) blog.
 
@@ -25,7 +25,7 @@ Professor Diane Coyle's book recommendations:
 - "[The Great Reversal](https://www.amazon.co.uk/Great-Reversal-Thomas-Philippon/dp/0674237544/ref=sr_1_1?keywords=the+great+reversal&qid=1582302104&s=books&sr=1-1)" by Thomas Philippon
 - "[Goliath](https://www.amazon.co.uk/Goliath-100-year-Between-Monopoly-Populism/dp/1508292620)" by Matt Stoller
 
-![Book Recommendations](book-choices.jpg)
+{% image "book-choices.jpg" "Book Recommendations" %}
 
 ## Tech giants are not 'traditional' monopolies
 
@@ -43,7 +43,7 @@ One explanation proposed as to why digital platforms tend to be dominated by mon
 
 - **High fixed costs** with **zero marginal costs**. That is whilst setting up a digital platform is expensive for a firm to do, once this has been done the cost of adding one more user is essentially free. This creates 'increasing returns to scale' whereby firms are more competitive (i.e. can charge a lower price to consumers) when they are free and we get the classic 'natural monopoly' scenario.
 
-![Monopoly Effects](monopoly.jpg)
+{% image "monopoly.jpg" "Monopoly Effects" %}
 
 - **Network Effects**. With digital platforms, there is an inherent want for a single, large platform where we match all buyers and sellers. For example, if I am looking to rent out my apartment I want to use the platform with the most customers; if I am looking to rent an apartment I want to use the platform with the most buyers. This is especially pertinent when supply and demand are heterogeneous. Likewise, I want to use the social media platform that has most of my friends on it. Hence there is a tendency to have a single platform (e.g. AirBnB or Facebook) and we get what is known as a *"winner takes all"* market.
 - **Experience Goods**. When choosing a product consumers rely heavily on 'word of mouth' recommendations and established reputations. Thus we converge to those firms with an early established customer base even if they do not offer the best service.
@@ -65,7 +65,7 @@ However, this framework does not translate easily in the case of digital monopol
 
 We thus require a different explanation for digital monopolies and pricing.
 
-![You are the Facebook product.](FB.jpeg)
+{% image "FB.jpeg" "You are the Facebook product." %}
 
 > Photo illustration by Natalie Matthews-Ramo/Slate. Photos by Thinkstock
 

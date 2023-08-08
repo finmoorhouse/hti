@@ -16,7 +16,8 @@ status: "live"
 
 <div class="episode-image_variable eiv-600">
 
-![Armond Cohen](armond.jpg)
+{% image "armond.jpg" "Armond Cohen" %}
+
 <h5>Image credit: Clean Air Task Force</h5>
 </div>
 

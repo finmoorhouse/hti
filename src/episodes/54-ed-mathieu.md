@@ -20,7 +20,7 @@ Edouard Mathieu is the Head of Data at [Our World in Data](https://ourworldindat
 
 
 
-![Edouard Mathieu](ed-mathieu.jpg)
+{% image "ed-mathieu.jpg" "Edouard Mathieu" %}
 
 
 

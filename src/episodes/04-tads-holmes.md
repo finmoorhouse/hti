@@ -7,7 +7,9 @@ audio: "https://pinecast.com/listen/43625132-e94d-4f5f-9405-7a5ae9f5b967.mp3"
 status: "live"
 backgroundImage: "./gym-2.jpg"
 ---
-<img src="tads.jpg" alt="Tads" style="max-width:300px;" />
+
+{% image "tads.jpg" "Tads" %}
+
 
 Tads is an undergraduate economist at St John’s College, Cambridge and current Director of the Cambridge Development Initiative. His dissertation looks at how behavioural economics can help explain patterns in gym membership.
 
@@ -21,7 +23,7 @@ Tads Ciecierski-Holmes's book recommendations:
 - *[Behavioural Game Theory](https://www.amazon.co.uk/Behavioral-Game-Theory-Experiments-Interaction/dp/0691090394/ref=sr_1_1?keywords=Behavioural+Game+Theory&qid=1579202944&sr=8-1)* by Colin Camerer. You can also see his [Ted Talk](https://www.ted.com/talks/colin_camerer_when_you_re_making_a_deal_what_s_going_on_in_your_brain)
 - *[Medication Adherence](https://accp1.onlinelibrary.wiley.com/doi/abs/10.1002/jcph.862)* by Lawrence, Miller, & Flexner
 
-![Tad’s book choices](tads-book-choices.jpg)
+{% image "tads-book-choices.jpg" "Tads' book choices" %}
 
 ## Rationality and behavioural economics
 

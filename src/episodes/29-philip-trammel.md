@@ -17,7 +17,8 @@ status: "live"
 
 <div class="episode-image_variable eiv-600">
 
-![Phil Trammell](phil.jpg)
+{% image "phil.jpg" "Phil Trammell" %}
+
 </div>
 
 How will AI change the way the economy works? Will it make us richer, or leave us unemployed? Could AI increase the rate of technological discoveries — and just how rapidly?

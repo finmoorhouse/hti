@@ -15,7 +15,7 @@ Katja blogs primarily at [worldspiritsockpuppet](http://worldspiritsockpuppet.co
 
 <div class="episode-image_variable episode-image_smaller">
 
-![Katja Grace](katja-4.jpg)
+{% image "katja-4.jpg" "Katja Grace" %}
 
 </div>
 

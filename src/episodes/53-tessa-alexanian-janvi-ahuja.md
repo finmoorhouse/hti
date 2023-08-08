@@ -17,7 +17,7 @@ In this episode, Luca talks to [Tessa Alexanian](https://twitter.com/tessafyi) a
 <div class="episode-image_variable">
 
 
-![Tessa and Janvi](tessa-janvi.png)
+{% image "tessa-janvi.png" "Tessa and Janvi" %}
 
 </div>
 

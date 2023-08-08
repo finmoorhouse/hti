@@ -16,7 +16,7 @@ Bryan Caplan is Professor of Economics at [George Mason University](https://www2
 
 <div class="episode-image_variable max-600">
 
-![](caplan.jpeg)
+{% image "caplan.jpeg" "Bryan Caplan" %}
 
 </div>
 

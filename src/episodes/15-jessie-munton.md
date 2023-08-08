@@ -13,10 +13,9 @@ status: "live"
 ---
 
 Dr Jessie Munton is a lecturer in philosophy at the University of Cambridge, whose philosophical research spans (visual) perception, psychiatry, and bias. In our conversation, we focus on Jessie's recent work on bias and prejudice. This covers two broad topics. Firstly, we discuss the epistemic status of statistical generalisations about demographic groups; and ask how nominally accurate beliefs about them can go wrong when we 'project' from bare statistics to new scenarios. Secondly, we discuss what the *salience* and ordering of information might have to do with prejudice, and how that might be relevant for search engines. In this article, we summarise and illustrate these ideas and provide both extra examples and further reading.
-<div class="episode-image_smaller">
-<img  src="images/portrait-2.jpg" alt="Jessie Munton" />
-</div>
 
+
+{% image "portrait-2.jpg" "Jessie Munton" %}
 
 ## Book Recommendations 📚
 
@@ -44,25 +43,25 @@ The majority of Jessie's research looks at (visual) perception, and perceptual u
 
 A class of [popular](https://global.oup.com/academic/product/the-predictive-mind-9780199682737?cc=gb&lang=en&) [new](https://en.wikipedia.org/wiki/Bayesian_approaches_to_brain_function) [theories](https://www.nature.com/articles/nrn2787) seek to unify a whole range of mental processes, including perception, as a kind of constant 'hypothesis testing'. The upshot of this view of vision as an inferential process is that perception begins with an unshakeable uncertainty, and yet "the result you get is something that feels so clear and straightforward". There’s an endless list of examples which help to demonstrate that your visual experience is less determinate than you think it is. First up is an [example](https://en.wikipedia.org/wiki/The_problem_of_the_speckled_hen) widely discussed in the philosophy of perception — take a look at the dots below.
 
-![Some dots](dots.png)
+{% image "dots.png" "Some dots" %}
 
 Each spot should appear clearly distinguished from the next — each one determinate and separate. Now stare at the spots and, without moving your gaze, see if you can tell how many there are. This is difficult, bordering on impossible. While your visual experience seems or appears determinate, you can't read off facts from your perceptual experience that you *could* easily read off, say, an equally determinate photograph — no matter how hard you stare.
 
 A more recent and perhaps clearer demonstration can be found in the more recently uncovered ‘[numerosity adaptation effect](https://en.wikipedia.org/wiki/Numerosity_adaptation_effect)’. Stare at the above ‘+’ sign for 30 seconds, and then turn to the below ‘+’ sign. You may notice that the left side of the display now appears to contain more dots that the right. It really seems like the number of spots differs between the two samples after adaptation, but it doesn't at all.
 
-![The numerosity effect](numerosity.jpg)
+{% image "numerosity.jpg" "The numerosity effect" %}
 
 ##### Source: [Wikipedia](https://en.wikipedia.org/wiki/Numerosity_adaptation_effect) (modified)
 
 One of the best ways to make this insight clear is through visual illusions. For instance, our visual systems apparently draw on the context of an image in order to make a guess about the colour of particular parts of it. This can be seen in the '[grey strawberries](https://www.illusionsindex.org/i/grey-strawberries)' illusion. Take a look at the image below. It looks like there's some red in the image. But try covering up all but the apparently red parts, and you'll see that those parts are in fact either grey or blue. Your visual system seems to notice and automatically 'subtract' the blue wash over the image.
 
-![Grey strawberries](gs.png)
+{% image "gs.png" "Grey strawberries" %}
 
 ##### Source: [Akiyoshi Kitaoka](https://twitter.com/AkiyoshiKitaoka/status/836382313160171521) via [The Illusions Index](https://www.illusionsindex.org/i/grey-strawberries)
 
 Something similar can be achieved with shapes. In the '[turning tables](https://en.wikipedia.org/wiki/Shepard_tables)' illusion, two identical parallelograms appear to be of different proportions (see below).
 
-![The turning tables illusion](turningtables.jpg)
+{% image "turningtables.jpg" "The turning tables illusion" %}
 
 ##### Source: [Wikipedia](https://en.wikipedia.org/wiki/Shepard_tables)
 
@@ -70,7 +69,7 @@ Again, there appears to be some expectation (or ‘perceptual prior’) that we�
 
 These perceptual priors must either be hard-wired or learned. Some seem almost universal, and extremely hard to reverse by conscious effort or learning; suggesting they are hard-wired. An example is the infuriatingly persistent ‘[hollow face illusion](https://en.wikipedia.org/wiki/Hollow-Face_illusion)’ (watch an example [here](https://www.youtube.com/watch?v=pH9dAbPOR6M)). Fascinatingly, people with schizophrenia are much less susceptible to this and other illusions. One [proposed explanation](https://pubmed.ncbi.nlm.nih.gov/19327402/) is that schizophrenic patients are “less able to employ conceptually-driven top-down strategies during  perception, where incoming sensory data are constrained with reference  to a generative model that entails stored information from past experience”. On the other hand, some of these priors are more responsive to environmental factors. On example is found in investigating the effects of the famous [Muller-Lyer illusion](https://michaelbach.de/ot/sze-muelue/index.html). It turn out that Europeans and Americans are the most susceptible to the illusion, and Kalahari hunter-gatherers are far less susceptible. [One explanation](http://cognitionandculture.net/blogs/simons-blog/culture-and-perception-part-ii-the-muller-lyer-illusion/) is that some people grow up in a ‘carpentered world’ full of right angles, and our visual systems learn to read certain arrow-like shapes as reliable depth cues (see below).
 
-![The ‘Carpentered World’ Explanation](depth_cues.jpg)
+{% image "depth_cues.jpg" "The ‘Carpentered World’ Explanation" %}
 
 ##### Source: [michaelbach.de](https://michaelbach.de/ot/sze-muelue/index.html)
 
@@ -138,7 +137,7 @@ This is an innocuous but illustrative example of how the way information is orga
 
 This again relates to visual perception. In our visual experience, certain things 'pop out' from the background: they're visually 'salient'. This means that it is much faster and easier to retrieve information about those things — as demonstrated in visual search tasks. In a 'disjunctive' or 'feature' search, the task is to find some object with some single, unique, identifying feature. In a 'conjunction' search, the task is to find an object with a unique set of features (shape, size, colour, etc.) but no single uniquely identifying feature. Feature searches take much less time to successfully complete, because the objects are [immediately salient](http://wexler.free.fr/library/files/treisman (1980) a feature-integration theory of attention.pdf). Conjunction searches often effectively require the participant to check each item in series, so they take more time.
 
-![Conjunction vs feature search](conjunction_feature.png)
+{% image "conjunction_feature.png" "Conjunction vs feature search" %}
 
 ##### Feature search on the left, conjunction on the right. Source: [ResearchGate](https://www.researchgate.net/publication/24175973_Assessment_of_spatial_neglect_using_computerised_feature_and_conjunction_visual_search_tasks)
 

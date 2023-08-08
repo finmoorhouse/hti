@@ -20,7 +20,7 @@ Joining as a guest co-host on this episode was [Janvi Ahuja](https://www.fhi.ox.
 
 
 
-![Ajay Karpur](ajay.jpg)
+{% image "ajay.jpg" "Ajay Karpur" %}
 
 </div>
 

@@ -40,7 +40,7 @@ In November 2020, Daniell founded [High Impact Athletes](https://highimpactathle
 
 In the article below, we summarise and illustrate the key points from the episode; providing more detail and further reading.
 
-![Marcus Daniell](marcus-portrait.jpg)
+{% image "marcus-portrait.jpg" "Marcus Daniell" %}
 
 ## Marcus' background
 
@@ -108,7 +108,7 @@ In the context of charity, Marcus mentioned that HIA member Stefanos Tsitsipas i
 
 One example of how this network effect combines with the virality of (social) media may be the [recent support](https://www.theguardian.com/sport/gallery/2020/aug/27/nba-strike-athletes-kneeling-black-lives-matter-protest) for the Black Lives Matter movement in the world of professional sport. A major way of expressing this support has been 'taking a knee' during the U.S. national anthem. In 2016, Colin Kaepernick began sitting through the national anthem at the start of the 2016 NFL preseason, and later switched to kneeling. He received a barrage of [criticism](https://www.businessinsider.com/tucker-carlson-american-society-destroyed-by-nike-colin-kaepernick-2018-9?r=US&IR=T) from right-leaning journalistic outlets. In 2017, some players began imitating Kaepernick's gesture in solidarity. Others began wearing [t-shirts](https://www.usatoday.com/story/sports/nfl/2017/09/24/donald-trump-nfl-player-protests-national-anthem-week-3-response/697609001/) with political messages or even [remained](http://www.tennessean.com/story/sports/nfl/titans/2017/09/24/meghan-linsey-kneels-after-singing-national-anthem-titans-seahawks-game/698362001/) in the locker room during the anthem. Soon, the protests were being discussed in major media outlets, and by major political figures including [President Trump](https://money.cnn.com/2017/09/23/media/donald-trump-nfl-protest-backlash/index.html). As a consequence, issues highlighted by Kaepernick — concerning racial inequality and police brutality — received widespread coverage. Once a critical mass of players and fans began to support the protests, corporations saw an opportunity to associate with the movement through sponsorships. Most prominently, Kaepernick signed a sponsorship with Nike, and Nike's value as reflected by its share price increased by around [\$6 billion](https://www.vox.com/2018/9/24/17895704/nike-colin-kaepernick-boycott-6-billion).
 
-![Colin Kaepernick](kaepernick.jpg)
+{% image "kaepernick.jpg" "Colin Kaepernick" %}
 
 One hope for HIA is to reach a similar kind of 'liftoff', where the message becomes self-sustaining. Of course, it would be a little too hubristic to expect to reach anything near the level of support that Kaepernick's protests sparked. But it doesn't seem unrealistic to expect some kind of 'inflexion point' where the idea begins to spread on its own merit — especially because effective giving is such a compelling idea!
 
@@ -142,9 +142,9 @@ Polgár chose to teach his daughters chess, and they began training intensively 
 
 > I really do think the winning mindset can be trained.
 
-![The Polgár sisters](polgar-2.jpg)
+{% image "polgar-2.jpg" "The Polgár sisters" %}
 
-![The Polgár sisters](polgar-3.jpg)
+{% image "polgar-3.jpg" "The Polgár sisters" %}
 
 ### Unique qualities
 
@@ -180,7 +180,7 @@ Even for those who succeed, the sacrifices required are enormous. In many sports
 
 The Olympics [cost a lot of money](https://en.wikipedia.org/wiki/Cost_of_the_Olympic_Games) (and can create a lot of [problems](https://www.investopedia.com/articles/markets-economy/092416/what-economic-impact-hosting-olympics.asp) for the host city). Between the winter and summer games, tens of billions of dollars are spent every four years. Effective altruists emphasise the amount of good that money can do when it's directed towards cost-effective charities — saving lives from tropical diseases, sending children to school, and sparing animals from the fear and pain of factory farming. Spending *billions* of dollar per year in this way could change the world in lasting and significant ways. So should effective altruists feel uneasy about putting on enormous, extravagant shows like the Olympics? Or is this just the kind of fun-hating puritanism that gives it a bad name?
 
-![2012 London Olympic games opening ceremony](olympics.jpg)
+{% image "olympics.jpg" "2012 London Olympic games opening ceremony" %}
 
 Of course, nobody's suggesting we should cancel the Olympics. But it is useful to think about what makes them so valuable — what justifies their cost.
 
@@ -204,7 +204,7 @@ The Olympics and other sporting events also play host to stories of sportsmanshi
 
 Also worth mentioning is the story of [Matthias Steiner](https://en.wikipedia.org/wiki/Matthias_Steiner#2008), a German weightlifter. In 2007, while training for the Beijing games, Steiner lost his wife in a fatal car accident. He almost quit entirely. After resolving to keep training, he made the final of the 2008 Olympics. He failed in his attempts at other lifts, forcing him to increase the weight to 258kg on his final clean and jerk attempt in order to win gold. In a moment that's hard to watch without welling up, he completed the lift and broke down in tears. On the podium, he held a photo of his wife. You can watch a video of the event [here](https://youtu.be/lssO92BNsJc) — just make sure there's a tissue box nearby!
 
-![Matthias Steiner](steiner.png)
+{% image "steiner.png" "Matthias Steiner" %}
 
 ##### Matthias Steiner
 

@@ -14,7 +14,7 @@ status: "live"
 
 <div class="episode-image_variable">
 
-![Dewi Erwan](dewi.jpg)
+{% image "dewi.jpg" "Dewi Erwan" %}
 
 </div>
 
@@ -72,7 +72,7 @@ In this episode we discuss:
 
 <div class="episode-image_variable max-500">
 
-![img](toasties.jpg)
+{% image "toasties.jpg" "Toasties" %}
 
 
 

@@ -18,7 +18,7 @@ In this interview we discuss two of her recent papers. The first is about "overc
 
 In the article below, we summarise and illustrate these key ideas; providing both more detail and further reading for listeners who want to find out more.
 
-![Portrait](julia.jpeg)
+{% image "julia.jpeg" "Portrait" %}
 
 <div class='aside'>
 <div>
@@ -92,11 +92,11 @@ Instead, Julia is interested in cases of overconfidence when people really shoul
 
 To add some formal language, we can think of this in terms of [Bayesian updating](https://en.wikipedia.org/wiki/Bayesian_inference). If people are perfect information processing machines, then we expect they will update their beliefs according to Bayes rule — regardless of what 'prior' (initial guess) they hold. Given enough observed evidence, their 'posterior' (updated belief) will thus eventually converge to the truth.
 
-![Overconfident update](bayesian-update.png)
+{% image "bayesian-update.png" "Overconfident update" %}
 
 But if people are overconfident, then they will (1) hold overconfident priors, and (2) update too slowly away from this overconfidence (if at all). It is this latter phenomenon that Julia wants to test. We cannot necessarily call people irrational for choosing a bad prior, but we can judge their subsequent posteriors accordingly.
 
-![Overconfident update](overconfident-update.png)
+{% image "overconfident-update.png" "Overconfident update" %}
 
 ### Supply of Overconfidence
 
@@ -108,7 +108,7 @@ Julia notes that there could be many reasons. Most obviously, people could be ma
 
 Julia instead asks us to consider that another way people can form overconfident beliefs is by *filtering* the information they use to update their beliefs. [Bénabou and Tirole (2002)](https://econweb.ucsd.edu/~jandreon/Econ264/papers/Benabou Tirole QJE 2002.pdf) [B&T] talk about this mechanism in their article. People might still process information they choose to consider in a Bayesian way, but they can be selective about what data gets processed in the first place. They can use their (skewed) memory to ignore some of the information they don't like and focus on the information they do, supporting their overconfident beliefs.
 
-![Processes](info-process-belief.png)
+{% image "info-process-belief.png" "Processes" %}
 
 This explanation offers us a testable prediction: if people's memory plays a role in forming overconfident beliefs, we should expect to find a positive correlation between people's overconfidence and their inaccuracy in recalling memories. By contrast, if our bias is (just) in how we process this information, then we should not see this relationship.
 
@@ -168,7 +168,7 @@ However, we can also see that what errors do exist are skewed towards flattering
 
 Lastly, we can also see that there is a clear trend in who makes those mistakes. Those who tend to be the most overconfident are those who performed the worst in the last quarter. The green "mean" line closes follow the red "true" line for the very best performers but then deviate from the rank 100 onwards. Formally, "a 1 s.d. increase in Q2 performance is associated with a 0.12 lower probability of having inaccurate memory". This finding seems intuitive. When you performed well last quarter, you don't need to distort the truth to get a positive self-image; when you performed poorly, you do.
 
-![Recalled performance](recalled-performance.png)
+{% image "recalled-performance.png" "Recalled performance" %}
 
 The last part was then to look and see if these results are linked. That is, is being overconfident in one's forecasts is linked to being flattering in one's memory? Julia notes that this strongly appears to be the case. Even controlling for many other factors (including gender, age, and experience), those who were the most overconfident were those with the most skewed memories. More precisely, "a 1 s.d. increase in recalled Q2 performance is associated with predicting about 0.5 quintiles higher performance in Q4."
 
@@ -204,7 +204,7 @@ Julia pointed out that a quirk in her data allowed her to test for the "rank eff
 
 We can also see this in the diagram below. Financial incentives oscillate with rank, and so if effort depends on rank only through the financial incentives, effort should also oscillate with rank.  If, on the other hand, Julia observed a different relationship between effort and rank, then effort cannot be entirely attributed to the financial incentives, and must be due to direct effect of rank on people’s utility. In other words, if people care only about rank incentives, then being close to a pay "boundary" shouldn't matter that much — the difference in rank is only marginal. But if people care only about financial incentives, then these boundaries should be critical — as they make or break what bonus you end up getting. Thus, seeing how much effort does or doesn't "oscillate" with boundaries can give us a direct measure of rank effects.
 
-![Profit rank and score](profit-rank.png)
+{% image "profit-rank.png" "Profit rank and score" %}
 
 To test this, Julia looks at how managers respond to their last feedback session in Week 11, just two weeks before the tournament. Here, managers are explicitly told their current rank and how far away they are from the next bonus band.
 
@@ -220,9 +220,9 @@ All of this suggests that rank does indeed enter the utility function directly. 
 
 In economic terms, we are interested to see if the utility from rank is *convex* or *concave*. If you tell someone they are far behind the others, the ‘convex’ person would give up, while the ‘concave’ one would try to catch up. We can show this in the diagrams below:
 
-![Concave function](concave.png)
+{% image "concave.png" "Concave function" %}
 
-![Convex function](convex.png)
+{% image "convex.png" "Convex function" %}
 
 To test for this, Julia looks at any difference in how much effort people exert according to their rank. She finds that there is no discouragement at the bottom. If anything, there appears to some complacency at the top and the biggest increase in effort at the bottom.
 

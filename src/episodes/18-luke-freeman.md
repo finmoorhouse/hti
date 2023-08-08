@@ -41,7 +41,7 @@ In the article below, we summarize and illustrate these key ideas; providing bot
 
 Even before he learned about Effective Altruism or joined Giving What We Can, Luke tells us he was acutely aware of the stark differences in living standards that result from where in the world one is born. Whilst most of us are also indistinctly aware of these differences, looking at the actual numbers can be quite arresting. Consider the graph below, or the ["How rich am I?" calculator](https://howrichami.givingwhatwecan.org/how-rich-am-i) from the Giving What We Can website.
 
-![Global Inequality](global-inequality.png)
+{% image "global-inequality.png" "Global Inequality" %}
 
 It is thus natural that many people want to "do good" in the world — for instance, to assist those people who are worst-off. This is what [effective altruism](https://www.effectivealtruism.org/) (EA) looks to contribute towards. Within EA, some people see making donations as one potentially powerful way to achieve this. This is where Giving What We Can comes in.
 
@@ -75,9 +75,9 @@ As of November 2020, GWWC has over 5,000 members that have taken The Pledge and 
 
 It is clear that giving such a large amount of your earnings may at first seem quite daunting. Luke thus encourages listeners to check out the [testimonials](https://www.givingwhatwecan.org/case-studies-people-who-pledge-to-give/) of people who have already taken for the pledge and to [get in touch](https://www.givingwhatwecan.org/about-us/contact-us/) if they have any questions. For more information and answers to some common concerns, check out GWWC's [FAQ](https://www.givingwhatwecan.org/about-us/frequently-asked-questions/).
 
-![GWWC Outdoor Lesson](outdoor.jpg)
+{% image "outdoor.jpg" "GWWC Outdoor Lesson" %}
 
-![GWWC Community](pledgers.jpg)
+{% image "pledgers.jpg" "GWWC Community" %}
 
 ##### The GWWC community
 
@@ -91,7 +91,7 @@ For GWWC, the essential thing is the process of reflecting on, and then choosing
 
 > GWWC isn't prescriptive of what does the most good, only how you go about it is important—relying on strong evidence and reasoning. We don't know what your moral values are or your appetite for risk is.
 
-![GWWC Donation Data](gwwc-donations.png)
+{% image "gwwc-donations.png" "GWWC Donation Data" %}
 
 Source: [Giving What We Can (2020)](https://www.givingwhatwecan.org/best-charities-to-donate-to-2020/)
 
@@ -121,7 +121,7 @@ Whilst much of GWWC is about people sharing their individual experiences, we als
 
 If we look to many religions, we find long traditions of ordinary people committing themselves to meaningful donations. For example, the [Zakat](https://en.wikipedia.org/wiki/Zakat) is one of the five pillars of Islam and requires that all able adults give 2.5% of their assets (not just annual income!) to those less fortunate. A recent survey found that the percentage of Muslims who do this is high (>50%) across the world (see graph below). Likewise, some branches of Christianity give a [tithe](https://en.wikipedia.org/wiki/Tithe): one-tenth of their income to the church. In countries like Austria and Germany, this has been institutionalized through a *[Kirchensteuer](https://en.wikipedia.org/wiki/Church_tax)* (church tax). Judaism also has similar practices, such as [Terumah](https://en.wikipedia.org/wiki/Heave_offering) and [Ma'aser](https://en.wikipedia.org/wiki/First_tithe).
 
-![Alms Data](alms-data.png)
+{% image "alms-data.png" "Alms Data" %}
 
 How do we get to a stage where, even on a secular basis, many more people are willing to become effective givers? In our interview, Luke cites work by Cass Sunstein (see his [book](https://www.goodreads.com/book/show/42068857-how-change-happens), [podcast](https://80000hours.org/podcast/episodes/cass-sunstein-how-change-happens/) or [video](https://www.youtube.com/watch?v=JINJsTsMIAg)).  Building on [Kuran's (1995)](https://www.hup.harvard.edu/catalog.php?isbn=9780674707580) earlier work on "[preference falsification](https://en.wikipedia.org/wiki/Preference_falsification)", Sunstein notes that tendency towards conformity is surprisingly widespread. People can be significantly swayed based on the behaviour of their peers. This applies to a whole range of social movements, such as supporting same-sex marriage, the Me Too movement, and, more darkly, National Socialism. According to Sunstein, they all approximately follow the same underlying dynamics:
 
@@ -175,7 +175,7 @@ One important lesson we might draw out here is the rise of China. The World Bank
 
 This question has more recently been discussed within EA circles. Hillebrandt & Halstead present it in their long-form article "[Growth and the case against randomista development](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development")". Take a look at the figure below. It illustrates how various economic reforms have affected GDP/capita compared to $1bn worth of a well-established RCT ([The Ultra Poor Graduation Programme](https://www.poverty-action.org/impact/ultra-poor-graduation-model)). We can see that the magnitude of economic reforms, both in gains and losses, are simply of an entirely higher magnitude.
 
-![GDP Gains](gdp-gains.png)
+{% image "gdp-gains.png" "GDP Gains" %}
 
 ------
 
@@ -203,7 +203,7 @@ For instance, very many people are deeply concerned with domestic [terrorism](ht
 
 A great demonstration of these biased perceptions of the world is provided by the [Gapminder](https://www.gapminder.org/) '[Misconception Study](https://www.gapminder.org/ignorance/gms/)'. The study distributed a quiz, made up of 12 factual questions about the state of the world, to fourteen rich countries through an online panel. Each question was a multiple choice between three options. As such, random guessing — a chimp picking one of three bananas — will score 4 out of 12 in expectation. As it happens, the average score for actual human answers was *worse* than random: a paltry 2.2 out of 12! And only 10% of respondents scored better than random.
 
-![Gapminder Test Results](gapminder.png)
+{% image "gapminder.png" "Gapminder Test Results" %}
 
 ##### Source: https://www.gapminder.org/ignorance/gms/
 

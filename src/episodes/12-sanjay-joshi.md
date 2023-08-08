@@ -15,7 +15,7 @@ Sanjay Joshi is the co-founder and CEO of SoGive, a non-profit whose database ev
 
 Our write-ups help you delve deeper into the ideas discussed in the podcast, including links and references to further readings.
 
-![Sanjay speaking at a TEDx event](sanjay.jpg)
+{% image "sanjay.jpg" "Sanjay speaking at a TEDx event" %}
 
 ## **Book Recommendations 📚**
 
@@ -41,7 +41,7 @@ Most people, when asked if they care where their donations go and what good it w
 
 Suppose charity X can save one life for £100, charity Y can save one life for £200, and charity Z can save ten lives for £1,000. No one should donate to Y; if they donate to X instead they can save twice as many lives! Charity Y cannot 'compete' and they receive no donations. This is a bit like Adam Smith's "invisible hand", only that here people are rationally *unselfish* in choosing what charities to donate to. There is also no difference between X and Z — per marginal £1 donated, they are just as good as each other. Thus, we are only left with the most cost-effective charities, with a positive and linear relationship between impact and cost.
 
-![Expected cost vs impact](cost-impact.png)
+{% image "cost-impact.png" "Expected cost vs impact" %}
 
 ##### Source: [Thinking about charity](http://thinkingaboutcharity.blogspot.com/)
 
@@ -51,7 +51,7 @@ Wonky Aside: You can also think of this as people donating to the charity with t
 
 However, looking at the actual data, we see nothing of the sort! This is what Sanjay discovered when he did his first [Excel analysis](http://thinkingaboutcharity.blogspot.com/2016/09/most-charities-are-not-cost-effective_21.html?view=sidebar). There are huge differences in how cost-effective charities are: some perform incredibly well (blue), others relatively poorly (yellow). Looking at this, it seems pretty hard to argue that donors care *in practice* about how much "bang for buck" charities end up having. Note that, in the graph below, costs are depicted on a log scale: there is a ten-thousandfold difference between 2 and 6.
 
-![Expected cost vs impact](cost-impact-actual.png)
+{% image "cost-impact-actual.png" "Expected cost vs impact" %}
 
 ##### Source: [Thinking about charity](http://thinkingaboutcharity.blogspot.com/). Note that this is an early iteration of the SoGive rating methodology, which is not the same as the current SoGive rating approach.
 
@@ -65,7 +65,7 @@ Toby Ord's [article](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853
 
 Even under much more conservative estimates, effective prioritisation could have a huge impact. If for the same price we can save 1,000 lives with one intervention and 10,000 with another, moving funding from the former to latter saves 9,000 lives. "Redirecting funding is so important that it is almost as good as adding new funding directly toward the superior intervention".
 
-![DALYs per $1000](dalys-per-1000.png)
+{% image "dalys-per-1000.png" "DALYs per $1000" %}
 
 ##### Source: Ord (2013)
 
@@ -75,7 +75,7 @@ And this is all in the context of global health, an area that is on the whole pr
 
 Why does this situation of ineffective giving come about in the first place? Sanjay [argues](http://thinkingaboutcharity.blogspot.com/2017/04/funder-beneficiary-separation.html) that much of this has to do with "funder-beneficiary separation". That is the one paying for a thing (donor) and the one who benefits from a thing (beneficiary) are different people.
 
-![Funder-beneficiary separation](f-b-s.png)
+{% image "f-b-s.png" "Funder-beneficiary separation" %}
 
 ##### Source: [Thinking about charity](http://thinkingaboutcharity.blogspot.com/2017/04/funder-beneficiary-separation.html)
 
@@ -93,7 +93,7 @@ Having shown that we should care about charity cost-effectiveness, we must now t
 
 One aspect that many people focus on is overheads, which encompasses all "administrative" costs like bookkeeping, fundraising, and human resources. This is not money that directly benefits people in need, so it is a clear sign of inefficiency — right? Indeed, this is certainly the impression one gets when looking at the UK Government's Charity Commission website: The bigger the share of yellow "charitable actives", the better the charity.
 
-![Financials for Cancer Research](charity-commission.png)
+{% image "charity-commission.png" "Financials for Cancer Research" %}
 
 ##### Source: [UK Charity Commission](https://beta.charitycommission.gov.uk/charity-details/?regId=1089464&subId=0)
 
@@ -105,7 +105,7 @@ We "confuse morality with frugality" when thinking that overheads are not part o
 
 > Now, if you were a philanthropist really interested in breast cancer, what would make more sense: go out and find the most innovative researcher in the world and give her 350,000 dollars for research, or give her fundraising department the 350,000 dollars to multiply it into 194 million dollars for breast cancer research?
 
-![Overhead](overhead.jpg)
+{% image "overhead.jpg" "Overhead" %}
 
 ##### Source: [Charity Defence Council](https://www.charitydefensecouncil.org/creative)
 
@@ -127,7 +127,7 @@ Overall, the key takeaway is that just looking at overhead and CEO pay is almost
 
 To evaluate a charity's outcomes, Sanjay says we can use the 'theory of change' as a guideline. Theory of change is a framework that many nonprofits and social enterprises use to guide their missions (you can find a comprehensive guide [here](https://www.thinknpc.org/wp-content/uploads/2018/07/Creating-your-theory-of-change1.pdf)). In simple terms, it gets charities to question *why* they take activities by thinking through what inputs are required, what outputs it will achieve, and in turn what outcomes this will create. At each step, we might also question what assumptions are needed for us to be successful.
 
-![Theory of change](theory-of-change.png)
+{% image "theory-of-change.png" "Theory of change" %}
 
 ##### Source: [Analytics in Actions](https://analyticsinaction.co/theory-of-change-vs-logic-model)
 
@@ -142,7 +142,7 @@ To answer these two questions, SoGive looks at the publicly available informatio
 
 Finding information about costs is pretty straight forward since registered charities are legally required to report this. There is no such requirement for outcomes. Charities more often report their outputs, as these are more easily observable. For example, it is much easier to know how many calls a suicide hotline answered than how many lives it ended up saving. Even if a charity produces its own estimates there is reason to remain sceptical about how reliable the underlying assumptions are. This may thus require looking at academic papers, collaborating with other charity evaluators (like [Give Well](https://www.givewell.org/) and [Animal Charity Evaluators](https://animalcharityevaluators.org/)), or conducting original research oneself.
 
-![Outcomes for inputs](outcomes.png)
+{% image "outcomes.png" "Outcomes for inputs" %}
 
 ##### Source: [SoGive](https://sogive.org/faq.html)
 
@@ -166,13 +166,13 @@ Sanjay notes that fortunately, most of the trade-offs that SoGive encounters in 
 
 Sanjay notes that these causes are difficult to measure, but SoGive is finding better ways to do it. In particular, we should look at how much funding a research area is *already* receiving and how much good it might do if a cure/treatment is found. The figure below plots a disease's research funding share against the disease burden (measured in how many disability-adjusted life years lost). Looking at the graph below we see that some causes receive disproportionally high funding, especially cancer (9% of disease burden but 43% of research spend). Others, like mental health and diabetes, receive much less. For Sanjay's full and nuanced take on this, see this [blog post](http://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html?view=sidebar).
 
-![Share of global disease burden](disease-burden.jpg)
+{% image "disease-burden.jpg" "Share of global disease burden" %}
 
 ##### Source: [Thinking About Charity](http://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html?view=sidebar)
 
 **Dealing with risk and uncertainty:** Often we cannot be exactly sure about what impact a charity will have. For example, what is better, spending £1,000 to save one life with certainty or have a 1% chance of saving 100 lives? Many people have risk-averse preferences and would say the former option is better. SoGive's approach is to remain risk-neutral. That is, in our example, it would say both options are just as good as each other since the *expected* life saved is 1 in each case.
 
-![Attitudes to risk](risk.png)
+{% image "risk.png" "Attitudes to risk" %}
 
 ##### Source: [Policonomics](https://policonomics.com/wp-content/uploads/2016/02/Risk-aversion.jpg)
 

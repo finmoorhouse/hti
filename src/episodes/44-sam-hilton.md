@@ -20,7 +20,7 @@ In our conversation, we discuss —
 
 <div class="episode-image_variable max-600">
 
-![Sam Hilton](sam.jpg)
+{% image "sam.jpg" "Sam Hilton" %}
 
 ##### Image credit: CSER
 

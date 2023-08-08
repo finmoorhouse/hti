@@ -16,7 +16,7 @@ status: "live"
 
 <div class="episode-image_variable">
 
-![Chris Miller](chris-miller.jpeg)
+{% image "chris-miller.jpeg" "Chris Miller" %}
 
 </div>
 

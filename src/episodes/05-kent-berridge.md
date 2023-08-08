@@ -8,7 +8,7 @@ backgroundImage: "rat1.jpg"
 status: "live"
 ---
 
-![Kent’s team](kent-team.jpg)
+{% image "kent-team.jpg" "Kent’s team" %}
 
 Kent Berridge is a distinguished professor of psychology and neuroscience at the university of Michigan and the joint recipient of the 2019 [Grawemeyer Award for psychology](http://grawemeyer.org/theory-explaining-addiction-wins-grawemeyer-psychology-award/). Through experiments on rodents, his research addresses questions about how pleasure is generated in the brain, the relation of fear to desire, and what causes addiction.
 
@@ -44,7 +44,7 @@ It is important to distinguish the wanting of the incentive salience theory from
 
 In the recent series of experiments which he describes in the interview, Berridge and his team used a technique called *optogenetics*. First, a virus is used which carries the gene for opsin photoreceptors. The virus  is then gutted / sterilised so that it can’t reproduce, before being injected into a specific area of the rat’s brain. In Berridge’s case, it was injected into a region of the amygdala. The neurons in the brain with this new gene begin to make photoreceptor (light-sensitive) molecules that twist in light. So now, when wavelengths of light are fired on those neurons, they activate (by transferring certain ions). Finally, that brain region is targeted with a fiber-optic cable attached to a laser. A cap is placed on the open cut-away area of the rat’s head, and the rats are anesthetised during the entire process, so they wake up having experiences no pain. The result is that this very specific region of their brains can effectively be ‘activated’ with millisecond-precision. I think it’s worth pausing to appreciate how amazing that all is!
 
-![Optogenetics](rat2.jpg)
+{% image "rat2.jpg" "Optogenetics" %}
 
 ## Rats, lasers, and electric shocks
 
@@ -52,11 +52,11 @@ Berridge and his team used optogenetic techniques in a recent series of experime
 
 In the first experiment Berridge describes, a mouse is presented with two buttons, both of which release a sugar pill when the mouse nibbles them. For one of the levers, the laser is activated just when the rat nibbles it. The rats became fixated on the lever paired with the laser activation at the total expense of the other lever; even when there was a time delay between successive deliveries of sugar pills which mean the rat could get more sugar pills if it nibbled both levers. When the sugar pills are swapped out for intravenous doses of cocaine.
 
-![Experiment](experiment.png)
+{% image "experiment.png" "Experiment" %}
 
 In the second experiment, one lever was paired with sugar pills and the other with cocaine. Regardless of whether the laser was paired with the cocaine or with the sugar pill, the rats inevitably became fixated on the lever paired with the laser.
 
-![Experiment](experiment5.png)
+{% image "experiment5.png" "Experiment" %}
 
 The natural explanation for this is just that the laser itself is a kind of reward for the rats -  this would explain the previous two experiments because the laser just acts like *more* reward. But, surprisingly, this is not the case: rats do not just ‘want’ laser. This can just be showed by giving the rats a choice between a lever that releases a sugar pill or cocaine hit, and a lever that activates the laser. In that choice, the rats did not become interested in the laser lever, and always preferred the sugar / cocaine lever.
 
@@ -95,7 +95,7 @@ A frightening fact about drug addiction is that an addict can quit, and endure w
 3. [Compulsion and choice in addiction](https://lsa.umich.edu/psych/research&labs/berridge/publications/2017%20Holton%20&%20Berridge%20Compulsions%20&%20choice%20in%20addiction%20chapt.pdf) by Kent Berridge and Richard Holton
 4. [Liking, Wanting and the Incentive-Sensitization Theory of Addiction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5171207/) by Terry Robinson
 
-![Reading recommendations](book-choices.jpg)
+{% image "book-choices.jpg" "Reading recommendations" %}
 
 [Click here](https://lsa.umich.edu/psych/research&labs/berridge/research/affectiveneuroscience.html) for a big list of Professor Berridge’s publications, plus photos and brief explanations. [Click here](https://sites.lsa.umich.edu/berridge-lab/) for the Berridge Lab website, with some cool photos of the experiments.
 

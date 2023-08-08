@@ -20,7 +20,7 @@ Dr [Spencer R. Weart](https://en.wikipedia.org/wiki/Spencer_R._Weart) served as 
 
 <div class="episode-image_variable max-600">
 
-![Spencer Weart](spencer.png)
+{% image "spencer.png" "Spencer Weart" %}
 
 </div>
 
@@ -50,7 +50,7 @@ Throughout our interview we discuss Spencer's website [Discovery of Global Warmi
 * "*The temporary cooling from the 1940s to the 1960s (in the northern hemisphere) had been bad luck for climate science. By feeding skepticism about the greenhouse effect and by provoking some scientists and many journalists to speculate publicly about the coming of a new ice age, the new cool spell gave the field a reputation for fecklessness that it would not soon live down*"
 * It was only in 1960 that the [Keeling Curve](https://en.wikipedia.org/wiki/Keeling_Curve) became the first "proof" of Earth's increasing atmospheric CO2 concentration. [see Spencer's [essay](http://history.aip.org/climate/Kfunds.htm)]
 
-![CO2 Concentration](co2-concentration.png)
+{% image "co2-concentration.png" "CO2 Concentration" %}
 
 ### Many interwoven threads
 
@@ -94,18 +94,18 @@ Throughout our interview we discuss Spencer's website [Discovery of Global Warmi
 
 The report above contains these two useful graphs. First, R&D funding of energy technologies over time:
 
-![Energy share](funding.png)
+{% image "funding.png" "Energy share" %}
 
 Second, energy technology share of funding over three periods:
 
-![Energy share](energy-share.png)
+{% image "energy-share.png" "Energy share" %}
 
 - [Why did renewables become so cheap so fast?](https://ourworldindata.org/cheap-renewables-growth) — Our World in Data
   - "Fossil fuels dominate the global power supply because until very  recently electricity from fossil fuels was the cheapest. This has  changed dramatically. In most places power from new renewables is now  cheaper than new fossil fuels."
 
 This graph from [Our World in Data](https://ourworldindata.org/cheap-renewables-growth) shows how the price of electricity from nuclear power plants has risen, in contrast to other sources —
 
-![Price of nuclear](nuclear-price.png)
+{% image "nuclear-price.png" "Price of nuclear" %}
 
 ## Transcript
 
@@ -215,7 +215,7 @@ We know exactly because it was proposed by a French scientist named [Joseph Four
 
 
 
-![Energy share](funding.png)
+{% image "funding.png" "Energy share" %}
 
 
 

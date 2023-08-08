@@ -23,7 +23,7 @@ In our interview, we discuss:
 
 <div class="episode-image_variable max-600">
 
-![](gillian.jpg)
+{% image "gillian.jpg" "Gillian Hadfield" %}
 
 </div>
 

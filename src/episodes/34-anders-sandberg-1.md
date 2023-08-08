@@ -16,7 +16,8 @@ Anders Sandberg is a researcher, futurist, transhumanist and author. He holds a 
 
 <div class="episode-image_variable max-600">
 
-![Anders Sandberg](anders.jpg)
+{% image "anders.jpg" "Anders Sandberg" %}
+
 <h5>Image credit: Future of Humanity Institute</h5>
 
 </div>
@@ -91,7 +92,7 @@ $$
 
 The New Yorker cartoon discussed at Los Alamos:
 
-![New Yorker Cartoon](new-yorker-cartoon.jpg)
+{% image "new-yorker-cartoon.jpg" "New Yorker Cartoon" %}
 
 ##### Image credit: The New Yorker magazine
 
@@ -157,7 +158,7 @@ On grand futures —
 
 <div class="episode-image_variable max-600">
 
-  ![Survivorship bias](survivorship-bias.png)
+  {% image "survivorship-bias.png" "Survivorship bias" %}
 
 </div>
 
@@ -256,7 +257,7 @@ On internet communities —
 - [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828.pdf) by Juergen Schmidhuber
 - The [Gartner hype cycle](https://en.wikipedia.org/wiki/Hype_cycle)
 
-  ![The Gartner hype curve](hype-cycle.png)
+  {% image "hype-cycle.png" "The Gartner hype curve" %}
 
 ##### The Gartner hype curve ([Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle#/media/File:Hype-Cycle-General.png))
 

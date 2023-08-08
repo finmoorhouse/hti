@@ -12,7 +12,7 @@ google: "https://podcasts.google.com/?feed=aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9oZ
 status: "live"
 ---
 
-![George Rosenfeld](george.jpg)
+{% image "george.jpg" "George Rosenfeld" %}
 
 George Rosenfeld is a student of HSPS at the University of Cambridge, and the founder of [May Week Alternative](http://mayweekalternative.org.uk/), an initiative encouraging students to celebrate the post-exam period by donating a significant amount of money to charity. After the donations period, they host a summer party to mark their collective impact.
 
@@ -24,15 +24,15 @@ This was our longest episode so far, and we cover a lot of ground. If you’re i
 - Cass Sunstein discusses *[How Change Happens](https://80000hours.org/podcast/episodes/cass-sunstein-how-change-happens/)* on the [80,000 Hours Podcast](https://80000hours.org/podcast/)
 - *[Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)* by Daniel Kahneman
 
-![Book choices](book-choices.jpg)
+{% image "book-choices.jpg" "Book choices" %}
 
 ## What is May Week Alternative?
 
 The post-exam period in the University of Cambridge is called ‘May Week’. Confusingly, May Week takes place over June. It is a time to relax and enjoy student life minus the stress of studying. It is also the time to attend extravagant ‘[May Balls](https://en.wikipedia.org/wiki/May_Ball_in_Cambridge)’ - huge and opulent parties known around the world. There are fireworks, unlimited food and drink, glamorous black (or white) tie dress codes, and plenty more. They stretch on until well after sunrise and often end up plastered over [tabloid newspapers](https://www.dailymail.co.uk/news/article-5859681/Britains-brightest-students-celebrate-end-exams-Cambridges-Ball.html) the day after. Tickets cost about £150 (~ $200) on average, and it is often expected that students will attend at least one ball during May Week.
 
-![The Selwyn college May Ball.](selwyn.jpg)
+{% image "selwyn.jpg" "The Selwyn college May Ball." %}
 
-![May Ball Fireworks](mayball.jpg)
+{% image "mayball.jpg" "May Ball Fireworks" %}
 
 May Week Alternative (MWA) is a student charity initiative which encourages students to put charity at the heart of their May Week in order to make an enormous positive impact and have a great time in the process. They do this by inviting students to make a donation significant to them – roughly the cost of a May Ball ticket if they can afford it – to charity. Almost all donations go to the recommended charity, the [Against Malaria Foundation](https://www.againstmalaria.com/), independently rated as one of the most cost-effective charities in the world. All donations are matched, so that 200% of the money that students give goes directly to charity. MWA then hosts our Summer Party during May Week where everyone who has joined MWA is invited to come and celebrate the end of the exams as well as the impact of their donation.
 
@@ -97,7 +97,7 @@ The MWA model breaks from other charitable events in that 100% (or 200% after do
 
 A second consequence of this model is that, through fostering a sense of in-person community, donors report feeling a sense of belonging to a shared purpose, and a resolved intent to donate next year. In turn, the hope is that this leads to longer-term charitable attitudes and even encourages members to start their own communities elsewhere: “it’s a chance to create something out of what would normally be a very individual experience.”
 
-![George talks during the garden party.](george3.jpg)
+{% image "george3.jpg" "George talks during the garden party." %}
 
 ## Building a movement
 
@@ -141,7 +141,7 @@ Students love to hate deadlines. So the idea of putting a deadline on the donati
 
 For proof students leave donations as close to the deadline as they do essays, the graph below depicts total donations over the month leading up to the 2019 deadline.
 
-![Total donations over the month preceding the deadline.](donation-graph.jpg)
+{% image "donation-graph.jpg" "Total donations over the month preceding the deadline." %}
 
 However, there’s also a real tension with the idea of imposing a donation deadline. Because although it may  encourage lots of donations close to the deadline, we also have to consider the social effects already discussed: the fact that people are more likely to donate once other people have (conspicuously) donated. How do you generate those social snowball effects without the initial lump of snow? And how can you capitalise on the momentum of big, fast snowballs if they grow at an agonising crawl before abruptly hurtling into the deadline (see graph)? Of course, MWA could just explain this problem and encourage people to donate earlier. But that’s unlikely to work on a mass scale without real incentives. The solution MWA came up with this year was offering to **triple** donations within the first 10 days of donations. This proved to be hugely successful, with more than double the number of individual donors and more total donations in those first 10 days alone than the entire previous year. The main benefit, however, was that the period after tripling ended but *before* the donation deadline now increased the likelihood that those who might not otherwise have joined to more seriously consider doing so, based on the new legitimacy-through-numbers of those who donated *during* tripling.
 
@@ -183,9 +183,9 @@ Around 400,000 people die every year from malaria. The risk of contracting malar
 
 The recommended £150 donation to May Week Alternative is doubled through matched funding to £300, which can protect more than 350 people from malaria. Since starting less than three years ago, May Week Alternative have protected more than 180,000 people from malaria.
 
-![Distributing bed nets.](road.jpg)
+{% image "road.jpg" "Distributing bed nets." %}
 
-![A bed net.](bednet.jpg)
+{% image "bednet.jpg" "A bed net." %}
 
 You can read more about AMF on GiveWell’s comprehensive [overview](https://www.givewell.org/charities/AMF).
 

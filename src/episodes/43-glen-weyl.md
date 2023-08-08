@@ -26,7 +26,7 @@ In our conversation, we discuss —
 
 <div class="episode-image_variable max-600">
 
-![Glen Weyl](glen.webp)
+{% image "glen.webp" "Glen Weyl" %}
 
 ##### Image credit: WIRED Magazine
 

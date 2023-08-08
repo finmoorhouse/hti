@@ -21,7 +21,7 @@ status: "live"
 
 <div class="episode-image_variable max-600">
 
-![Mike Hinge](mike.jpg)
+{% image "mike.jpg" "Mike Hinge" %}
 
 </div>
 

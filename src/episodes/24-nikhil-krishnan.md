@@ -18,7 +18,7 @@ In this episode, we discussed two broad topics. In the first half, Nikhil relate
 
 In the article below, we summarise and illustrate these key ideas; providing both more detail and further readings for listeners who want to find out more.
 
-![Nikhil Krishnan](nikhil.png)
+{% image "nikhil.png" "Nikhil Krishnan" %}
 
 <div class='aside'>
 <div>
@@ -132,7 +132,7 @@ Indeed, the Vienna Circle's appreciation for scientific methods influenced their
 
 In 1933, Gilbert Ryle in Oxford had read about the Vienna circle, and encouraged one of his tutees, [A. J. Ayer](https://plato.stanford.edu/entries/ayer/), to travel to Vienna on a fact-finding mission. Despite his patchy knowledge of German, Ayer was taken by what he learned. Shortly afterwards, he wrote a short and inflammatory book called *[Language, Truth, and Logic](https://en.wikipedia.org/wiki/Language,_Truth,_and_Logic)*. In the book, Ayer espouses logical positivism and marked a clean break with the stuffy, highfalutin dons of old.
 
-![The Radcliffe Camera and All Souls College in Oxford](oxford.jpg)
+{% image "oxford.jpg" "The Radcliffe Camera and All Souls College in Oxford" %}
 
 ##### The Radcliffe Camera and All Soul's College in Oxford
 
@@ -262,7 +262,7 @@ This all raises the question of what role journals *ought* to play, in an ideal 
 
 In the actual world however, there is remarkably little correlation between a journal's [h-index](https://en.wikipedia.org/wiki/H-index) (a measure of its influence), and the estimated chance that a given article from that journal is replicable. The figure below comes from [fantasticanachronism.com](https://fantasticanachronism.com/).
 
-![H-Index vs Replicability](h-index.png)
+{% image "h-index.png" "H-Index vs Replicability" %}
 
 Yet, something does seem to be wrong with the current model. Plausibly, many journals charge and make an amount of money which far exceeds the value they provide. In other words, they're [rent-seeking](https://en.wikipedia.org/wiki/Rent-seeking): increasing their share of wealth without creating new value. As a 2013 article in *Nature* puts it —
 

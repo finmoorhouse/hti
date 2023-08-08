@@ -14,7 +14,7 @@ status: "live"
 
 [Eva Vivalt](https://evavivalt.com/) is an Assistant Professor in Economics at the University of Toronto. Her work is focused on reducing barriers to evidence-based decision-making, global priorities research, and cash transfers.
 
-![Eva Vivalt](eva.jpg)
+{% image "eva.jpg" "Eva Vivalt" %}
 
 In this episode, we discuss Eva's work on causal inference and forecasting in the social sciences. We begin by discussing how surprisingly little studies in development economics tend to generalise across different contexts and the challenges this creates for global health interventions. We touch upon the differences between "internal" and "external" validity, how academic studies affect beliefs and potential consequences for longtermism.
 
@@ -57,7 +57,7 @@ Whilst there are considerable benefits to basing policy on more empirical and ex
 
 Perhaps this isn't so obvious. Why wouldn't we expect to get the same results we ran in a study elsewhere? If insanity is "doing the same thing over and over again and expecting different results", then surely the sane thing to do is to assume just that? There are two categories of reasons why one study's results might not hold elsewhere: internal and external validity.
 
-![Studies and results](studies.png)
+{% image "studies.png" "Studies and results" %}
 
 ##### Source: [AidGrade](https://www.aidgrade.org/)
 
@@ -122,7 +122,7 @@ Essentially, we can think of El Niño as an "additional context" $C$, which crea
 
 One way to solve this problem is to run a new set of RCTs altogether and try just to measure $\delta_1$. But doing this at the large scale that MK did is very expensive and takes a long time (we still have results coming out [20 years later](https://www.nber.org/papers/w27611)). Moreover, the MK study does have lots of interesting and useful information, which we don't just want to discard. An alternative way is to be careful when interpreting these findings in other contexts. For example, GiveWell uses MK's studies but [adjust](https://docs.google.com/spreadsheets/d/16XOOB1oWse1ICbF0OVXUYtwWwpvG3mxAAQ6LYAAndQU/edit#gid=472531943) their results by 13% and [explicitly account](https://docs.google.com/document/d/18G1ibple0cSP5qk9dCyru_MLe6ghc8qbIqC1ryJCi3o/edit#) for countries' different worm burdens. Thereby GiveWell essentially tries to estimate what $\delta_3$ is and tease out $\delta_1$ accordingly. Doing so, they still conclude that deworming is one of the most cost-effective interventions in global health.
 
-![AidGrade](aidgrade.jpg)
+{% image "aidgrade.jpg" "AidGrade" %}
 
 #####  Giving out deworming tablets (Source: [The Good Life Orphanage](https://www.flickr.com/photos/63905858@N00/27273663902/in/photostream/))
 
@@ -168,7 +168,7 @@ Eva's critical insight into this external validity question is measurable and te
 
 Eva set out to do this when she founded [AidGrade](https://www.aidgrade.org/), creating a data set of 15,000+ estimates from 600+ papers on 20 types of interventions in international development. Plotting out these meta-analyses, we get the following figure (click [here](https://www.aidgrade.org/meta-analysis) for an interactive version):
 
-![Variation](variation.png)
+{% image "variation.png" "Variation" %}
 
 ### Measuring external validity
 
@@ -233,7 +233,7 @@ If we know that existing studies often fail to generalise, and if running new st
 
 In the second part of our interview, we then explore her work on the [Social Science Prediction Platform](https://socialscienceprediction.org/). It allows researchers to collect and assess an array of expert forecasts of various studies' effects before they run them.
 
-![SSPP](sspp.png)
+{% image "sspp.png" "SSPP" %}
 
 ### [Predict science to improve science](https://science.sciencemag.org/content/366/6464/428.full)
 
@@ -241,7 +241,7 @@ Together with Stefano DellaVigna and Devin Pope, Eva lays out in an [article](ht
 
 Firstly, if academics are pretty good at forecasting studies in advance, we can use their judgements to inform decisions in areas where runnings those studies might not be possible. For example, [DellaVigna and Pope (2018)](https://www.nber.org/papers/w22566) found that a group of 200 forecasters could predict a range of treatments to induce effort very well. We show this in the figure below. As a group, they outperformed 96% of individual forecasts.
 
-![DellaVigna and Pope (2018)](effort.png)
+{% image "effort.png" "DellaVigna and Pope (2018)" %}
 
 #####  Source: DellaVigna and Pope (2018)
 

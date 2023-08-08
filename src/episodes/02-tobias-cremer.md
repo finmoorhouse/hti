@@ -9,7 +9,7 @@ backgroundImage: "./cross.jpg"
 status: "live"
 ---
 
-![Tobias Cremer](tobias.jpg)
+{% image "tobias.jpg" "Tobias Cremer" %}
 
 Tobias Cremer is a PhD student in Politics and International Studies. His thesis examines the relationship between right-wing populism and religion in Western Europe and North America.
 
@@ -21,7 +21,7 @@ We begin by discussing Toby’s background in international relations, and his f
 - [The Road to Somewhere](https://www.goodreads.com/en/book/show/32446555) by David Goodhart
 - [Is Europe Christian?](https://www.goodreads.com/book/show/48715693) by Olivier Roy
 
-![Toby’s recommendations](book-choices.jpg)
+{% image "book-choices.jpg" "Toby’s recommendations" %}
 
 ## Religion as belief or cultural identity?
 
@@ -31,7 +31,7 @@ In the last half-decade or so, this relationship has seen some curious changes. 
 
 Toby’s account begins with the claim that right-wing populists attempt to embrace Christianity as an *identity marker* while remaining, when necessary, at arms length from ‘genuine’ Christian values and beliefs. They help themselves to its distinctive symbols and language while failing to engage with the teaching itself. Curiously, this strategy is most successful among irreligious voters and non-practicing ‘cultural’ Christian voters. On the other hand, practicing (church-going) Christians apparently remain immune to the ‘new look’ populist parties. Here the success of the right-wing nationalist AfD (Alternative for Germany) party is plotted over recent elections and broken down by religious affiliation.
 
-![afd-graph](afd-graph.png)
+{% image "afd-graph.png" "afd-graph" %}
 
 Similarly, the Front National in France and the Lega in Italy perform badly among Catholics and regular churchgoers. Trump, too, did better among non-practicing evangelicals than regular churchgoers (although the picture is more nuanced in Trump’s case).
 

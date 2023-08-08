@@ -23,7 +23,7 @@ In this episode, we discuss:
 
 <div class="episode-image_variable max-500">
 
-![Doyne Farmer](doyne.jpg)
+{% image "doyne.jpg" "Doyne Farmer" %}
 
 </div>
 

@@ -23,7 +23,7 @@ Thanks for listening! We'd love to hear what you thought about it — email us a
 
 In the article below, we summarise and illustrate these key ideas; providing both more detail and further readings for listeners who want to find out more.
 
-![Leah and Manja](leah-and-manja.jpg)
+{% image "leah-and-manja.jpg" "Leah and Manja" %}
 
 ##### From left to right: Leah, Amelia the cat, and Manja 
 
@@ -53,7 +53,7 @@ Whilst many people might be aware of the extreme scale of meat production (see o
 
 And yet, this massive imbalance is not even close to being reflected in the proportions of charitable donations which go to animal charities: only 0.8% goes to charities specifically focusing on farmed animals, whilst 66% goes to shelters. Farmed animals are underrepresented by a factor of 124.5 (=99.6/0.8); sheltered animals are overrepresented by a factor of 2,200 (=1/ 0.03/66). Thus, on a per animals killed basis, sheltered animals recieve 273,900 times more charitable donations than farmed animals.
 
-![Animal donations](animal-donations.jpg)
+{% image "animal-donations.jpg" "Animal donations" %}
 
 ##### Source: ACE ["Why Farmed Animals?" (2016)](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/)
 
@@ -90,7 +90,7 @@ More generally, ACE focuses on just a few selected charities (thirteen in 2020) 
 
 Using the above mentioned "menu of outcomes", ACE can first create a theory of change for each charity considered. This method helps ACE systematically categorise a charity's interventions and thus get a better understanding of the total impact created. Below is an example for [The Good Food Institute](https://www.gfi.org/).
 
-![GFI Theory of change](gfi.jpg)
+{% image "gfi.jpg" "GFI Theory of change" %}
 
 Source: ACE ["The Good Food Institute" (2020)](https://animalcharityevaluators.org/charity-review/the-good-food-institute/#comprehensive-review)
 
@@ -192,7 +192,7 @@ As the graphs show below, in just four years, "EA donations" have increased more
 
 Contrast this to other cause areas, like global health and development. Even though the nominal amount of EA donations is larger ($275m), the relative share this makes up of total humanitarian aid still tiny (0.01%). Thus, charity evaluators in those areas — like GiveWell — do not need to worry too much about e.g. skewing incentives.
 
-![EA Influence](ea_gifts.png)
+{% image "ea_gifts.png" "EA Influence" %}
 
 Manja also notes the influence EA is beginning to have in many other ways as well. Examples include EA speakers becoming present at animal advocacy conferences, and EA ideas gaining popularity within organisations which are not explicitly affiliated with EA.
 

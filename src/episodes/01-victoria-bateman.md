@@ -9,7 +9,7 @@ backgroundImage: "industry.jpg"
 status: "live"
 ---
 
-![Victoria Bateman](vb.png)
+{% image "vb.png" "Victoria Bateman" %}
 
 Dr Bateman is a fellow in economics at Gonville & Caius college Cambridge. Her research encompasses economic history, macroeconomics, and feminism.
 
@@ -24,7 +24,7 @@ Victoria Bateman's book recommendations:
 - [Gender and Economics](https://books.google.co.uk/books?id=36MEAQAAIAAJ&q=gender+and+economics&dq=gender+and+economics&hl=en&sa=X&ved=0ahUKEwiVzrHl8obnAhWPh1wKHejADiEQ6AEIKDAA) by Jane Humphries
 
 
-![Victoria’s book recommendations](victoria-book-choices.jpg)
+{% image "victoria-book-choices.jpg" "Victoria’s book recommendations" %}
 
 ## The Industrial Revolution and why it matters
 

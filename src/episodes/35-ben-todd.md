@@ -27,7 +27,7 @@ In our interview, we discuss:
 - Whether longtermism should be considered a research project or a social movement;
 - Should effective altruism have an artistic movement?
 
-![](ben2.jpg)
+{% image "ben2.jpg" "Ben Todd" %}
 
 ## Ben's Recommendations
 
@@ -70,7 +70,7 @@ In our interview, we discuss:
 - [Sanjay Joshi on Charity Evaluation and Nonprofit Entrepreneurship](https://hearthisidea.com/episodes/sanjay)
 - The[ DCP-2 and DCP-3 reports](http://dcp-3.org/dcp2) (on global health interventions)
 
-![Interventions by effectiveness](dcp2.png)
+{% image "dcp2.png" "Interventions by effectiveness" %}
 
 ##### Health interventions ordered by effectiveness, from the Disease Controls Priorities Project 2
 

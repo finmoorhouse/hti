@@ -18,7 +18,7 @@ Carl previously worked with [The Century Foundation](https://tcf.org/) and the [
 
 <div class="episode-image_variable">
 
-![Carl Robichaud](carl.jpg)
+{% image "carl.jpg" "Carl Robichaud" %}
 
 </div>
 
