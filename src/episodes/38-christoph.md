@@ -22,7 +22,7 @@ status: "live"
 
 <div class="episode-image_variable max-600">
 
-![](images/christoph.jpg)
+![](christoph.jpg)
 
 </div>
 
@@ -47,12 +47,12 @@ How legal academics think the law should and does protect future generations –
 > We asked [legal academics], among other things, to rate how much their legal system first currently does, and secondly, ideally should protect the welfare -- the rights, interest, and well being of humans living now in the near future -- between now and in 25 years time, medium future (25 to 100 years time), and far future (100+ years from now).
 > We can see that the gap gets bigger and bigger. That there's not a zero discount rate with regards to the desired level of protection by law professors. But it's not nearly as strong as law professors think it currently is. [...] What [legal protection] should be for humans living in 100 plus years, is roughly the level of protection humans living right now receive. And the estimate that the current level of protection for humans in the far future [...] is roughly a third of what law professors think the protection ought to be
 > The gap between the current and desired level of protection is biggest with regards to humans in the far future. Even greater than the gap for non human animals, the environment, humans outside the jurisdictions -- you name it. It is bigger than for any other group that we tested.
-![](images/legal-gap.png)
+![](legal-gap.png)
 
 How legal academics think law best can protect future generations –
 > The ones which performed best [legal mechanisms that academics believe can protect future generations] were constitutional law and environmental law. But you might want to be a bit careful about this, because strikingly -- and I think this is one of the funniest results -- environmental law performed even better than law as a whole [...] Eric and I speculate this may be related to the conjuction fallacy
 > According to law professors, climate change scores really high, which also makes some sense, because we know a lot more with regards to how to mitigate the effects of climate change than, say, how to solve the AI alignment problem. And so because we know more about how to mitigate these effects, they might be more confident in saying that, it's more likely that we can have these predictable and feasible effects on the long term future by working on this area.
-![](images/legal-protections.png)
+![](legal-protections.png)
 
 ### Further Reading
 - [Conjunction Fallacy](https://en.wikipedia.org/wiki/Conjunction_fallacy)

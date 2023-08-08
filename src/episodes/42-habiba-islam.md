@@ -21,7 +21,7 @@ First off, here are two important links:
 
 <div class="episode-image_variable max-600">
 
-![Habiba Islam](images/habiba.jpg)
+![Habiba Islam](habiba.jpg)
 
 <h5>Image credit: <a href='https://www.bbc.com/news/business-59560538' target='_blank'>BBC</a></h5>
 
@@ -38,7 +38,7 @@ In our conversation, we discuss —
 - The case for being ambitious if you want to do good in your career
 - Concrete next steps for beginning the process of career planning
 
-![The 80k career advice team](images/80k-team.jpg)
+![The 80k career advice team](80k-team.jpg)
 
 ##### The 80k team of advisors. Image credit: [80,000 Hours](https://80000hours.org/2022/01/open-position-advisor/)
 

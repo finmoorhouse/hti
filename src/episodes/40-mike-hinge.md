@@ -21,7 +21,7 @@ status: "live"
 
 <div class="episode-image_variable max-600">
 
-![Mike Hinge](images/mike.jpg)
+![Mike Hinge](mike.jpg)
 
 </div>
 

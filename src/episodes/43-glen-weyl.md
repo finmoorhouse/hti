@@ -26,7 +26,7 @@ In our conversation, we discuss —
 
 <div class="episode-image_variable max-600">
 
-![Glen Weyl](images/glen.webp)
+![Glen Weyl](glen.webp)
 
 ##### Image credit: WIRED Magazine
 

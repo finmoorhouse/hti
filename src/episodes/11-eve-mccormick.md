@@ -11,7 +11,7 @@ google: "https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9oZW
 status: "live"
 backgroundImage: "images/pond.jpg"
 ---
-![Eve Portrait](images/eve-portrait-2.jpg)
+![Eve Portrait](eve-portrait-2.jpg)
 
 Eve McCormick is the co-director of Effective Altruism Cambridge and a grant recipient from the Centre for Effective Altruism. We begin by discussing some of the philosophical arguments that originally motivated the effective altruism (or ‘EA’) movement — before learning about its (fairly new) history. Next, Eve briefly surveyed some of the central concepts of EA: how are charities evaluated, what is ‘counterfactual reasoning’, and what is the ‘ITN’ framework? Some of these ideas are broadly applicable to a range of decision-making contexts. Effective altruism encompasses a diverse set of ‘cause areas’, which Eve also introduces. As well as donating money, an effective way to do good is to use your own time and skills to join those seeking to make a difference in some of the world’s most pressing problems. To this end, Eve explains how to begin thinking about a career-oriented around doing good. This write-up summarises our conversation and includes links and references for more information. Since this is such a big topic, this article provides only a satellite’s eye-view — you can dig deeper by following the links provided.
 
@@ -149,7 +149,7 @@ In giving examples, I have emphasised one cause area that effective altruists pa
 
 I also briefly mentioned another cause area: animal welfare. Since the vast majority of animals used and killed by humans are farm animals, efforts in this regard tend to focus on pressuring governments and producers to improve animal welfare standards, and on advocating for consumers to make choices which send price signals to those producers (such as giving up meat). In this chart taken from Animal Charity Evaluators, we see how charitable giving is starkly and sadly inconsistent with the numbers:
 
-![ACE Graph](images/ace-graph.jpg)
+![ACE Graph](ace-graph.jpg)
 
 ### **Longtermism**
 

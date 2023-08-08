@@ -19,7 +19,7 @@ Michael is a senior research manager at [Rethink Priorities](https://www.rethink
 <div class="episode-image_variable max-600">
 
 
-![Michael Aird](images/michael.jpg)
+![Michael Aird](michael.jpg)
 
 </div>
 

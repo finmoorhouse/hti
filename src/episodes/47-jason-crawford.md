@@ -22,7 +22,7 @@ Jason Crawford is the founder of [The Roots of Progress](https://rootsofprogress
 
 <div class="episode-image_variable max-600">
 
-![Jason Crawford](images/jason.jpg)
+![Jason Crawford](jason.jpg)
 
 </div>
 

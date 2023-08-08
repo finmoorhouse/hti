@@ -15,7 +15,7 @@ status: "live"
 
 This episode is a recording of a [live interview](https://www.youtube.com/watch?v=OMIWsrS39dI&list=PLwp9xeoX5p8PJKPaLePz_nrsQT6Z8X7GQ&index=19) at [EAGx Cambridge](https://www.effectivealtruism.org/ea-global/events/eagxcambridge) (2023). You can [watch the video version of the conversation here](https://www.youtube.com/watch?v=OMIWsrS39dI&list=PLwp9xeoX5p8PJKPaLePz_nrsQT6Z8X7GQ&index=19), and you can [find upcoming effective altruism conferences here](https://www.effectivealtruism.org/ea-global).
 
-![Anders Sandberg at EAGx Cambridge](images/anders.jpg)
+![Anders Sandberg at EAGx Cambridge](anders.jpg)
 
 We talk about:
 
@@ -262,7 +262,7 @@ I like the analogy that diamond anvils are a bit like telescopes, but for pressu
 
 Going back to the topic of the book, Grand Futures, one question I have is how big does the future need to be in order to kind of stop being action guiding? One specific example I have here is imagine I kind of go and read the book and check some equation. And then it turns out [Dyson spheres](https://en.wikipedia.org/wiki/Dyson_sphere) no longer support ten to the N humans, but ten to the N plus one humans. At what point does that no longer matter in terms of what I should be doing today? 
 
-![An astronaut](images/space-ship.png)
+![An astronaut](space-ship.png)
 
 ### Is value linear with the number of people?
 
@@ -400,7 +400,7 @@ Can we predict the rate of technological change? Again, we know that we're pret
 
 But the downside is, of course, these radical futures could have radical downsides, which is one reason why a lot of us old transhumanists ended up in existential risk research. We're very optimistic and rather scared about some of the shades we get from that very bright future. 
 
-![An astronaut](images/dyson-sphere.png)
+![An astronaut](dyson-sphere.png)
 
 ### The 'perpetual PhD' approach to life
 

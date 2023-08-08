@@ -101,13 +101,13 @@ Jaime has recently been investigating the evidence for 'cultural persistence'. T
 
 We discuss the seminal work by Nathan Nunn (2008) "[The Long Term Effects of Africa's Slave Trades](https://scholar.harvard.edu/nunn/publications/long-term-effects-africas-slave-trades)". The paper specifically looks at the example of the African slave trade to see if it can explain country's underdevelopment today. It bases this hypothesis on a rich historical literature on how people of similar African ethnicities enslaved each other to sell to European traders, creating ethnic fractionalisation that influences today's civil strife and low level of trusts. Or crudely put, Slave trade → Historically ethnic fractionalisation → Post-colonial low levels of trust → Underdevelopment.
 
-![Distance Instruments Example](images/burkina-faso.jpg)
+![Distance Instruments Example](burkina-faso.jpg)
 
 ##### Source: Nunn (2008)
 
 To empirically quantify this effect, Nunn makes use of a novel instrumental variable, whereby the sailing distances from each African country to the ports where slaves were traded 'instruments' for the number of slaves exported. Doing this, he finds a significant negative relationship between slave trade and economic development today.
 
-![Relationship between slave exports and per capita GDP](images/exports.jpg)
+![Relationship between slave exports and per capita GDP](exports.jpg)
 
 ##### Source: Nunn (2008)
 

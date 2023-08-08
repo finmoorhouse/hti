@@ -15,7 +15,7 @@ status: "live"
 [Isabelle Boemeke](https://twitter.com/isabelleboemeke) is a model, digital fashion designer, and the world's first (and only) nuclear power influencer. She makes educational videos as [Isodope](https://i-sodope.com/).
 <div class="episode-image_variable eiv-700">
 
-![Isabelle Boemeke](images/isabelle_2.jpg)
+![Isabelle Boemeke](isabelle_2.jpg)
 <h5>Image credit: Isabelle Boemeke</h5>
 </div>
 
@@ -50,7 +50,7 @@ Thanks for listening! We'd love to hear what you thought about it — email us a
 
 <div class="episode-image_variable eiv-700">
 
-![Isabelle Boemeke](images/isabelle.png)
+![Isabelle Boemeke](isabelle.png)
 <h5>Image credit: Isabelle Boemeke / Energy for Humanity</h5>
 </div>
 
@@ -82,7 +82,7 @@ Thanks for listening! We'd love to hear what you thought about it — email us a
 
 <div class="episode-image_variable eiv-600">
 
-![](images/reactor.jpg)
+![](reactor.jpg)
 <h5>Above: <a href='https://en.wikipedia.org/wiki/Cherenkov_radiation'>Cherenkov radiation</a></h5>
 </div>
 
@@ -101,7 +101,7 @@ Thanks for listening! We'd love to hear what you thought about it — email us a
 
 <div class="episode-image_variable eiv-600">
 
-  ![Nuclear power plant](images/nuclear-power-plant.jpg)
+  ![Nuclear power plant](nuclear-power-plant.jpg)
 
 </div>
 

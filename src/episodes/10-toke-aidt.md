@@ -45,7 +45,7 @@ This argument is obviously very controversial but it has sparked a huge amount o
 
 In economics this is known as a **covert auction** where corruption effectively introduces a price mechanism where the government decided to remove it. And prices/auctions can be really good at rationing out resources in short supply to those who need them the most. This is closely linked to what is known as the [Coase Theorem](http://www2.econ.iastate.edu/classes/tsc220/hallam/Coase.pdf)  (see also [McCloskey's](https://www.jstor.org/stable/40325879?seq=1#metadata_info_tab_contents) take on it), which shows how under the right circumstances bargaining can be a very powerful tool create 'Pareto efficient' outcomes.
 
-![Corruption sign](images/corruption-sign.jpg)
+![Corruption sign](corruption-sign.jpg)
 
 ### Aidt shows there is little evidence for efficient corruption
 
@@ -67,7 +67,7 @@ So what was wrong with our queue example above? Aidt argues that the mistake mad
 
 - But price depends on quantity. The fewer licenses there are, the higher a price you can charge. This creates a trade-off that we can show by what is known as a **laffer curve**:
 
-  ![Laffer curve](images/laffer.png)
+  ![Laffer curve](laffer.png)
 
 -  If there was an unlimited supply of licenses, no one would be willing to pay a bribe. If there were no licenses at all no one is able to pay a bribe. There exists some sweet spot in-between.
 
@@ -115,6 +115,6 @@ Let us think how a corruption trap works in practice. Imagine we begin in a high
 - We begin with little corruption. This means the risk of any single corrupt individual being detected is very high. Hence few people choose to be corrupt. This reinforces the fact we have little corruption. The cycle repeats.
 - These cycles cause a convergence to either stable equilibirum H or L. There is also unstable equilibirum (i.e. cut-off point) M where a nudge to either side can completely change the trajectory.
 
-![Corruption trap](images/corruption-trap.jpg)
+![Corruption trap](corruption-trap.jpg)
 
 If we are in world H, this makes fighting corruption very difficult. Any nudges along the line will be self-defeating as the reinforcing cycles just push us back to where we began. The only solution is a a 'big push' i.e. escape all the way up to M or eliminate high equilibirums all together (see dotted line). What this means in practice has been shown by [Skidmore (1996)](https://journals.sagepub.com/doi/abs/10.1177/0002716296547001010): a drastic change in corruption attitudes and huge punishments for those caught was the only thing that could eliminate entrenched corruption in Hong Kong in the 70s.

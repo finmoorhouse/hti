@@ -16,7 +16,7 @@ Jaime Sevilla is the Director of [Epoch](https://epochai.org/), a team of resear
 
 <div class="episode-image_variable">
 
-![Jaime Sevilla](images/jaime.jpg)
+![Jaime Sevilla](jaime.jpg)
 
 </div>
 

@@ -16,7 +16,7 @@ status: "live"
 
 <div class="episode-image_variable">
 
-![Greg Nemet](images/greg.webp)
+![Greg Nemet](greg.webp)
 
 </div>
 
@@ -49,7 +49,7 @@ In this episode, we discuss:
 * [National Innovation Systems](https://en.wikipedia.org/wiki/National_innovation_system) and [technology lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in#Technology_lock-in)
 * Solar niche markets graph —
 
-![Niche markets](images/niche-markets.jpg)
+![Niche markets](niche-markets.jpg)
 
 ## Transcript
 

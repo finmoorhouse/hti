@@ -26,7 +26,7 @@ Keith is perhaps best known for his 'illusionist' theory of consciousness: the v
 <div class="episode-image_variable max-600">
 
 
-![](images/Keith-Frankish.jpg)
+![](Keith-Frankish.jpg)
 
 </div>
 

@@ -16,7 +16,7 @@ status: "live"
 
 <div class="episode-image_variable">
 
-![Chris Miller](images/chris-miller.jpeg)
+![Chris Miller](chris-miller.jpeg)
 
 </div>
 

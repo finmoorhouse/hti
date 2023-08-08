@@ -14,7 +14,7 @@ status: "live"
 
 [Rory Stewart](https://www.rorystewart.co.uk/about-rory/) is the President of [GiveDirectly](https://www.givedirectly.org/) and a visiting fellow at Yale’s [Jackson Institute for Global Affairs](https://jackson.yale.edu/). Before that, Rory was (amongst other things) a Member of Parliament in the UK, a Professor in Human Rights at Harvard, and a diplomat. He is also the author of [several books](https://en.wikipedia.org/wiki/Rory_Stewart#Writing_and_documentaries) and co-hosts the podcast [The Rest Is Politics](https://podcasts.apple.com/gb/podcast/the-rest-is-politics/id1611374685).
 
-![Rory Stewart](images/rory.jpeg)
+![Rory Stewart](rory.jpeg)
 
 In this episode, we talk about:
 
@@ -112,7 +112,7 @@ If the room for more funding is only limited in some sense of maybe 500 million 
 
 The governments will very comfortably make grants. I mean, bureaucracies that are dealing with 20 billion prefer to make larger grants because the admin costs are lower. They prefer to make grants of 10, 20, 30 million if they can, and dream to make 100 million dollar grant. But no, they certainly could. I think it's partly about values and what people's priorities are. In the case of DFID, the central priority was extreme poverty. It wasn't life expectancy or infant mortality, and that is important. *Some* money went into that. In fact, DFID was a big supporter of Gavi and the Vaccine Alliance. Primarily the question that it would have been asking when it was shown a project is: what is the contribution of this to lifting the extreme poor out of poverty? Not what is the contribution of this to ensuring that, bluntly, that fewer children die? That's one of the questions around a number of these evaluators, which are putting a very strong weight on life and perhaps less of a weight on improving people's material conditions. 
 
-![A GiveDirectly meeting](images/rory-bg-3.png)
+![A GiveDirectly meeting](rory-bg-3.png)
 
 ### How can governments get more ambitious about overseas aid?
 
@@ -234,7 +234,7 @@ Firstly, you're absolutely right. Mobile technology was totally vital. The devel
 
 But technology actually has other benefits too. One of the things that we've been doing in urban areas where the urban poor own phones is use artificial intelligence for targeting. We do it by analyzing how individuals use their phones, who they call, who the people that they call, where those phones are located, how much is spent on those phones. And in an article in. Nature. A year ago, we argued very strongly on the basis of a collaboration, the University of California and the government of Togo, that the results suggest that you can get information comparable to a 60 minutes household survey from the use of this algorithm.
 
-![A GiveDirectly meeting](images/rory-bg-1.jpg)
+![A GiveDirectly meeting](rory-bg-1.jpg)
 
 A 60 minutes household survey can take up to a year to survey a group in a country. This allows us to gather the information in a matter of hours and during COVID to pay over 100,000 people in urban areas almost immediately. So technology can make a huge difference. There are many other things that we think technology could be used for, including fraud detection.
 

@@ -18,7 +18,7 @@ In our conversation, we discuss the influence of the late philosopher Derek Parf
 
 *Note that while the remainder of this article was written using he/him pronouns, [SJ](https://sjbeard.weebly.com/) now uses they/them pronouns.*
 
-![SJ](images/simon.jpg)
+![SJ](simon.jpg)
 
 ##### Source: Arts and Humanities Research Council
 
@@ -67,7 +67,7 @@ SJ's engagement with philosophy began with [Civilisation I](https://en.wikipedia
 
 > One of the things I noticed quite early on was that if you were the first person to research philosophy, you got another tech for free... having had that seminal experience, I decided — whatever this thing was  — that this was something I wanted to do.
 
-![Civilisation I](images/civ.png)
+![Civilisation I](civ.png)
 
 At age 11 or 12, SJ learned about the PPE course at Oxford University, and "that sounded to me like the degree you should study if you wanted to be good at Civilisation or to do the grand things that Civilisation talks about and plays with". He earned a place on the course — at which point, "I was no longer thinking about life in terms of a video game... I still really liked to do philosophy... but I would really really like to find a way that philosophy can be useful and worthwhile, because it seemed to me that a huge amount of what philosophers talked about wasn't useful or worthwhile."
 
@@ -89,7 +89,7 @@ And it all started out with a game mechanic in the first Civilisation game!
 
 In the interview, we asked about why Parfit's writing was so influential — on SJ personally, and for the world of moral philosophy in general. Why was Parfit's approach special? To answer this question, SJ suggested, we need to consider his biography.
 
-![Parfit](images/parfit.jpg)
+![Parfit](parfit.jpg)
 
 ##### Source: [Steve Pyke](https://www.pyke-eye.com/Published-Books/Philosophers-Volume-I/1/caption)
 
@@ -99,7 +99,7 @@ Parfit originally intended to study history. He was, "by all accounts, one of th
 
 This, for SJ, explains how Parfit prodigious creative force: "he was able to see a problem and just love it as a problem." So many problems Parfit addressed — from the nature of personal identity, issues in distributive ethics, the search for a 'Theory X' of population ethics, and many more — amounted to a "bottomless pit of doom". But, SJ reflects, that was almost the point: "in exploring this bottomless pit of doom, and its intricate caves, you find many hidden treasures".
 
-![All Souls, Oxford](images/allsouls.jpg)
+![All Souls, Oxford](allsouls.jpg)
 
 When the Victorian [utilitarian](https://www.utilitarianism.net/) moral philosopher [Henry Sidgwick](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick) was asked about his book, Parfit once related, “Sidgwick said that its first word was Ethics, and its last failure. This could have been the last word of my [book]." And yet, SJ adds, "for any young philosopher that is such a wonderful thing to come across". The comparison between Parfit and Sigwick is a surprisingly fruitful one. As SJ relates, it was often said of Sidgwick that
 
@@ -191,7 +191,7 @@ As SJ puts it, the challenge for him is that the theories of population ethics h
 
 Despite the relative novelty of bringing modern, rigorous methods to bear on the problems, existential risk research has a rich intellectual heritage. This in contrast to the widely-held perception (according to SJ) that concern for existential risk only emerged at some point in the early 2010s. "That's patently false" he says "people have been worrying about this stuff for centuries".
 
-![Mary Shelley](images/mary-shelley.jpg)
+![Mary Shelley](mary-shelley.jpg)
 
 ##### Mary Shelley
 
@@ -225,7 +225,7 @@ Individuals rely on global systems, but the systems themselves rely on one anoth
 
 > The point we're making with that paper is: if you look at what could go wrong with climate change, the most likely situation is some kind of general systemic collapse of the global order — of complex societies, organised states, global trade... the thing that's going to trigger that isn't one cataclysmic event, this kind of 'Day After Tomorrow' scenario.
 
-![The Day After Tomorrow](images/DAT.webp)
+![The Day After Tomorrow](DAT.webp)
 
 ##### The Day After Tomorrow: not likely
 
@@ -245,7 +245,7 @@ Yet, none of these enormous issues can be tackled by lone researchers, or even g
 
 In order to prioritise work on the most pressing risks, and to understand how various existential risks compare to one another in likelihood, it seems necessary to attribute probabilities to risks. In some cases, this seems harmless enough — for instance, we can narrow the odds of a catastrophic asteroid collision within a given century to within a fairly narrow bound based on records of previous collisions, and the orbits of known '[potentially hazardous asteroids](https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17041)' (PHAs). We also know something about the effects of such a major collision, because we have good reason to believe that the earth has experienced at least one [previous instance](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), which caused a mass extinction event.
 
-![Orbits](images/orbits.jpg)
+![Orbits](orbits.jpg)
 
 ##### Orbits of known PHAs. Source: [NASA](https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17041)
 

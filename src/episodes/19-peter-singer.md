@@ -131,7 +131,7 @@ Peter's second point is that pointing to their lack of important cognitive or se
 
 > [T]he question is not, Can they reason? nor, Can they talk? but, Can they suffer? — Bentham, *[Introduction to the Principles of Morals and Legislation](http://www.self.gutenberg.org/wplbn0001162153-an-introduction-to-the-principles-of-morals-and-legislation-by-bentham-jeremy.aspx?)*
 
-![Jeremy Bentham](images/bentham2.jpg)
+![Jeremy Bentham](bentham2.jpg)
 ##### Jeremy Bentham
 
 Peter notes —
@@ -274,9 +274,9 @@ Incidentally, it turns out that a country's wealth is a very strong determinant 
 
 If you think that current factory farming practices typically involve enormous harms and wastes, this is so far all bad [news](http://news.Is). What about the other side of the story?
 
-Firstly, several pieces of legislation have been passed banning the more egregious tools and methods of factory farming. One examples is [Directive 1999/74/EC](https://en.wikipedia.org/wiki/Directive_1999/74/EC), which enforced a minimum standard for keeping egg-laying hens; effectively banning battery cages. Unfortunately, legislative efforts still seem to focus on the small subset of animals raised [as pets](https://www.gov.uk/guidance/animal-welfare-legislation-protecting-pets). This is also true of money donated to animal charities, as this arresting [chart](images/animal-donations.png) shows.
+Firstly, several pieces of legislation have been passed banning the more egregious tools and methods of factory farming. One examples is [Directive 1999/74/EC](https://en.wikipedia.org/wiki/Directive_1999/74/EC), which enforced a minimum standard for keeping egg-laying hens; effectively banning battery cages. Unfortunately, legislative efforts still seem to focus on the small subset of animals raised [as pets](https://www.gov.uk/guidance/animal-welfare-legislation-protecting-pets). This is also true of money donated to animal charities, as this arresting [chart](animal-donations.png) shows.
 
-![Donation chart](/images/animal-donations.jpg)
+![Donation chart](animal-donations.jpg)
 
 However, perhaps the *best* news for animal advocates is the rapid growth of the plant-based meat market. [Dollar sales](https://www.gfi.org/marketresearch) in the U.S. alone nearly reached $1 billion in 2019, and plant-based milk already accounts for around 15% of the milk market. More importantly, plant-based sales have [grown](https://www.gfi.org/images/manual/specific-pages/nielsen/media-kit/Plant-Based%20Meat%20Market%20Growth%202017%20to%202019.png) more than 15% YoY since 2017, and show no signs of stopping. The great hope of advocates for meat alternatives is that these products (eventually including cell-cultivated meat) will become so popular, tasty, and price-competitive that they will begin to significantly replace animal-derived meat — downscaling factory farmed meat in turn, and without ever needing to convince consumers through dour moral arguments!
 
@@ -422,7 +422,7 @@ Regardless of whether you agree with Singer on the specific issue of infant euth
 
 > He who knows only his own side of the case knows little of that. His reasons may be good, and no one may have been able to refute them. But if he is equally unable to refute the reasons on the opposite side, if he does not so much as know what they are, he has no ground for preferring either opinion... Nor is it enough that he should hear the opinions of adversaries from his own teachers, presented as they state them, and accompanied by what they offer as refutations. He must be able to hear them from persons who actually believe them...he must know them in their most plausible and persuasive form. — Mill, *On Liberty*
 
-![J S Mill reading](images/mill-reading.jpg)
+![J S Mill reading](mill-reading.jpg)
 
 ##### J S Mill Reading
 

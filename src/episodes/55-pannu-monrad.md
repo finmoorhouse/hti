@@ -17,11 +17,11 @@ In this episode, Luca talks to Jassi Pannu and Joshua Monrad.
 <div class="episode-image_variable max-500">
 
 
-![Jassi Pannu](images/jassi.jpg)
+![Jassi Pannu](jassi.jpg)
 
 <h5>Jassi Pannu</h5>
 
-![Joshua Monrad](images/joshua.jpg)
+![Joshua Monrad](joshua.jpg)
 
 <h5>Joshua Monrad</h5>
 

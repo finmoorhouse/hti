@@ -16,7 +16,7 @@ Dr [Matthew Ives](https://www.oxfordmartin.ox.ac.uk/people/dr-matthew-ives/) is 
 
 <div class="episode-image_variable max-600">
 
-![Matt Ives](images/matt.jpg)
+![Matt Ives](matt.jpg)
 <h5>Image credit: Oxford Martin School</h5>
 </div>
 
@@ -69,7 +69,7 @@ Bonus, in case you want to watch a video about garbage trucks:
 > [From the article:] Kick to the current state of the system, moving it onto a new trajectory without any change in the underlying system dynamics. If the new trajectory diverges rapidly from the old trajectory, then a small kick at the right point can trigger a large change. A small kick can be effective when the system is chaotic or when it is near a critical point [...] Shift in the underlying system dynamics, where the rules of the system themselves change and trajectories alter substantially. A shift can be effective even without a kick. In the socioeconomic-political sphere, a shift may entail a change in key concepts and institutions.
 
 **Solar Power—**
-![Solar costs](images/energy_cost.png)
+![Solar costs](energy_cost.png)
 > The costs have come down around 5,000x fold and in the last decade it's been declining 10%pa. We have not seen any evidence that this trend won't continue.
 
 > But the key point is that it's based on cumulative appointment. So say at some point you'll have half the world's energy system supplied by solar. You can only double that one more time. There will be certain decommissioning of old stock, but their's a natural end to how much you can deploy.
@@ -87,8 +87,8 @@ Bonus, in case you want to watch a video about garbage trucks:
 > You can imagine that there are all these assets out there that are on people's books, that will supposedly earn lots of money -- selling oil and gas. They are not worth what they are saying they are worth -- $80 a barrel, which their not. [Oil companies] are defiantly not ignorant of this, I imagine they are quite scared of this risk [...] If anyone is ignorant it is the financial markets, or at least they very optimistic about what the fossil fuel industry will do
 
 **Energy System Models—**
-![Solar costs](images/solar_cost.png)
-![Solar costs](images/solar_deployment.png)
+![Solar costs](solar_cost.png)
+![Solar costs](solar_deployment.png)
 > We would argue that you could these experience curves —or at least the outputs of these experience curve models— into IAMs. I would really like to see this happen, because I am convinced that you would come up with radically different answers. There is this very exciting solution space that these [contemporary] models are not investigating. And part of the reason is that these feedback loops are difficult to model in an optimisation problem, particularly in these big beasts
 
 > Much to the chagrin [of financial markets], their models don't provide any information on probability. Risk is likelihood times consequence. They can give you an idea of the consequence, but they can't give you an idea of the likelihood. [...] They are just projections into the future of certain scenarios. And you can say you believe in one scenario more than the other -- like the "rivalry scenario" or the "sustainability scenario". [...] Some people have taken the fan of all these possible scenarios and put them into a distribution of possible outcomes, but there is not necessarily any scientific credibility to doing that

@@ -11,7 +11,7 @@ apple: "https://podcasts.apple.com/gb/podcast/9-neel-nanda-on-effective-planning
 google: "https://podcasts.google.com/?feed=aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9oZWFyLXRoaXMtaWRlYQ&episode=aHR0cHM6Ly9waW5lY2FzdC5jb20vZ3VpZC8wMGNjMWE3ZC1hZmJjLTRjNzUtYTE0ZS0xZmZkMTY0MjQ3ODM&ved=0CAcQ38oDahcKEwigwviFuvfoAhUAAAAAHQAAAAAQAg"
 status: "live"
 ---
-![Neel Nanda portrait](images/neel.jpg)
+![Neel Nanda portrait](neel.jpg)
 
 Neel Nanda is a final year maths undergraduate at the University of Cambridge. He topped his year twice, and is a double gold medalist in the International Mathematical Olympiad. Neel also teaches regularly – from [revision lectures](https://www.youtube.com/channel/UCzoIa8e4vhfRIxL_Kj6yy0Q) and [notes](https://dynalist.io/d/ToOhEKlz9qC2PmpjgyTpXQJz) to a recent  ‘public rationality’ workshop series featuring sessions on habits and planning. Neel is also an active member in [rationalist](https://www.lesswrong.com/rationality) and [effective altruism](https://www.effectivealtruism.org/) communities.
 
@@ -50,7 +50,7 @@ Therefore, even if trying out a new work routine or learning a new study tool ca
 
 In order to understand what is meant by ‘habit’, consider the [Sphex](https://en.wikipedia.org/wiki/Sphex) wasp. Some species of this genus prepare nests for their eggs, which they stock with insect prey for the hatched baby wasps to feed on. The wasp will drop a paralysed insect near the opening of the nest, and will then enter the nest to inspect it. Normally, it will emerge from the nest after the inspection and carry the insect inside. But during this inspection, an experimenter can move the insect a few inches away from the opening. When the wasp sees this, it locates the insect and carries it back to the opening. Then something strange happens: the wasp inspects the nest again, before re-emerging to carry the insect inside. On some accounts, this can be repeated endlessly. Although the wasp behaves *as if* it were thinking through its behaviour, their vulnerability to being ‘short-circuited’ tells us that this behaviour is really *habitual* in the strongest sense: it is the product of a near-enough hard-coded if/then pattern. You can watch a video of this [here](https://www.youtube.com/watch?v=YNvi_j2z96w). Yet, absent meddling researchers, this simple algorithm is fantastically useful for the wasps. In that sense, it might be mechanically simple – but it is not *dumb* or *stupid*. Indeed, by combining enough of these basic reflexes, *intelligent* behaviour really does begin to emerge.
 
-![Sphex](images/sphex-2.jpg)
+![Sphex](sphex-2.jpg)
 
 Although humans are rarely so easily blindsided by such simple tricks, our minds do nonetheless also exhibit very similar kinds of if/then pattern. For instance, how many of us have absent-mindedly browsed our go-to social media app, closed the app out of boredom, and then reflexively *re-opened* the app to read the exact same content; before catching ourselves a few seconds later? Or instinctively pull out our phone when we feel a notification buzz, even if we know what the notification was? Or reply to the waiter’s “enjoy your meal” with the instantly regrettable “you too”?
 
@@ -76,7 +76,7 @@ Just like the trigger, your action should be concrete, specific, brief. And reme
 
 Having established your trigger–action pair, it is left to begin the process of *ingraining* the habit.  Suppose you want to kick your habit of scrolling through your phone: you choose the trigger of ‘my head hits the pillow’ and the action of ‘I turn off my phone and pick up a book’. A good TAP, to be sure, but you only get one chance to practice it per day. What if you wanted to accelerate the learning process? The solution is to artificially bring about the trigger: literally rehearse getting into bed and lying down. You lie back, your head hits the pillow, you roll over and grab a book. Rinse, repeat. 10 times, Neel suggests. This is going to feel weird and unnatural; but treat it like any other kind of practice. After all, nobody learns a killer forehand or masters the violin just by forming an intention to do so – no matter how strong. Just like any other kind of practice, the habit begins to embed itself through being repeatedly exercised. Once the habit has initially been locked-in through deliberate practice, you might even discover a benign spiral – the more automatic a habit becomes, the less effortful it becomes, the more likely you are to repeat it.
 
-![Habits algorithm.](images/habits.png)
+![Habits algorithm.](habits.png)
 
 ### Chaining and Compounding
 
@@ -84,7 +84,7 @@ You might be wondering what good are such small, incremental habits in achieving
 
 Moreover, although no single exercising of a habitual action makes a significant change, sticking to a habit over the long-term can lead to exponential returns. Suppose you invest the money you normally spend on take-out coffee every day, or smoke one less cigarette/drink/pizza slice per day, or commit to learning a skill for a few minutes each day. If the returns come in small fractional increments, then at first they might be dispiritingly small; before snowballing into noticeable changes. Consider these two self-explanatory graphs from James Clear’s excellent ‘[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)’.
 
-![](images/atomic-habits.jpg)
+![](atomic-habits.jpg)
 
 ## Effective Planning
 
@@ -96,7 +96,7 @@ Most of us make plans before undertaking big projects, particularly if they invo
 
 Wherever you look, people suck at planning. Even critical, multi-million dollar projects run over time and over budget like clockwork. Consider New York’s [Second Avenue Subway](https://en.wikipedia.org/wiki/Second_Avenue_Subway). The line, a short stretch of subway tunnel running under Second Avenue on the East Side of Manhattan, was originally proposed in 1920. Overground lines were demolished in anticipation of the new route in 1942 and 1955. Construction on the line itself finally began in 1972, with governor Nelson Rockerfeller holding a victorious ground-breaking ceremony. But a few years later, the plan was halted again due to a fiscal crisis, after only completing a few short sections. At this point, the subway had become its own punchline: New Yorkers would make promises “once the Second Avenue Subway was built.” New plans were drawn to finally complete the project in 2004 over four phases. Phase 1 was estimated to cost \$3.8 billion, but eventually ran \$500 million over budget, in part because the poor rock quality forced the constructors to literally *freeze* close to two blocks of earth. Phase 2 was estimated to cost \$3.4 billion, but that too ratcheted up to c. \$6 billion. The second phase is expected to open by 2027-2029, and I couldn’t even find any information about the third and fourth phases. Sure, running more than half a century and more than a billion dollars over expectations is *particularly* embarrassing, but were you shocked? On the whole, we’re desensitised to megaprojects running over budget and past successive deadlines: the real surprises are big projects that finish on time and within budget.  
 
-![The Second Avenue Subway during construction](images/sas3.jpg)
+![The Second Avenue Subway during construction](sas3.jpg)
 
 Of course, mega-projects don’t just fall foul of wild over-optimism on account of bad planning. There are clear incentives for warping facts, hiding complications, and exaggerating budgets and timeframes; particularly when multiple construction firms compete for a bid or when the projects underpin the public image of a politician or political agenda.  
 
@@ -118,7 +118,7 @@ How can we get better at planning, and make use of the outside view?
 
 ## An Algorithm for Better Plans
 
-![A flowchart showing the effective planning algorithm.](images/effective.png)
+![A flowchart showing the effective planning algorithm.](effective.png)
 
 We all know what it’s like to think “I should get round to doing $x$ at *some point*”, knowing we’re unlikely ever to do so. Therefore, Neel points out that the first failure mode is often failing to make a plan in the first place. So the zeroth step in planning more effectively is to decide to do so. Even if you do spend a few minutes to plan out your time, it is too easy to almost instantly forget about it:
 

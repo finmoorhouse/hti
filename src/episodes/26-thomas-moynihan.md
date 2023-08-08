@@ -14,7 +14,7 @@ status: "live"
 
 Thomas Moynihan is a writer and researcher interested in the history of ideas surrounding existential risk and human flourishing. He completed a PhD on the history of human extinction, and currently works with Oxford's Future of Humanity Institute. His most recent book is called [X-Risk: How Humanity Discovered Its Own Extinction](https://www.goodreads.com/book/show/54832738-x-risk).
 
-![Thomas Moynihan](images/tom.png)
+![Thomas Moynihan](tom.png)
 
 The book charts the gradual realisation of the "perils and promises" that face the human species. Today, we are becoming attuned to the notion that humanity's potential is both potentially enormous and entirely fragile: no laws of nature or outside forces secure us against a wide range of natural and anthropogenic threats. We also recognise the rarity and loneliness of our predicament as intelligent beings in an otherwise apparently sterile stellar neighbourhood. As Moynihan shows, the recognition of existential risk represents a dramatic and revealing turning point in the history of ideas, and the story that leads up to it is rich, expansive, and often surprising. In our conversation, we meet some figures from this story, and discuss the significance of intellectual history more generally.
 
@@ -61,7 +61,7 @@ In the Middle Ages, religious and secular figures alike tended to imagine the un
 
 The etchings below are taken from a book called *[Conversations on the Plurality of Worlds](https://en.wikipedia.org/wiki/Conversations_on_the_Plurality_of_Worlds)*, in which its author [Bernard Le Bovier de Fontenelle](https://en.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle) depicted a stellar neighbourhood replete with Earth-like worlds harbouring human-like intelligences.
 
-![Fontenelle](images/fontenelle.jpg)
+![Fontenelle](fontenelle.jpg)
 
 ##### Source: [Arts and Culture](https://artsandculture.google.com/asset/illustration-from-fontenelle-s-conversations-on-the-plurality-of-worlds/zQFodaE3532KQA)
 
@@ -79,7 +79,7 @@ Tom continues —
 
 This reckless projection of value and purpose also manifested in depictions of our planet. For illustration, the Jesuit scholar [Athanasius Kircher](https://en.wikipedia.org/wiki/Athanasius_Kircher) compiled a [scientific textbook](https://en.wikipedia.org/wiki/Mundus_Subterraneus_(book)) in which he imagined the Earth itself as a kind of living, breathing organism. His vision is depicted beautifully in the drawing below —
 
-![Kircher](images/kircher.jpg)
+![Kircher](kircher.jpg)
 
 This 'everything in its right [place](https://www.youtube.com/watch?v=NUnXxh5U25Y)' thesis ruled out parts of the world not existing for some life-like purpose. Accordingly, many even believed that the *interior* of the globe must be either habitable, or indeed *inhabited*, right through to the 19th century. Tom points out that the astronomer Edmond Halley made remarks to this effect in the 1690s, as did "the anonymous German author of an 1828 book whose title translates as *The Underworld, or Reasons for a Habitable and Inhabitable Interior of our Earth.*"
 
@@ -95,7 +95,7 @@ Further, the show would go on without us: the rest of the universe, in a way of 
 
 > Where apocalypse secures a sense of an ending, extinction anticipates the ending of sense.
 
-![Dante Heaven Etching](images/dante-heaven.jpg)
+![Dante Heaven Etching](dante-heaven.jpg)
 
 ##### Source: [Digital Dante](https://digitaldante.columbia.edu/image/birk-illustrations/paradiso/), Selected illustrations from Birk’s Comedy — Paradiso. Notice the similarity with the frontpiece for Fontenelle's *[Conversations on the Plurality of Worlds](https://en.wikipedia.org/wiki/Conversations_on_the_Plurality_of_Worlds)*, abov*e.*
 
@@ -203,7 +203,7 @@ Running concurrently to this ethical progress was progress of a more concrete an
 
 The nuclear weapons were of course deployed in WWII on two occasions, over the Japanese cities of Hiroshima and Nagasaki — the only times they have been used in war. Although Japan surrendered shortly after, the consequences were undeniably awful. Despite this, or perhaps because of it, nuclear stockpiles grew rapidly after WWII. By the height of the Cold War, the combined nuclear arsenals of Russia and the United States numbered above *60,000* warheads.
 
-![[Number of nuclear warheads in the inventory of the nuclear powers, 1945 to 2014](https://ourworldindata.org/grapher/number-of-nuclear-warheads-in-the-inventory-of-the-nuclear-powers)](images/stockpiles.png)
+![[Number of nuclear warheads in the inventory of the nuclear powers, 1945 to 2014](https://ourworldindata.org/grapher/number-of-nuclear-warheads-in-the-inventory-of-the-nuclear-powers)](stockpiles.png)
 
 ##### Source: [Our World in Data](https://ourworldindata.org/grapher/number-of-nuclear-warheads-in-the-inventory-of-the-nuclear-powers)
 
@@ -225,7 +225,7 @@ Yet, forecasting future technologies is notoriously — [necessarily](https://me
 
 In parallel to the story of the discovery of existential risk runs an interweaving story of the discovery of humanity's place in the cosmos, and the cosmic futures it could one day inherit. On one occasion, these two threads met — in the physicist [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi). As one of the chief architects of the Manhattan Project, Fermi was there to witness the Trinity test. Almost exactly five years later, Fermi was talking over lunch at the Los Alamos National Laboratory in New Mexico. A co-worker had mentioned a recent New Yorker cartoon, depicting aliens stealing trash cans (as likely a hypothesis as any).
 
-![New Yorker alien cartoon](images/new-yorker-cartoon.jpg)
+![New Yorker alien cartoon](new-yorker-cartoon.jpg)
 
 ##### New Yorker, May 20th 1950
 
@@ -245,7 +245,7 @@ Energy from some derivative of a Dyson sphere might be used to supply power to f
 
 It wasn't long before images of such structures began to permeate popular culture and even inspire social movements. Many of the most iconic depictions of O'Neill cylinders were created by the artist [Don Davis](https://en.wikipedia.org/wiki/Don_Davis_(artist)), commissioned by NASA to depict descriptions of life beyond Earth. Later, Davis would work on the visual effects for Carl Sagan's *Cosmos* television series, and create several of his book covers. Here's an example —
 
-![Don Davis](images/don-davis.jpg)
+![Don Davis](don-davis.jpg)
 
 ##### Source: [Wikipedia](https://en.wikipedia.org/wiki/O%27Neill_cylinder#/media/File:Spacecolony3edit.jpeg)
 

@@ -20,7 +20,7 @@ In our conversation, we discuss —
 
 <div class="episode-image_variable max-600">
 
-![Sam Hilton](images/sam.jpg)
+![Sam Hilton](sam.jpg)
 
 ##### Image credit: CSER
 

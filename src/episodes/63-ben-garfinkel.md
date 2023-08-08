@@ -11,7 +11,7 @@ status: "live"
 
 [Ben Garfinkel](https://www.benmgarfinkel.com/) is a Research Fellow at the the University of Oxford and Acting Director of the [Centre for the Governance of AI](https://www.governance.ai/about-us).
 
-![Ben Garfinkel](images/ben.jpg)
+![Ben Garfinkel](ben.jpg)
 
 In this episode we talk about:
 * An overview of AI governance space
@@ -820,7 +820,7 @@ Yeah. So I actually don't place that much stock on these were, let's say, classi
 
 
 
-![Some kind of metaphorical image made by Midjourney](images/bg3.png)
+![Some kind of metaphorical image made by Midjourney](bg3.png)
 
  
 

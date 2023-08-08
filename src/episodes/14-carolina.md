@@ -13,7 +13,7 @@ status: "live"
 ---
 [Dr Carolina Alves](https://www.girton.cam.ac.uk/directory/alves-carolina/) is the Joan Robinson Research Fellow in Heterodox Economics at Girton College, Cambridge. She is also a co-founder of [D-Econ](https://d-econ.org/): Diversifying and Decolonizing Economics Initiative. Carolina's work focuses on macroeconomics and international political economy, with a particular focus on her home-country Brazil. We first ask Carolina to explain to us what Heterodox Economics is, how it differs from mainstream Economics, and how reaching a definition can be incredibly difficult. We then discuss the political debate that can arise around Heterodox Economics, and how viewing it as just a left-right divide may be overly simplistic. Lastly, Carolina explains why D-Econ is pushing for the academic field of Economics to be more inclusive in terms of gender, race, and the Global South.
 
-![Dr Carolina Alves](images/carolina_portrait.jpg)
+![Dr Carolina Alves](carolina_portrait.jpg)
 
 ##### Photo credit: [Alina Kisina](https://alinakisina.co.uk/)
 
@@ -72,7 +72,7 @@ Thirdly, we might get a very different angle of what heterodox economics dependi
 
 We might also add that these definitions are constantly in flux. As our understanding of economics changes, so too does our view of what is 'mainstream' (and by extension heterodox). For example, [monetarism](https://en.wikipedia.org/wiki/Monetarism) was not considered mainstream until the 1970s — before falling out of fashion again in the 1990s. Likewise, Thaler [describes](https://www.goodreads.com/book/show/26530355-misbehaving?from_search=true&from_srp=true&qid=OHOWQsCS67&rank=1) how behavioural economics was long seen as heterodox, but is now receiving ever more mainstream attention. Schools of thoughts can themselves mutate and transform over time, as shown by Marc Lavoie's flow diagram regarding macroeconomics:
 
-![Schools of thought in macroeconomics](images/economic-schools.png)
+![Schools of thought in macroeconomics](economic-schools.png)
 
 ##### Source: [Introduction to Post-Keynesian Economics](https://www.palgrave.com/gb/book/9780230229211)
 

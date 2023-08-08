@@ -16,7 +16,7 @@ In the article below, we summarise and illustrate these key ideas; providing bot
 
 Anna Alexandrova is a Reader in Philosophy of Science at University of Cambridge and a Fellow of King's College, having previously taught at the University of Missouri St Louis. Anna studies the philosophy of social sciences, focusing on the use of formal models and the science of well-being. She is the author of *[A Philosophy for the Science of Well-Being](https://www.goodreads.com/book/show/34342094-a-philosophy-for-the-science-of-well-being)* (2017).
 
-![Anna Alexandrova](images/anna.png)
+![Anna Alexandrova](anna.png)
 
 Is there, or should there be, a single measure of overall well-being? Can the science of well-being be objective, or does any plausible measure rely on values? And what do philosophers mean by "well-being" in the first place? These are the topics of the first part of our conversation, which turns into a broader discussion of technocratic versus democratic approaches to constructing measures of well-being.
 
@@ -84,7 +84,7 @@ As these economic, social, and psychological measures were developed over time, 
 
 At this stage, however, the policymaker is presented with a grab-bag of options. Can they reasonably defend using just one? Better, and more defensible, to use some complex mix of all the available measures. This kind of result is reflected in the '[Measuring national well-being](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/measuringnationalwellbeing/sept2016)' program organised by the UK's Office for National Statistics, which employed 41 (!) headline indicators. This has since been honed to a [dashboard](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing) tracking indicators of health, wealth, education and skills.
 
-![The ONS well-being 'wheel'](images/well-being-wheel.png)
+![The ONS well-being 'wheel'](well-being-wheel.png)
 
 ### Subjective indicators
 

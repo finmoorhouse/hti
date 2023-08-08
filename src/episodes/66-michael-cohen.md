@@ -33,7 +33,7 @@ In this episode we talk about:
 * Is the analogy between RL systems and evolution strong enough to show this isn't a worry?
 * Why *[Survivor](https://www.wikiwand.com/en/Survivor_(American_TV_series))* is the best game show, and whether raising a baby is like training an RL system
 
-![A figure from Michael's paper](images/fig1.jpg)
+{% image "fig1.jpg" "A figure from Michael's paper" %}
 
 
 ## Michael's recommended reading (and watching)
@@ -48,7 +48,7 @@ In this episode we talk about:
 - ['Intelligence and Unambitiousness Using Algorithmic Information Theory'](https://ieeexplore.ieee.org/document/9409939) by Michael Cohen, Badri Vallambi, and Marcus Hutter
 - ['Quantilizers: A Safer Alternative to Maximizers for Limited Optimization'](https://intelligence.org/files/QuantilizersSaferAlternative.pdf) by Jessica Taylor
 
-![A figure from Michael's paper](images/10.png)
+{% image "10.png" "A figure from Michael's paper" %}
 
 ## Transcript
 

@@ -9,6 +9,7 @@ description: "All episodes."
   <li class="[&>*]:inline py-2">
     <a href="{{ post.url }}">{{ post.data.title }}</a>
     {% if post.data.date %} ({% year post.data.date %}) {% endif %}
+    <!-- {% if post.data.featuredImage %} ${post.data.featuredImage} {% endif %} -->
   </li>
   {% endfor %}
 </ul>

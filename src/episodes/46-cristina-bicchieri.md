@@ -20,7 +20,7 @@ Cristina Bicchieri is the S. J. Patterson Harvie Professor of Social Thought and
 
 <div class="episode-image_variable max-600">
 
-![Cristina Bicchieri](images/cristina.jpg)
+![Cristina Bicchieri](cristina.jpg)
 
 </div>
 

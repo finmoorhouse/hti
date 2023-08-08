@@ -14,7 +14,7 @@ status: "live"
 
 <div class="episode-image_variable">
 
-![Dewi Erwan](images/dewi.jpg)
+![Dewi Erwan](dewi.jpg)
 
 </div>
 
@@ -72,7 +72,7 @@ In this episode we discuss:
 
 <div class="episode-image_variable max-500">
 
-![img](images/toasties.jpg)
+![img](toasties.jpg)
 
 
 

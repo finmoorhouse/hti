@@ -12,7 +12,7 @@ google: "https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9oZW
 status: "live"
 ---
 
-![Sriya](images/sriya.jpg)
+![Sriya](sriya.jpg)
 
 [Dr Sriya Iyer](http://www.econ.cam.ac.uk/people/faculty/si105) is a Reader in Economics at the University of Cambridge and fellow of St Catharine’s College. Her research applies the tools of economics to topics such as religion, development, and education. She has recently published two books on these topics: [Advances in the Economics of Religion](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-319-98848-1&sa=D&sntz=1&usg=AFQjCNG-wuIoYnRXz6dtpeAOxgfoD3WTCw), and [The Economics of Religion in India](http://www.google.com/url?q=http%3A%2F%2Fwww.hup.harvard.edu%2Fcatalog.php%3Fisbn%3D9780674979642&sa=D&sntz=1&usg=AFQjCNGyj4dQjDke7hhQ8IErMulz9bqOSA).
 
@@ -83,7 +83,7 @@ $pC+wR \leq w\bar{T}$
 
 The key insight here is that the wage $w$ is the opportunity cost of religion, just like how $p$ is the price of consumption. That is, time spent going to church is time that could be spent earning money to buy goods. We can now see why economic growth reduced religiosity: If an economy grows, wages rise, which mean the opportunity cost of religion rises, meaning fewer people attend church. This is known in economics as the substitution effect.
 
-![Finding a labor supply curve](/images/labor-supply.png)
+![Finding a labor supply curve](labor-supply.png)
 
 Source: [Revenue Trades](http://ingrimayne.com/econ/TheFirm/Figure9.5.gif) — where leisure stands in for religion
 
@@ -93,7 +93,7 @@ A much more sophisticated approach is given by [Azzi & Ehrenberg (1975)](https:/
 
 However, evidence for the Secularization Hypothesis is mixed. An overview of this is given by [Norris & Inglehart (2004)](https://www.cambridge.org/core/books/sacred-and-secular/5CE209CE245D444D40BB44D0DDD78F43), who document how rich countries have indeed become more secular over time, although the rest of the world remains mostly unchanged. This is shown in the figure below Likewise, Our World in Data has a useful [plot of religiosity against log-GDP,](https://ourworldindata.org/grapher/how-important-is-god-in-your-life-vs-gdp-per-capita?time=latest) which a general negative relationship, but also shows there are significant exceptions (e.g. US, Qatar, China). [Buser (2014)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2457834) challenges this on a micro-level, by showing that households in Ecuador with higher incomes are actually *more likely* to attend church. Another counter-argument comes from [Ruck et al. (2018)](https://advances.sciencemag.org/content/4/7/eaar8680), who argue that secularization occurred well before economic growth took off.
 
-![Religious participation by birth cohort](/images/religion-by-cohort.png)
+![Religious participation by birth cohort](religion-by-cohort.png)
 
 Source: ["Sacred and Secular" by Norris & Inglehart (2004](https://www.cambridge.org/core/books/sacred-and-secular/5CE209CE245D444D40BB44D0DDD78F43))
 
@@ -143,7 +143,7 @@ However, it does affect the quality of the good for everyone else, $Q_{k\neq i}$
 
 A general example of this can be shown in the diagram below:
 
-![Positive externalities](/images/positive-externalities.png)
+![Positive externalities](positive-externalities.png)
 
 Source: [byui.edu](https://courses.byui.edu/ECON_150/ECON_150_Old_Site/Lesson_11.htm) — A general example of positive externalities
 
@@ -163,11 +163,11 @@ We can see that there is a clear incentive for all the $H$ types to join a churc
 
 The key is to find an observable "signal" that is more costly for $L$ types than it is for $H$. For example, consider the effort it takes to make religious sacrifices — call it $e$. Because $L$ are less devoted, these are likely more costly for them at every level. Graphically, that is $c(e, \theta_{L})$ is steeper than $c(e, \theta_{H})$.
 
-![Religious sacrifices](/images/religious-sacrifices.png)
+![Religious sacrifices](religious-sacrifices.png)
 
 Now suppose that a church will decide to admit someone based on their $e$. If $e_{i}<e^{*}$ they will not be admitted; if $e_{i} \geq e^{*}$ then they will be admitted. Agents need to consider their optimum strategy. Sacrificing $e$ is costly, but it could also get them a reward in the form of higher $e$. Let us consider the different options for the $L$ types:
 
-![Wage schedules](images/wage-schedules.png)
+![Wage schedules](wage-schedules.png)
 
 - $L$ still wants to be part of the church and sacrifices $e^{*}$*:* $Q(e^{*})-c(e^{*},\theta_{L})$
 - $L$ doesn't want to be part of the church and sacrifices nothing: $Q(0)$
@@ -181,7 +181,7 @@ Let us consider the different options for $H$ types:
 
 That is we choose $e^{*}$ to achieve a **separating equilibrium**. The bar is high enough that $L$ no longer has an incentive to join the '$H$ church' since the sacrifice to do so is too much. But, because sacrificing is cheaper for $H$ to do, they do still have an incentive to join the '$H$ church' — that is to 'signal' and distinguish themselves from $L$.
 
-![Separating equilibria](images/separating-equilibria.png)
+![Separating equilibria](separating-equilibria.png)
 
 In this way, it turns out that it may be entirely rational for religions to impose these costly stigmas! They are still 'inefficient' in the sense that sacrificing is still unproductive and $H$ types would be better off without this self-imposed restriction. But it is a second-best solution given the problem of imperfect information in distinguishing between $H$ and $L$.
 
