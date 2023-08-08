@@ -215,7 +215,7 @@ So the total pie will keep on growing. But will workers benefit from this, given
 
 $$Y=A(\alpha K^{\gamma}+\beta L^{\gamma})^{\dfrac{1}{\gamma}}$$
 
-$$w=\dfrac{dY}{dL}=\beta AL^{\gamma−1}(\beta L^{\gamma}+aK^{\gamma})^{\dfrac{1}{\gamma}−1}$$
+$$w=\dfrac{dY}{dL}=\beta AL^{\gamma-1}(\beta L^{\gamma}+aK^{\gamma})^{\dfrac{1}{\gamma}-1}$$
 
 This maths may look complicated, but the only thing that matters for our purposes is that so long as $0\leq\gamma<1$, an increase in $K$ increases $w$ too. That is, having more robots benefits human workers! Intuitively, human workers do still complement robots, even if just a little. And having a human worker is highly valuable precisely because they can make use of so many robots.
 
