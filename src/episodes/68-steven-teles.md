@@ -1,12 +1,14 @@
 ---
+path: /episodes/teles
 number: "68"
-permalink: "/episodes/teles"
-date: "2023-08-03"
-title: "Steven Teles on What the Conservative Legal Movement Teaches About Policy Advocacy"
-audio: "https://pinecast.com/listen/4810ec30-db97-4495-8d22-1c7c9aadf3ee.mp3"
-featuredImage: "teles-share.png"
-backgroundImage: "teles-bg.jpg"
-status: "live"
+permalink: /episodes/teles
+featuredImage: teles-share.png
+backgroundImage: teles-bg.jpg
+date: 2023-08-03T23:00:00.000Z
+status: live
+title: Steven Teles on What the Conservative Legal Movement Teaches About Policy
+  Advocacy
+audio: https://pinecast.com/listen/4810ec30-db97-4495-8d22-1c7c9aadf3ee.mp3
 ---
 
 [Steven Teles](https://politicalscience.jhu.edu/directory/steven-teles/) is a Professor of Political Science at Johns Hopkins University and a Senior Fellow at the Niskanen Center. His work focuses on American politics and he written several books on topics such as elite politics, the judiciary, and mass incarceration.
