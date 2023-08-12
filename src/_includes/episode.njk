@@ -12,7 +12,18 @@ extraStyle:
     page.date.toLocaleDateString("en-GB", { year: "numeric", month: "long" })
   }}
 </p>
-{% endif %} {% backLink "episodes", "episodes" %} {% if content | toc %}
+{% endif %}
+<a
+  href="/episodes"
+  class="no-underline font-medium font-sans py-1 rounded-md bg-slate-100 p-2 px-3 mr-4 mb-4 hover:bg-slate-200 inline-block mt-2"
+  >← Back to all episodes</a
+>
+<a
+  href="https://feedback.hearthisidea.com/episode?title={{title}}&number=2"
+  class="no-underline font-medium font-sans py-1 rounded-md bg-slate-100 p-2 px-3 ml-4 mb-4 hover:bg-slate-200 inline-block mt-2"
+  >Leave feedback on this episode ↗</a
+>
+{% if content | toc %}
 
 <script
   type="module"
@@ -60,10 +71,14 @@ extraStyle:
 {% endif %}
 {{ content | safe }}
 <br />
-{% aside %} You can
-<a href="https://www.admonymous.co/fin" target="_blank"
-  >leave (anonymous) feedback</a
+<hr />
+<a
+  href="/episodes"
+  class="no-underline font-medium font-sans py-1 rounded-md bg-slate-100 p-2 px-3 mx-4 hover:bg-slate-200 inline-block mt-2"
+  >← Back to all episodes</a
 >
-on this post, or any other aspect of this website. {% endaside %}
-<br />
-{% backLink "episodes", "episodes" %}
+<a
+  href="https://feedback.hearthisidea.com/episode?title={{title}}&number=2"
+  class="no-underline font-medium font-sans py-1 rounded-md bg-slate-100 p-2 px-3 mx-4 hover:bg-slate-200 inline-block mt-2"
+  >Leave feedback on this episode ↗</a
+>
