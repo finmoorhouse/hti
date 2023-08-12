@@ -4,6 +4,8 @@
 
 https://www.hearthisidea.com
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f082086e-b9ef-432b-9f58-9de8845521d2/deploy-status)](https://app.netlify.com/sites/hti/deploys)
+
 ## About
 
 This is the current version of the website for the podcast https://www.hearthisidea.com. It was made by me, [Fin Moorhouse](https://finmoorhouse.com/).
