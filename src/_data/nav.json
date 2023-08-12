@@ -7,10 +7,6 @@
         {
             "url": "/episodes",
             "name": "Episodes"
-        },
-        {
-            "url": "/guides",
-            "name": "Guides"
         }
     ]
 }
