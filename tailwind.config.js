@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  mode: 'jit',
   theme: {
     fontFamily: {
       serif: [
@@ -56,6 +57,6 @@ module.exports = {
       },
     },
   },
-  content: ["./build/**/*.html"],
+  content: ["./src/**/*.{html,js,md,njk}", "./build/**/*.{html,js}"],
   plugins: [require("@tailwindcss/typography")],
 };
