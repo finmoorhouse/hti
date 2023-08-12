@@ -2,6 +2,7 @@
 title: Be our guest
 layout: page.njk
 description: Be our guest!
+path: guest-guide
 ---
 
 <hr />

@@ -2,6 +2,7 @@
 title: Tip the show
 layout: page.njk
 description: Buy us a coffee!
+path: donate
 ---
 
 We produce this podcast on our own time, and episodes can take between 10–20 hours to complete. We do not run ads, so your donation will help us pay for hosting and invest in new equipment (and caffeine).

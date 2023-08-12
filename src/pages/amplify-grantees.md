@@ -1,7 +1,8 @@
 ---
 title: Amplify grantees
 layout: page.njk
-description: Amplify creative grants
+description: Amplify creative grants,
+path: "amplify-grantees"
 ---
 
 <div class="episode-image_variable max-200">
@@ -58,7 +59,7 @@ Trevor Martin will produce a **video introduction to forecasting**, aimed at bec
 
 ### Madeleine Chang
 
-[Madeleine Chang](https://madchang.com/) runs the entertaining **longtermist space governance blog **[t3telemetry.com](http://t3telemetry.com) Our grant will help her spend more time on new posts, making important ideas legible, and exploring ways to get complex content out to more readers, through cartoons, and perhaps, videos.
+[Madeleine Chang](https://madchang.com/) runs the entertaining **longtermist space governance blog** [t3telemetry.com](http://t3telemetry.com) Our grant will help her spend more time on new posts, making important ideas legible, and exploring ways to get complex content out to more readers, through cartoons, and perhaps, videos.
 
 ### Pablo Rosado
 

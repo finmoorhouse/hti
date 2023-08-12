@@ -2,6 +2,7 @@
 title: Amplify creative grants
 layout: page.njk
 description: Amplify creative grants
+path: grants
 ---
 
 
@@ -17,15 +18,9 @@ description: Amplify creative grants
 
 Amplify is a program aiming to make grants to podcasts and other creative media projects that spread ideas to help humanity navigate this century. **The first round of applications for Amplify has closed**, and we announced the grantees in March 2023. We'll announce if we plan on running another round.
 
-<div className="listen-container">
-    <a
-        className="listen"
-        href="/amplify-grantees"
-        rel="noopener noreferrer"
-    >
-        See the grantees &#8594;
-    </a>
-</div> 
+<a href='/amplify-grantees' class="no-underline bg-gold-400 font-sans outline-gold-500 outline-[3px] m-6 px-5 py-3 rounded-lg inline-block hover:outline outline-offset-[-3px]">
+See the grantees →
+</a>
 
 
 
@@ -39,19 +34,6 @@ We want to amplify ideas associated with [effective altruism](https://www.effect
 We’re excited to support projects (new and existing) in English **and other languages** — sharing important ideas with new, global, audiences. 
 
 Although the first round of applications has closed, you can express interest in future rounds by [following this link](https://grants.hearthisidea.com/apply).
-
-<div className="listen-container">
-    <a
-        className="listen"
-        href="https://grants.hearthisidea.com/apply"
-        target="_blank"
-        rel="noopener noreferrer"
-    >
-        Express interest &#8594;
-    </a>
-</div>
-
-
 
 The rest of this page explains more details about why we're running this program, and what we were looking to support.
 
@@ -117,15 +99,8 @@ Some existing podcast projects for inspiration:
 - **Websites that convey important concepts in a creative way:** The [Possible Worlds Tree](https://possibleworldstree.com/), [Quizmanity](https://www.quizmanity.org/), [Look-Up Timeline](https://madeleinemc.github.io/look-up/).
 
 
-<div className="listen-container">
-    <a
-        className="listen"
-        href="/amplify-grantees"
-        target="_blank"
-        rel="noopener noreferrer"
-    >
-        See the grantees &#8594;
-    </a>
-</div> 
+<a href='/amplify-grantees' class="no-underline bg-gold-400 font-sans outline-gold-500 outline-[3px] m-6 px-5 py-3 rounded-lg inline-block hover:outline outline-offset-[-3px]">
+See the grantees →
+</a>
 
 
