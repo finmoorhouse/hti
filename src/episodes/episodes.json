@@ -1,5 +1,5 @@
 {
-    "layout": "episodes",
+    "layout": "episode",
     "tags": "episodes",
     "permalink": "/episodes/{{ path | slug }}/"
 }
