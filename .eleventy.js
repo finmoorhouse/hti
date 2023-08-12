@@ -2,7 +2,7 @@ const pluginTOC = require("eleventy-plugin-toc");
 
 const eleventyFetch = require("@11ty/eleventy-fetch");
 
-const { imageShortcode, dateToString, backLink, note, aside } = require("./shortcodes");
+const { imageShortcode, dateToString, backLink, note, aside, featuredImageShortcode } = require("./shortcodes");
 
 const wordStats = require("@photogabble/eleventy-plugin-word-stats");
 
@@ -12,6 +12,9 @@ module.exports = function (config) {
   config.addNunjucksAsyncShortcode("image", imageShortcode);
   config.addLiquidShortcode("image", imageShortcode);
   config.addJavaScriptFunction("image", imageShortcode);
+  config.addNunjucksAsyncShortcode("featuredImage", featuredImageShortcode);
+  config.addLiquidShortcode("featuredImage", featuredImageShortcode);
+  config.addJavaScriptFunction("featuredImage", featuredImageShortcode);
   config.addPairedShortcode("aside", aside);
   config.addPairedShortcode("note", note);
   config.addShortcode("backLink", backLink);
