@@ -1,10 +1,10 @@
 ---
 path: /episodes/teles
 number: "68"
-permalink: /episodes/teles
+permalink: /episodes/teles/
 featuredImage: teles-share.png
 backgroundImage: teles-bg.jpg
-date: 2023-08-03T23:00:00.000Z
+date: "2023-08-03"
 status: live
 title: Steven Teles on What the Conservative Legal Movement Teaches About Policy
   Advocacy
