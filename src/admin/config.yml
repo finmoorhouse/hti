@@ -17,7 +17,7 @@ local_backend: true
 
 # Add your collections. Here's an example of multiple collections: 
 collections:
-# Pages Collection
+# Episodes Collection
   - label: "Episodes"
     name: "episodes"
     folder: "src/episodes"
@@ -28,10 +28,21 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Audio", name: "audio", widget: "string" }
       - { label: "Path", name: "path", widget: "string" }
+      - { label: "Number", name: "number", widget: "number" }
       - { label: "Featured Image", name: "featuredImage", widget: "string" }
       - { label: "Background Image", name: "backgroundImage", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+# Pages Collection
+  - label: "Pages"
+    name: "pages"
+    folder: "src/pages"
+    create: true # This allows you to create new instances in the CMS
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
         
 
 
