@@ -6,10 +6,7 @@ description: Conversations about ideas that matter.
 
 Hear This Idea is a podcast about ideas that matter.
 
-{% image "Color_Bars.svg.png" "Test image" %}
-
-![test image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/1200px-SMPTE_Color_Bars.svg.png)
-
+{% image 'pages/home/fandl.jpg' 'Alt text' %}
 
 The hosts are long-time friends [Fin Moorhouse](https://www.finmoorhouse.com) (right) and [Luca Righetti](https://www.lucarighetti.com) (left). Luca is a Research Fellow at [Open Philanthropy](https://openphilanthropy.org/), and Fin is a Research Scholar at the [Future of Humanity Institute](https://www.fhi.ox.ac.uk).[^1]
 
