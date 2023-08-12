@@ -1,13 +1,11 @@
 ---
 path: teles
 number: "68"
-permalink: /episodes/teles
 featuredImage: teles-share.png
 backgroundImage: teles-bg.jpg
 date: "2023-08-03"
 status: live
-title: Steven Teles on What the Conservative Legal Movement Teaches About Policy
-  Advocacy
+title: Steven Teles on What the Conservative Legal Movement Teaches About Policy Advocacy
 audio: https://pinecast.com/listen/4810ec30-db97-4495-8d22-1c7c9aadf3ee.mp3
 ---
 
