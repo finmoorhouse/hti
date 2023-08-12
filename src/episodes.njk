@@ -11,7 +11,7 @@ pagination:
 <div class="grid grid-cols-2 gap-4">
   {% for post in pagination.items %}
   <a href="{{ post.url }}" class="no-underline">
-    <div class="rounded-md overflow-hidden text-sm leading-6 ring-2 ring-gray-100 p-6">
+    <div class="rounded-md overflow-hidden text-sm leading-6 ring-2 ring-gray-100 p-6 hover:bg-yellow-100">
       {% if post.data.backgroundImage %} {% set backgroundImage =
       post.data.backgroundImage %} {% set episodeNumber = post.data.number %} {%
       featuredImage ""+episodeNumber+"/"+backgroundImage, "Alt text" %} {% endif
@@ -30,8 +30,8 @@ pagination:
   aria-label="Pagination"
 >
   {% if pagination.href.previous %}
-  <a href="{{ pagination.href.previous }}" class="rounded-md bg-slate-100 font-sans no-underline p-2 px-3 mx-2">← Previous Page</a>
+  <a href="{{ pagination.href.previous }}" class="rounded-md bg-slate-100 font-sans no-underline p-2 px-3 mx-4 hover:bg-yellow-200">← Previous Page</a>
   {% endif %} {% if pagination.href.next %}
-  <a href="{{ pagination.href.next }}" class="rounded-md bg-slate-100 font-sans no-underline p-2 px-3 mx-2">Next Page →</a>
+  <a href="{{ pagination.href.next }}" class="rounded-md bg-slate-100 font-sans no-underline p-2 px-3 mx-4 hover:bg-yellow-200">Next Page →</a>
   {% endif %}
 </nav>
