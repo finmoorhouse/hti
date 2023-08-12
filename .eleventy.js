@@ -2,7 +2,7 @@ const pluginTOC = require("eleventy-plugin-toc");
 
 const eleventyFetch = require("@11ty/eleventy-fetch");
 
-const { imageShortcode, dateToString, backLink, note, aside, featuredImageShortcode } = require("./shortcodes");
+const { imageShortcode, dateToString, note, aside, featuredImageShortcode } = require("./shortcodes");
 
 const wordStats = require("@photogabble/eleventy-plugin-word-stats");
 
@@ -17,7 +17,6 @@ module.exports = function (config) {
   config.addJavaScriptFunction("featuredImage", featuredImageShortcode);
   config.addPairedShortcode("aside", aside);
   config.addPairedShortcode("note", note);
-  config.addShortcode("backLink", backLink);
   config.addShortcode("year", dateToString);
   let markdownIt = require("markdown-it");
   let markdownItKatex = require("@iktakahiro/markdown-it-katex");

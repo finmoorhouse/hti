@@ -117,33 +117,6 @@ function dateToString(date) {
   });
 }
 
-function backLink(link, title) {
-  return `<div class="mb-6">
-  <a
-    href="/${link}"
-    class="flex items-center gap-1.5 text-sm font-semibold px-2.5 py-0.5 rounded-full max-w-max no-underline font-medium font-sans"
-  >
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="1em"
-      height="1em"
-      fill="white"
-      viewBox="0 0 256 256"
-    >
-      <rect width="256" height="256" fill="none"></rect>
-      <polyline
-        points="160 208 80 128 160 48"
-        fill="none"
-        stroke="currentColor"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="24"
-      ></polyline>
-    </svg>
-    <span>Back to ${title}</span>
-  </a>
-</div>`;
-}
 
 function note(content, label) {
   return `<span class="sidenote"><input
@@ -170,7 +143,6 @@ module.exports = {
   imageShortcode,
   featuredImageShortcode,
   dateToString,
-  backLink,
   note,
   aside,
 };
