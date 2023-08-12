@@ -61,6 +61,8 @@ module.exports = function (config) {
 
   config.addPassthroughCopy({ "src/favicon": "/" });
 
+  config.addPassthroughCopy("./src/admin");
+
   return {
     dir: {
       input: "./src",

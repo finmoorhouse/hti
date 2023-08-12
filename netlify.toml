@@ -8,3 +8,6 @@
         # eleventy-fetch cacheDir, path relative to publish directory
         cache_assets = '../.cache/'
         cache_other = []
+[build]
+  publish = "build"
+  command = "npm run build"

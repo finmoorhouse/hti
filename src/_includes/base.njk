@@ -64,6 +64,11 @@
       {% endfor %}
   {% endif %}
 
+  <!-- Netlify Identity Widget -->
+  {% if page.url == "/" %}
+  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {% endif %}
+  
   <title>{% if title %}{{ title }} - {% endif %}{{ site.author }}</title>
 </head>
 <body id="top" class="">
