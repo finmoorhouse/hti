@@ -1,31 +1,37 @@
 // Image shortcode
 
 const Image = require("@11ty/eleventy-img");
-const LFS_URL = "https://hti-images.netlify.app/episodes/";
+const LFS_URL = "https://hti-images.netlify.app/";
 const matter = require("gray-matter");
-const fs = require('fs')
+const fs = require("fs");
 
 //Maybe this is inefficient?
 async function imageShortcode(src, alt) {
+  const metadataOptions = {
+    widths: [300, 600],
+    formats: ["avif", "jpeg"],
+    outputDir: "build/img/",
+    cacheOptions: {
+      // if a remote image URL, this is the amount of time before it fetches a fresh copy
+      duration: "10d",
+      // project-relative path to the cache directory
+      directory: ".cache",
+      removeUrlQueryParams: true,
+    },
+  };
   const str = fs.readFileSync(this.page.inputPath, "utf8");
   const data = matter(str).data;
+  let urlPath = LFS_URL;
+  if (data.number) {
+    urlPath = LFS_URL + `episodes/${data.number}/`;
+  }
   let sizes = "100vw";
   let metadata = "";
   try {
     // New image source is host URL plus episode number plus filename.
-    updatedSrc = LFS_URL + `${data.number}/${src}`;
-    metadata = await Image(updatedSrc, {
-      widths: [300, 600],
-      formats: ["avif", "jpeg"],
-      outputDir: "build/img/",
-      cacheOptions: {
-        // if a remote image URL, this is the amount of time before it fetches a fresh copy
-        duration: "10d",
-        // project-relative path to the cache directory
-        directory: ".cache",
-        removeUrlQueryParams: true,
-      },
-    });
+    updatedSrc = urlPath + src;
+    //console.log("Downloading:", updatedSrc);
+    metadata = await Image(updatedSrc, metadataOptions);
   } catch (error) {
     // Handle error
     console.error("Error retrieving LFS image:", error);
@@ -33,18 +39,53 @@ async function imageShortcode(src, alt) {
     // Optionally return placeholder
     metadata = await Image(
       "https://upload.wikimedia.org/wikipedia/commons/1/14/Rubber_Duck_(8374802487).jpg",
-      {
-        widths: [300, 600],
-        formats: ["avif", "jpeg"],
-        outputDir: "build/img/",
-        cacheOptions: {
-          // if a remote image URL, this is the amount of time before it fetches a fresh copy
-          duration: "10d",
-          // project-relative path to the cache directory
-          directory: ".cache",
-          removeUrlQueryParams: true,
-        },
-      }
+      metadataOptions
+    );
+  }
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+  return Image.generateHTML(metadata, imageAttributes, {
+    whitespaceMode: "inline",
+  });
+}
+
+async function featuredImageShortcode(src, alt) {
+  let sizes = "100vw";
+  let metadata = "";
+  let fullSrc = LFS_URL + `episodes/${src}?nf_resize=smartcrop&w=100&h=100`;
+  const metadataOptions = {
+    widths: [300],
+    formats: ["avif", "jpeg"],
+    outputDir: "build/img/",
+    cacheOptions: {
+      // if a remote image URL, this is the amount of time before it fetches a fresh copy
+      duration: "10d",
+      // project-relative path to the cache directory
+      directory: ".cache",
+      removeUrlQueryParams: true,
+    },
+  };
+  try {
+    //console.log("Downloading:", fullSrc);
+    // New image source is host URL plus episode number plus filename.
+    updatedSrc = fullSrc;
+    // Docs on resizing images with Netlify LFS: https://docs.netlify.com/large-media/transform-images/
+    metadata = await Image(updatedSrc, metadataOptions);
+  } catch (error) {
+    // Handle error
+    console.error("Error retrieving LFS image:", error);
+
+    // Optionally return placeholder
+    metadata = await Image(
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/Rubber_Duck_(8374802487).jpg",
+      metadataOptions
     );
   }
 
@@ -127,6 +168,7 @@ function aside(content) {
 
 module.exports = {
   imageShortcode,
+  featuredImageShortcode,
   dateToString,
   backLink,
   note,
