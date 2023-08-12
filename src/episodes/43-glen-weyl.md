@@ -1,6 +1,6 @@
 ---
 number: "43"
-path: "/episodes/glen"
+path: "glen"
 date: "2022-03-15"
 title: "Glen Weyl on Pluralism, Radical Markets, and Social Technology"
 audio: "https://pinecast.com/listen/43f24983-1346-4525-800d-3593d4a11188.mp3"

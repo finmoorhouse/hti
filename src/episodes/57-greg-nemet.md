@@ -1,6 +1,6 @@
 ---
 number: "57"
-path: "/episodes/nemet"
+path: "nemet"
 date: "2022-12-20"
 title: "Greg Nemet on Technological Change and How Solar Became Cheap"
 audio: "https://pinecast.com/listen/5940bc79-ba9b-4e89-a06f-7c1acc8420fc.mp3"

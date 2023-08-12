@@ -1,6 +1,6 @@
 ---
 number: "11"
-path: "/episodes/eve"
+path: "eve"
 date: "2020-04-30"
 title: "Eve McCormick on Effective Altruism"
 audio: "https://pinecast.com/listen/15ee3a24-14fb-48d4-8166-9dd0d2744d1e.mp3"

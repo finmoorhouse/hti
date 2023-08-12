@@ -1,6 +1,6 @@
 ---
 number: "32"
-path: "/episodes/matt"
+path: "matt"
 date: "2021-06-28"
 title: "Matthew Ives on Solar Power and Experience Curves"
 audio: "https://pinecast.com/listen/13923d6a-84b6-4007-a92b-292c17526b4a.mp3"

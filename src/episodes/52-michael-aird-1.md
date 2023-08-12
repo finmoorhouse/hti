@@ -1,6 +1,6 @@
 ---
 number: "52"
-path: "/episodes/aird"
+path: "aird"
 date: "2022-08-31"
 title: "Michael Aird on how to do Impact-Driven Research"
 audio: "https://pinecast.com/listen/98247b80-d49b-4f0a-9362-478b7d8d44eb.mp3"

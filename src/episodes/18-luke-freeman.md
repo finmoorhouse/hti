@@ -1,6 +1,6 @@
 ---
 number: "18"
-path: "/episodes/luke"
+path: "luke"
 date: "2020-11-29"
 title: "Luke Freeman on Giving What We Can and Community Building"
 audio: "https://pinecast.com/listen/2abc8a35-52da-4dbc-8679-d679fadf2be5.mp3"

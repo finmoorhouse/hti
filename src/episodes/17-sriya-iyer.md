@@ -1,6 +1,6 @@
 ---
 number: "17"
-path: "/episodes/sriya"
+path: "sriya"
 date: "2020-11-12"
 title: "Sriya Iyer on the Economics of Religion"
 audio: "https://pinecast.com/listen/a86b135c-cbfc-4b37-9044-5a2b076a3caf.mp3"

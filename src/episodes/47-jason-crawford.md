@@ -1,6 +1,6 @@
 ---
 number: "47"
-path: "/episodes/crawford"
+path: "crawford"
 date: "2022-05-12"
 title: "Jason Crawford on Progress Studies"
 audio: "https://pinecast.com/listen/f12b54ce-0f75-44bf-94e6-0bc2773c77dd.mp3"

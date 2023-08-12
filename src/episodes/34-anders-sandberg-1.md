@@ -1,6 +1,6 @@
 ---
 number: "34"
-path: "/episodes/anders"
+path: "anders"
 date: "2021-08-02"
 title: "Anders Sandberg on the Fermi Paradox, Transhumanism, and so much more"
 audio: "https://pinecast.com/listen/c04f89c8-20a7-402e-8f40-d6889c5730d4.mp3"

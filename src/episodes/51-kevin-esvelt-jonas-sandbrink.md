@@ -1,6 +1,6 @@
 ---
 number: "51"
-path: "/episodes/esvelt-sandbrink"
+path: "esvelt-sandbrink"
 date: "2022-08-12"
 title: "Kevin Esvelt and Jonas Sandbrink on Risks from Biological Research"
 audio: "https://pinecast.com/listen/30088a16-186a-4bb9-8523-deb0232a183f.mp3"

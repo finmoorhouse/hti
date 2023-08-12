@@ -1,6 +1,6 @@
 ---
 number: "16"
-path: "/episodes/simon"
+path: "simon"
 date: "2020-09-29"
 title: "S. J. Beard on Parfit, Climate Change, and Existential Risk"
 audio: "https://pinecast.com/listen/0a547787-66cb-4050-af3d-883501b0775e.mp3"

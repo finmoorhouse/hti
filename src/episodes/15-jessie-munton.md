@@ -1,6 +1,6 @@
 ---
 number: "15"
-path: "/episodes/jessie"
+path: "jessie"
 date: "2020-08-07"
 title: "Jessie Munton on Prejudice, Perception, and Search Engines"
 audio: "https://pinecast.com/listen/fc2d8891-d2b0-4a6c-af82-edf92b16cfc9.mp3"

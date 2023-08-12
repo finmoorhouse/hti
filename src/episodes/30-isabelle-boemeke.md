@@ -1,6 +1,6 @@
 ---
 number: "30"
-path: "/episodes/isabelle"
+path: "isabelle"
 date: "2021-05-31"
 title: "Isabelle Boemeke on Nuclear Power and Science Communication"
 audio: "https://pinecast.com/listen/a176035b-4a71-4c23-9cbe-05381a439a3b.mp3"

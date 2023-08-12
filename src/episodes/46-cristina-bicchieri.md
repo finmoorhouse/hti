@@ -1,6 +1,6 @@
 ---
 number: "46"
-path: "/episodes/bicchieri"
+path: "bicchieri"
 date: "2022-04-22"
 title: "Cristina Bicchieri on Social Norms and the Grammar of Society"
 audio: "https://pinecast.com/listen/04d27cf0-d871-425f-acd2-74cd8fc92a54.mp3"

@@ -1,6 +1,6 @@
 ---
 number: "04"
-path: "/episodes/tads"
+path: "tads"
 date: "2019-11-23"
 title: "Tads Ciecierski-Holmes on Gym Membership and Behavioural Economics"
 audio: "https://pinecast.com/listen/43625132-e94d-4f5f-9405-7a5ae9f5b967.mp3"

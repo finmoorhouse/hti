@@ -1,6 +1,6 @@
 ---
 number: "50"
-path: "/episodes/farmer"
+path: "farmer"
 date: "2022-06-13"
 title: "Doyne Farmer on Complexity and Predicting Technological Progress"
 audio: "https://pinecast.com/listen/d4972316-de28-4d55-bfeb-2332f42891a8.mp3"

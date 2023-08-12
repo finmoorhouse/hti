@@ -1,6 +1,6 @@
 ---
 number: "03"
-path: "/episodes/vasilis"
+path: "vasilis"
 date: "2019-12-06"
 title: "Vasileios Kotsidis on Rational Choice Theory and the Repugnant Conclusion"
 audio: "https://pinecast.com/listen/ba4c4f05-d0de-4116-88e4-8207496e4cec.mp3"

@@ -1,6 +1,6 @@
 ---
 number: "40"
-path: "/episodes/mike"
+path: "mike"
 date: "2022-01-04"
 title: "Mike Hinge on Feeding Everyone in a Disaster"
 audio: "https://pinecast.com/listen/e7bf00c5-064a-4b05-bb64-9bc571330139.mp3"

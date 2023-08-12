@@ -1,6 +1,6 @@
 ---
 number: "07"
-path: "/episodes/diane"
+path: "diane"
 date: "2020-02-12"
 title: "Diane Coyle on Tech Giants and Digital Monopolies"
 audio: "https://pinecast.com/listen/44f1e17d-2ba6-4583-8c45-3802cf8001f5.mp3"

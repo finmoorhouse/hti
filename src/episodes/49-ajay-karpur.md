@@ -1,6 +1,6 @@
 ---
 number: "49"
-permalink: "/episodes/karpur"
+path: "karpur"
 date: "2022-06-13"
 title: "Ajay Karpur on Metagenomic Sequencing"
 audio: "https://pinecast.com/listen/27cb556d-0a7b-47a6-94d6-af0ed477deef.mp3"

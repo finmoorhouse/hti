@@ -1,6 +1,6 @@
 ---
 number: "33"
-path: "/episodes/sachs"
+path: "sachs"
 date: "2021-01-25"
 title: "Jeffrey Sachs on Sustainable Development"
 audio: "https://pinecast.com/listen/187508dd-100a-4221-a551-9ae86e2e607e.mp3"

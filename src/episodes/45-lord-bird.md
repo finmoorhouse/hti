@@ -1,6 +1,6 @@
 ---
 number: "45"
-path: "/episodes/bird"
+path: "bird"
 date: "2022-04-05"
 title: "Lord Bird on the Wellbeing of Future Generations Bill"
 audio: "https://pinecast.com/listen/aefe4ad7-e6ba-4731-af00-977f4fdfc4e9.mp3"

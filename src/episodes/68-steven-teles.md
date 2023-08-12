@@ -1,7 +1,7 @@
 ---
-path: /episodes/teles
+path: teles
 number: "68"
-permalink: /episodes/teles/
+permalink: /episodes/teles
 featuredImage: teles-share.png
 backgroundImage: teles-bg.jpg
 date: "2023-08-03"

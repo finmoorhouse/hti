@@ -1,6 +1,6 @@
 ---
 number: "29"
-path: "/episodes/phil"
+path: "phil"
 date: "2021-05-12"
 title: "Phil Trammell on Economic Growth under Transformative AI"
 audio: "https://pinecast.com/listen/395a6929-291c-4e1b-ac8f-ecb60016970a.mp3"

@@ -1,6 +1,6 @@
 ---
 number: "25"
-path: "/episodes/julia"
+path: "julia"
 date: "2021-01-25"
 title: "Julia Shvets on Overconfidence, Rank Incentives, and Lab vs Field Experiments"
 audio: "https://pinecast.com/listen/e94a85cc-7696-474e-ae92-31cdb2595ee1.mp3"

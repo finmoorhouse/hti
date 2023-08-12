@@ -1,6 +1,6 @@
 ---
 number: "54"
-path: "/episodes/mathieu"
+path: "mathieu"
 date: "2022-10-15"
 title: "Edouard Mathieu on Our World in Data"
 audio: "https://pinecast.com/listen/ff96f8cc-22d0-448c-99eb-37ea6f5b506e.mp3"

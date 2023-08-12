@@ -1,6 +1,6 @@
 ---
 number: "64"
-path: "/episodes/aird-ai"
+path: "aird-ai"
 date: "2023-06-07"
 title: "Michael Aird on Strategies for Reducing AI Existential Risk"
 audio: "https://pinecast.com/listen/42b8cd89-4a86-43f1-b5a3-7e0f8667e5c1.mp3"

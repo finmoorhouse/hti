@@ -1,6 +1,6 @@
 ---
 number: "22"
-path: "/episodes/sebastian"
+path: "sebastian"
 date: "2021-01-05"
 title: "Sebastian Joy on ProVeg, Movement Building, and Corporate Engagement"
 audio: "https://pinecast.com/listen/66cfb0b7-fa9b-41a9-a508-36765e318978.mp3"

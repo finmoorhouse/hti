@@ -1,6 +1,6 @@
 ---
 number: "27"
-path: "/episodes/eva"
+path: "eva"
 date: "2021-04-12"
 title: "Eva Vivalt on Evidence-Based Policy and Forecasting Social Science"
 audio: "https://pinecast.com/listen/bdc14049-63b0-4e82-bcc0-b8c8ac3bf38b.mp3"

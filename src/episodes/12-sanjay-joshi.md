@@ -1,6 +1,6 @@
 ---
 number: "12"
-path: "/episodes/sanjay"
+path: "sanjay"
 date: "2020-05-20"
 title: "Sanjay Joshi on Charity Evaluation and Nonprofit Entrepreneurship"
 audio: "https://pinecast.com/listen/b892a5c0-861f-4416-bd64-845e7be73251.mp3"

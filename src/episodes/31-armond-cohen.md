@@ -1,6 +1,6 @@
 ---
 number: "31"
-path: "/episodes/armond"
+path: "armond"
 date: "2021-06-13"
 title: "Armond Cohen on Climate Change and the Clean Air Task Force"
 audio: "https://pinecast.com/listen/327d1624-5fc4-48e3-a483-33b1456c15c5.mp3"

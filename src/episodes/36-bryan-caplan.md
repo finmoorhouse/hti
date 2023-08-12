@@ -1,6 +1,6 @@
 ---
 number: "36"
-path: "/episodes/bryan"
+path: "bryan"
 date: "2021-08-23"
 title: "Bryan Caplan on Causes of Poverty and the Case for Open Borders"
 audio: "https://pinecast.com/listen/440a2179-c332-480d-b946-126e82d093ed.mp3"

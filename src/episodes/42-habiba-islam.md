@@ -1,6 +1,6 @@
 ---
 number: "42"
-path: "/episodes/habiba"
+path: "habiba"
 date: "2022-02-19"
 title: "Habiba Islam on Planning a High-Impact Career and Ambitious Altruism"
 audio: "https://pinecast.com/listen/472f3472-9822-49fb-9482-af1c1d0e69f2.mp3"

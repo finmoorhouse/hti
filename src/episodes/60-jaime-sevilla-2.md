@@ -1,6 +1,6 @@
 ---
 number: "60"
-path: "/episodes/sevilla"
+path: "sevilla"
 date: "2023-03-15"
 title: "Jaime Sevilla on Trends in Machine Learning"
 audio: "https://pinecast.com/listen/f1c71858-eeee-464c-a1bf-2e6ef79272e5.mp3"

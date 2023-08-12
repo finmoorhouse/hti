@@ -1,6 +1,6 @@
 ---
 number: "09"
-path: "/episodes/neel"
+path: "neel"
 date: "2020-03-12"
 title: "Neel Nanda on Effective Planning and Building Habits that Stick"
 audio: "https://pinecast.com/listen/00cc1a7d-afbc-4c75-a14e-1ffd16424783.mp3"

@@ -1,6 +1,6 @@
 ---
 number: "28"
-path: "/episodes/anna"
+path: "anna"
 date: "2021-05-03"
 title: "Anna Alexandrova on Measuring Well-Being and Alternatives to Technocracy"
 audio: "https://pinecast.com/listen/ef896dee-c508-40d7-8f87-d1775b3a309f.mp3"

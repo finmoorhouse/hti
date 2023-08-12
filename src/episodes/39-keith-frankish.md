@@ -1,6 +1,6 @@
 ---
 number: "39"
-path: "/episodes/keith"
+path: "keith"
 date: "2021-11-22"
 title: "Keith Frankish on Illusionism about Consciousness"
 audio: "https://pinecast.com/listen/25169360-3dd2-462b-9de9-d8c87bcf29b8.mp3"

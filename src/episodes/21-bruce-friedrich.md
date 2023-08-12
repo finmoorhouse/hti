@@ -1,6 +1,6 @@
 ---
 number: "21"
-path: "/episodes/bruce"
+path: "bruce"
 date: "2021-01-04"
 title: "Bruce Friedrich on Protein Alternatives and the Good Food Institute"
 audio: "https://pinecast.com/listen/67c48a01-71d1-4314-bc53-a45033290dfd.mp3"

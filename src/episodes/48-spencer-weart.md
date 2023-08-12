@@ -1,6 +1,6 @@
 ---
 number: "48"
-path: "/episodes/weart"
+path: "weart"
 date: "2022-06-02"
 title: "Spencer Weart on the Discovery of Global Warming"
 audio: "https://pinecast.com/listen/50645112-ba56-4ed4-9497-49923de8ef39.mp3"

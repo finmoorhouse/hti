@@ -1,6 +1,6 @@
 ---
 number: "19"
-path: "/episodes/peter"
+path: "peter"
 date: "2020-12-06"
 title: "Peter Singer on Speciesism, Lockdown Ethics, and Controversial Ideas"
 audio: "https://pinecast.com/listen/bef258e2-4d47-4b4b-9cc6-1f5e9c33bae7.mp3"

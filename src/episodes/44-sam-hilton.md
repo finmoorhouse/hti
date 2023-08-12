@@ -1,6 +1,6 @@
 ---
 number: "44"
-path: "/episodes/hilton"
+path: "hilton"
 date: "2022-03-22"
 title: "Sam Hilton on Charity Entrepreneurship, Exploratory Altruism, and Longtermist Policy"
 audio: "https://pinecast.com/listen/c2ce0a7a-076f-4e8f-99c7-762b1e37b108.mp3"

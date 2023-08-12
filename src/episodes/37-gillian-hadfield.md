@@ -1,6 +1,6 @@
 ---
 number: "37"
-path: "/episodes/gillian"
+path: "gillian"
 date: "2021-09-29"
 title: "Gillian Hadfield on Regulatory Markets, Silly Rules, and why Humans Invented Law"
 audio: "https://pinecast.com/listen/73908278-b3b5-4ba4-bdba-edc40d0c1929.mp3"

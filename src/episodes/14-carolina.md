@@ -1,6 +1,6 @@
 ---
 number: "14"
-path: "/episodes/carolina"
+path: "carolina"
 date: "2020-07-30"
 title: "Carolina Alves on Heterodox Economics, Diversity in Academia, and the Global South"
 audio: "https://pinecast.com/listen/8dd53464-812a-436e-a0c5-115b62f04813.mp3"

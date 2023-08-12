@@ -1,6 +1,6 @@
 ---
 number: "41"
-path: "/episodes/michael"
+path: "michael"
 date: "2022-01-15"
 title: "Michael Bhaskar on Big Ideas and the Great Stagnation"
 audio: "https://pinecast.com/listen/e80f4d5b-1219-4f71-83f9-1ade3d6c54fb.mp3"

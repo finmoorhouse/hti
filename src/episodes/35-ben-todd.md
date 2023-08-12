@@ -1,6 +1,6 @@
 ---
 number: "35"
-path: "/episodes/ben"
+path: "ben"
 date: "2021-08-23"
 title: "Ben Todd on Choosing a Career and Defining Longtermism"
 audio: "https://pinecast.com/listen/d4a03c94-11ef-45be-9bd7-acd7a0918b55.mp3"

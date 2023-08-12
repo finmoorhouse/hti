@@ -1,6 +1,6 @@
 ---
 number: "05"
-path: "/episodes/kent"
+path: "kent"
 date: "2020-02-06"
 title: "Kent Berridge on Dopamine, Addiction, and Neuroscience"
 audio: "https://pinecast.com/listen/0e3f132e-3c11-456c-8ca9-26c380880523.mp3"

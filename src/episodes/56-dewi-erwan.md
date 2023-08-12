@@ -1,6 +1,6 @@
 ---
 number: "56"
-path: "/episodes/erwan"
+path: "erwan"
 date: "2022-11-30"
 title: "Dewi Erwan on BlueDot Impact and Scaling High-Impact Organisations"
 audio: "https://pinecast.com/listen/8a5ea7fd-1cc4-4360-88d6-9afefab35670.mp3"

@@ -1,6 +1,6 @@
 ---
 number: "13"
-path: "/episodes/jaime"
+path: "jaime"
 date: "2020-07-18"
 title: "Jaime Sevilla Molina on Forecasting, Cultural Persistence, and Quantum Computing"
 audio: ""

@@ -1,6 +1,6 @@
 ---
 number: "55"
-path: "/episodes/pannu-monrad"
+path: "pannu-monrad"
 date: "2022-10-29"
 title: "Jassi Pannu and Joshua Monrad on Pandemic Preparedness"
 audio: "https://pinecast.com/listen/d8178883-8047-4a74-be4b-b9b0d215aa06.mp3"

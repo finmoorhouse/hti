@@ -1,6 +1,6 @@
 ---
 number: "59"
-path: "/episodes/miller"
+path: "miller"
 date: "2023-03-02"
 title: "Chris Miller on the History of Semiconductors, TSMC, and the CHIPS Act"
 audio: "https://pinecast.com/listen/434f6405-3941-42f6-a688-cc1e2c5eaca6.mp3"

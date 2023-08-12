@@ -1,6 +1,6 @@
 ---
 number: "58"
-path: "/episodes/robichaud"
+path: "robichaud"
 date: "2023-02-16"
 title: "Carl Robichaud on Reducing the Risks of Nuclear War"
 audio: "https://pinecast.com/listen/62db2142-0f56-4534-8cbb-bc01378da893.mp3"

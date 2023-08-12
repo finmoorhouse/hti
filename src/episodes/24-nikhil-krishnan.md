@@ -1,6 +1,6 @@
 ---
 number: "24"
-path: "/episodes/nikhil"
+path: "nikhil"
 date: "2021-02-20"
 title: "Nikhil Krishnan on the History and Future of Analytic Philosophy"
 audio: "https://pinecast.com/listen/b626f7f2-9230-4f37-99f2-5d84cc5cdca9.mp3"

@@ -1,6 +1,6 @@
 ---
 number: "61"
-path: "/episodes/stewart"
+path: "stewart"
 date: "2023-04-03"
 title: "Rory Stewart on GiveDirectly and Massively Scaling Cash Transfers"
 audio: "https://pinecast.com/listen/e5291b0f-459b-4593-9698-2e207f1a000f.mp3"

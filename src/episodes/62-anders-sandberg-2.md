@@ -1,6 +1,6 @@
 ---
 number: "62"
-path: "/episodes/sandberg-live"
+path: "sandberg-live"
 date: "2023-04-03"
 title: "Anders Sandberg on Exploratory Engineering, Value Diversity, and Grand Futures"
 audio: "https://pinecast.com/listen/5ab6767b-0203-494c-b048-47c699bc3805.mp3"

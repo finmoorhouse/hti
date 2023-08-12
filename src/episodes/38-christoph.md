@@ -1,6 +1,6 @@
 ---
 number: "38"
-path: "/episodes/christoph"
+path: "christoph"
 date: "2021-10-18"
 title: "Christoph Winter on the Legal Priorities Project"
 audio: "https://pinecast.com/listen/c477a682-a0b9-4761-894f-40f3325c0e56.mp3"

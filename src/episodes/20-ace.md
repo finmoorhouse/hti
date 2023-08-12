@@ -1,6 +1,6 @@
 ---
 number: "20"
-path: "/episodes/ace"
+path: "ace"
 date: "2020-12-15"
 title: "Leah Edgerton and Manja Gärtner on Animal Charity Evaluation"
 audio: "https://pinecast.com/listen/9dde746f-1f55-469d-ae52-bedd5ba2e6dc.mp3"

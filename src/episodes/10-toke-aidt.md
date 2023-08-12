@@ -1,6 +1,6 @@
 ---
 number: "10"
-path: "/episodes/toke"
+path: "toke"
 date: "2020-03-06"
 title: "Toke Aidt on Corruption and Political Economy"
 audio: "https://pinecast.com/listen/0407b25d-0418-4c8c-8724-e3b078d95817.mp3"

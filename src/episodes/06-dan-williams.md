@@ -1,6 +1,6 @@
 ---
 number: "06"
-path: "/episodes/dan"
+path: "dan"
 date: "2020-02-13"
 title: "Dan Williams on Political Misinformation, Self-Delusion, and Signalling"
 audio: "https://pinecast.com/listen/a8450188-fe8c-4c2d-a7b5-e7cb1832afb9.mp3"

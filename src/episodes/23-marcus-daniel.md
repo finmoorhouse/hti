@@ -1,6 +1,6 @@
 ---
 number: "23"
-path: "/episodes/marcus"
+path: "marcus"
 date: "2021-02-08"
 title: "Marcus Daniell on High Impact Athletes, Communicating EA, and the Purpose of Sport"
 audio: "https://pinecast.com/listen/5ee45fbc-4841-4a70-9f82-8652aa84681e.mp3"

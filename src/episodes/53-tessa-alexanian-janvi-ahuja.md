@@ -1,6 +1,6 @@
 ---
 number: "53"
-path: "/episodes/alexanian-ahuja"
+path: "alexanian-ahuja"
 date: "2022-09-21"
 title: "Tessa Alexanian and Janvi Ahuja on Synthethic Biology and GCBRs"
 audio: "https://pinecast.com/listen/4043eff9-7ddb-4d08-9554-3d00927a7c57.mp3"

@@ -1,6 +1,6 @@
 ---
 number: "63"
-path: "/episodes/garfinkel"
+path: "garfinkel"
 date: "2023-05-13"
 title: "Ben Garfinkel on AI Governance"
 audio: "https://pinecast.com/listen/38d8b847-e34e-49f5-b041-6e9306943665.mp3"

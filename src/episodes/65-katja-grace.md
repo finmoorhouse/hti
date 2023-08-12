@@ -1,6 +1,6 @@
 ---
 number: "65"
-path: "/episodes/grace"
+path: "grace"
 date: "2023-06-10"
 title: "Katja Grace on Slowing Down AI and Whether the X-Risk Case Holds Up"
 audio: "https://pinecast.com/listen/a5127960-d4a7-40e7-9a58-6b9c607567a2.mp3"

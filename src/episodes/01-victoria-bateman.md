@@ -1,6 +1,6 @@
 ---
 number: "01"
-path: "/episodes/victoria"
+path: "victoria"
 date: "2019-12-21"
 title: "Victoria Bateman on the Industrial Revolution and Economic History"
 audio: "https://pinecast.com/listen/70dd4fad-4207-4ea5-a0d5-ca50fd04b252.mp3"

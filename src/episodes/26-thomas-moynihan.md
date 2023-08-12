@@ -1,6 +1,6 @@
 ---
 number: "26"
-path: "/episodes/thomas"
+path: "thomas"
 date: "2021-03-22"
 title: "Thomas Moynihan on the History of Existential Risk"
 audio: "https://pinecast.com/listen/4f111003-cf05-444a-b127-cf50cf7007ae.mp3"

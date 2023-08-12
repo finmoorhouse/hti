@@ -1,6 +1,6 @@
 ---
 number: "08"
-path: "/episodes/george"
+path: "george"
 date: "2020-02-16"
 title: "George Rosenfeld on Effective Giving and Building a Charitable Movement"
 audio: "https://pinecast.com/listen/765d1a95-e4db-4976-aa0d-e9f538cd3910.mp3"
