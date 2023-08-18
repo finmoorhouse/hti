@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "eleventy --serve --quiet",
     "build": "rm -rf build && eleventy && NODE_ENV=production postcss ./src/global.css > build/global-processed.css",
-    "tailwind:process": "tailwindcss -i src/global.css -o build/global-processed.css -w --silent",
+    "tailwind:process": "tailwindcss -i src/global.css -o build/global-processed.css -w --watch '.md' --silent",
     "dev": "concurrently \"npm run tailwind:process\" \"npm run serve\""
   },
   "keywords": [],
