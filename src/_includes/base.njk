@@ -65,22 +65,22 @@
   {% endif %}
 
   <!-- Netlify Identity Widget -->
-  {% if page.url == "/" %}
+  <!-- {% if page.url == "/" %}
   <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {% endif %}
+  {% endif %} -->
   
   <title>{% if title %}{{ title }} - {% endif %}{{ site.author }}</title>
 </head>
-<body id="top" class="">
-  <nav class="flex flex-row max-w-lg mx-auto justify-between py-4 text-sm px-4">
-    <header class="flex flex-none opacity-50 hover:underline decoration-dotted font-mono uppercase font-bold"><a href="/">Hear This Idea</a></header>
-    <ul class="flex flex-none gap-x-4">
+<body id="top">
+  <nav class="max-w-2xl pt-4 pb-2  flex justify-between mx-auto px-4">
+    <header class="aspect-square w-16 bg-slate-800 rounded-md shadow-lg hover:ring-4 ring-slate-300"><a href="/" class=" decoration-dotted font-mono uppercase  text-slate-100 h-full text-center leading-3 flex items-center"><span class="align-middle inline">Hear This Idea</span></a></header>
+    <ul class="flex flex-none gap-x-2 sm:pr-12 mt-2">
     {% for item in nav.items %}
     <li class="inline"><a href="{{ item.url }}"
       {% if (item.url in page.url and item.url!="/") or (item.url == "/" and page.url == "/") %}
-      aria-current="page" data-state="active" class="opacity-100 underline decoration-dotted"
+      aria-current="page" data-state="active" class="opacity-100  decoration-dotted bg-slate-100 rounded-md px-3 py-2 border border-gray-300 shadow-sm"
       {% else %}
-      class="opacity-50 hover:underline decoration-dotted"
+      class="opacity-50 hover:underline decoration-dotted px-3 py-2"
       {% endif %} target="_self">{{ item.name }}</a>
     </li>
     {% endfor %}
