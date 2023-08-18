@@ -12,11 +12,9 @@ tags: [episodes]
 
 [Guive Assadi](https://www.governance.ai/team/guive-assadi) is a Research Scholar at the [Center for the Governance of AI](https://www.governance.ai). Guive’s research focuses on the conceptual clarification of, and  prioritisation among, potential risks posed by emerging technologies. He holds a master’s in history from Cambridge University, and a bachelor’s from UC Berkeley.
 
-<div class="episode-image_variable episode-image_smaller">
 
-{% image "guive.jpg" "Guive Assadi" %}
+{% image "guive.jpg" "small" %}
 
-</div>
 
 In this episode,, we discuss Guive's paper, ['Will Humanity Choose Its Future?'](https://philarchive.org/rec/ASSWHC).
 * What is an 'evolutionary future', and would it count as an existential catastrophe?

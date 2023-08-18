@@ -10,15 +10,15 @@
     },
     {
       "url": "https://podcasts.apple.com/gb/podcast/hear-this-idea/id1496501781",
-      "name": "Apple Podcasts"
+      "name": "Apple"
     },
     {
       "url": "https://podcasts.google.com/?feed=aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9oZWFyLXRoaXMtaWRlYQ",
-      "name": "Google Podcasts"
+      "name": "Google"
     },
     {
       "url": "https://pnc.st/s/hear-this-idea",
-      "name": "Other podcast apps"
+      "name": "Other apps"
     }
   ]
 }

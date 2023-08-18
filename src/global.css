@@ -57,3 +57,13 @@ main {
   opacity: 0.6;
   padding-left: 0.2em;
 }
+
+/* img {
+  max-width: 800px;
+}
+img[width] {
+  width: auto; 
+}
+img[width][height] {
+  height: auto; 
+} */
