@@ -34,6 +34,7 @@ module.exports = {
         "Noto Color Emoji",
       ],
       mono: [
+        "Space Mono",
         "ui-monospace",
         "SFMono-Regular",
         "Menlo",
@@ -45,6 +46,9 @@ module.exports = {
       ],
     },
     screens: {
+      'sm': '576px',
+      'md': '960px',
+      'lg': '1440px',
       desktop: "1400px",
       tablet: "600px",
     },
