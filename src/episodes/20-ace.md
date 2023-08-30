@@ -51,7 +51,7 @@ ACE is committed to [anti-speciesism](https://anti-speciesism.com/), the claim t
 
 Whilst many people might be aware of the extreme scale of meat production (see our [write-up on Peter Singer](https://hearthisidea.com/episodes/peter#the-scale-of-the-problem)), they might not be mindful of how this compares to other causes of animal suffering or exploitation. In the graph below, we see that farming accounts for 99.6% of all animals killed in the US. Animal shelters account for 0.03%.
 
-And yet, this massive imbalance is not even close to being reflected in the proportions of charitable donations which go to animal charities: only 0.8% goes to charities specifically focusing on farmed animals, whilst 66% goes to shelters. Farmed animals are underrepresented by a factor of 124.5 (=99.6/0.8); sheltered animals are overrepresented by a factor of 2,200 (=1/ 0.03/66). Thus, on a per animals killed basis, sheltered animals recieve 273,900 times more charitable donations than farmed animals.
+And yet, this massive imbalance is not even close to being reflected in the proportions of charitable donations which go to animal charities: only 0.8% goes to charities specifically focusing on farmed animals, whilst 66% goes to shelters. Farmed animals are underrepresented by a factor of 124.5 (=99.6/0.8); sheltered animals are overrepresented by a factor of 2,200 (=1/ 0.03/66). Thus, on a per animals killed basis, sheltered animals receive 273,900 times more charitable donations than farmed animals.
 
 {% image "animal-donations.jpg" "Animal donations" %}
 
