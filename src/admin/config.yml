@@ -22,7 +22,7 @@ collections:
     name: "episodes"
     folder: "src/episodes"
     create: true # This allows you to create new instances in the CMS
-    slug: "{{path}}"
+    slug: "{{number}}-{{path}}"
     editor:
       preview: false
     fields:
