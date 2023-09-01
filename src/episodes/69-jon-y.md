@@ -1,10 +1,10 @@
 ---
 title: Jon Y (Asianometry) on Problems And Progress in Semiconductor Manufacturing
-audio: https://pinecast.com/listen/{some-numbers}.mp3
+audio: https://pinecast.com/listen/de8670e9-b83c-4826-8d96-67ba5f91c89a.mp3
+featuredImage: jon-share.png
+backgroundImage: jon-bg-smaller.jpg
 path: asianometry
 number: 69
-featuredImage: jon-share.png
-backgroundImage: jon-bg.png
 date: 2023-09-01
 ---
 [Jon Y](https://www.asianometry.com/) is the creator of the [Asianometry YouTube channel](https://www.youtube.com/c/Asianometry) and accompanying newsletter. He describes his channel as making "video essays on business, economics, and history. Sometimes about Asia, but not always."
