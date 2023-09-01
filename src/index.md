@@ -27,7 +27,7 @@ We write an accompanying article [for each episode](/episodes)  which includes a
 
 We value feedback of any kind, and you can leave some through our [feedback form](https://feedback.hearthisidea.com/listener). As a thank you for taking time to leave feedback, you'll be able to **redeem a free book** from a list of books that we highly recommend. You're welcome to fill out the form anonymously.
 
-<a href='[/grants](https://feedback.hearthisidea.com/listener)' class="no-underline bg-gold-400 font-sans outline-gold-500 outline-[3px] m-2 px-5 py-3 rounded-lg inline-block hover:outline outline-offset-[-3px]">
+<a href='https://feedback.hearthisidea.com/listener' class="no-underline bg-gold-400 font-sans outline-gold-500 outline-[3px] m-2 px-5 py-3 rounded-lg inline-block hover:outline outline-offset-[-3px]">
 Give us feedback →
 </a>
 
