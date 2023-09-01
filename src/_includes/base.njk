@@ -80,7 +80,7 @@
       {% if (item.url in page.url and item.url!="/") or (item.url == "/" and page.url == "/") %}
       aria-current="page" data-state="active" class="opacity-100  decoration-dotted bg-slate-100 rounded-md px-3 py-2 border border-gray-300 shadow-sm"
       {% else %}
-      class="opacity-50 hover:underline decoration-dotted px-3 py-2"
+      class="opacity-50 decoration-dotted px-3 py-2 hover:outline outline-1 outline-gray-300 rounded-md box-border"
       {% endif %} target="_self">{{ item.name }}</a>
     </li>
     {% endfor %}

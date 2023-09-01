@@ -18,23 +18,24 @@ local_backend: true
 # Add your collections. Here's an example of multiple collections: 
 collections:
 # Episodes Collection
-  - label: "Episodes"
+  - label: "Episode"
     name: "episodes"
     folder: "src/episodes"
     create: true # This allows you to create new instances in the CMS
+    slug: "{{path}}"
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Audio", name: "audio", widget: "string" }
-      - { label: "Path", name: "path", widget: "string" }
-      - { label: "Number", name: "number", widget: "number" }
-      - { label: "Featured Image", name: "featuredImage", widget: "string" }
-      - { label: "Background Image", name: "backgroundImage", widget: "string" }
-      - { label: "Date", name: "date", widget: "string" }
+      - { label: "Title", name: "title", widget: "string", default: "Name on XYZ"}
+      - { label: "Audio", name: "audio", widget: "string", default: "https://pinecast.com/listen/{some-numbers}.mp3" }
+      - { label: "Path", name: "path", widget: "string", default: "surname"  }
+      - { label: "Number", name: "number", widget: "number", default: "99"  }
+      - { label: "Share Image", name: "featuredImage", widget: "string", default: "{surname}-share.png"  }
+      - { label: "Background Image", name: "backgroundImage", widget: "string", default: "{surname}-bg.png"  }
+      - { label: "Date", name: "date", widget: "string", default: "YYYY-MM-DD" }
       - { label: "Body", name: "body", widget: "markdown" }
 # Pages Collection
-  - label: "Pages"
+  - label: "Page"
     name: "pages"
     folder: "src/pages"
     create: true # This allows you to create new instances in the CMS

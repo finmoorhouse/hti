@@ -4,59 +4,60 @@ extraStyle:
   ["/style/episode.css", "https://unpkg.com/katex@latest/dist/katex.min.css"]
 ---
 
-{% bg number+"/"+backgroundImage %} {% if page.date %}
-<p class="font-mono mb-2 text-slate-200">
-  {{
-    page.date.toLocaleDateString("en-GB", {
-      year: "numeric",
-      month: "long",
-      day: "numeric"
-    })
-  }}
-</p>
-<h1 class="mb-4 text-slate-50 align-bottom inline-block">{{ title }}</h1>
-{% endif %} {% endbg %}
+  {% bg number+"/"+backgroundImage %} {% if page.date %}
+  <p class="font-mono mb-2 text-slate-200">
+    {{
+      page.date.toLocaleDateString("en-GB", {
+        year: "numeric",
+        month: "long",
+        day: "numeric"
+      })
+    }}
+  </p>
+  <h1 class="mb-4 text-slate-50 align-bottom inline-block">{{ title }}</h1>
+  {% endif %} {% endbg %}
 
-<a
-  href="/episodes"
-  class="rounded-md bg-slate-100 font-sans no-underline py-2 px-3 mr-4 border border-gray-300 shadow-sm font-medium text-gray-700 hover:bg-gray-50 mb-4 inline-block"
-  >← Back to all episodes</a
->
-<a
-  href="https://feedback.hearthisidea.com/episode?title={{ title }}&number=2"
-  class="rounded-md bg-slate-100 font-sans no-underline py-2 px-3 border border-gray-300 shadow-sm font-medium text-gray-700 hover:bg-gray-50 mb-4 inline-block"
-  >Leave feedback on this episode ↗</a
->
-{% if content | toc %}
-
-<script
-  type="module"
-  crossorigin
-  src="https://embed.type3.audio/player.js"
-></script>
-<type-3-player
-  mp3-url="{{ audio }}"
-  background-color="#f1f5f9"
-  analytics="none"
-  primary-color="#222"
-  secondary-color="#aaa"
-  accent-color="#f2cb32"
-  primary-font-family="Merriweather,Source Serif Pro,Apple Garamond,Baskerville,Libre Baskerville,Droid Serif,Times New Roman,Times,serif,ui-serif,Noto Emoji,Quivira, serif"
-  t3a-logo="false"
-  secondary-font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
->
-</type-3-player>
-
-<div class="flex flex-wrap py-4">
-  {% for item in links.items %}
   <a
-    href="{{ item.url }}"
-    class="no-underline border border-yellow-400 bg-yellow-300 font-sans outline-yellow-500 outline-[3px] my-2 mr-4 px-3 py-2 rounded-lg block outline-offset-[-3px] hover:bg-yellow-200 shadow-sm"
-    target="_blank"
-    >{{ item.name }}</a
+    href="/episodes"
+    class="rounded-md bg-slate-100 font-sans no-underline py-2 px-3 mr-4 border border-gray-300 shadow-sm font-medium text-gray-700 hover:bg-gray-50 mb-4 inline-block"
+    >← Back to all episodes</a
   >
-  {% endfor %}
-</div>
+  <a
+    href="https://feedback.hearthisidea.com/episode?title={{ title }}&number=2"
+    class="rounded-md bg-slate-100 font-sans no-underline py-2 px-3 border border-gray-300 shadow-sm font-medium text-gray-700 hover:bg-gray-50 mb-4 inline-block"
+    >Leave feedback on this episode ↗</a
+  >
+  {% if content | toc %}
+
+  <script
+    type="module"
+    crossorigin
+    src="https://embed.type3.audio/player.js"
+  ></script>
+  <type-3-player
+    mp3-url="{{ audio }}"
+    background-color="#f1f5f9"
+    analytics="none"
+    primary-color="#222"
+    secondary-color="#aaa"
+    accent-color="#f2cb32"
+    primary-font-family="Merriweather,Source Serif Pro,Apple Garamond,Baskerville,Libre Baskerville,Droid Serif,Times New Roman,Times,serif,ui-serif,Noto Emoji,Quivira, serif"
+    t3a-logo="false"
+    secondary-font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+  >
+  </type-3-player>
+
+  <div class="flex flex-wrap py-4">
+    {% for item in links.items %}
+    <a
+      href="{{ item.url }}"
+      class="no-underline border border-yellow-400 bg-yellow-300 font-sans outline-yellow-500 outline-[3px] my-2 mr-4 px-3 py-2 rounded-lg block outline-offset-[-3px] hover:bg-yellow-200 shadow-sm"
+      target="_blank"
+      >{{ item.name }}</a
+    >
+    {% endfor %}
+  </div>
+
 
 <div
   class="block desktop:hidden text-sm px-8 py-2 font-sans mb-4 bg-slate-100 rounded-md ring-2 ring-slate-100 hover:ring-slate-200"
