@@ -4,11 +4,20 @@ const Image = require("@11ty/eleventy-img");
 const LFS_URL = "https://hti-images.netlify.app/";
 const matter = require("gray-matter");
 const fs = require("fs");
+const path = require("path");
 
 //Maybe this is inefficient?
-async function imageShortcode(src, alt = src, size = "medium") {
+async function imageShortcode(src, alt = src, size) {
+  const str = fs.readFileSync(this.page.inputPath, "utf8");
+  // Reading the file to get the 'number' frontmatter field.
+  const data = matter(str).data;
+  let urlPath = LFS_URL;
+  if (data.number) {
+    urlPath = LFS_URL + `episodes/${data.number}/`;
+  }
+
   const metadataOptions = {
-    widths: [100, 600],
+    widths: [1000, 750, 500, 300],
     formats: ["avif", "jpeg"],
     outputDir: "build/img/",
     cacheOptions: {
@@ -19,14 +28,7 @@ async function imageShortcode(src, alt = src, size = "medium") {
       removeUrlQueryParams: true,
     },
   };
-  const str = fs.readFileSync(this.page.inputPath, "utf8");
-  // Reading the file to get the 'number' frontmatter field.
-  const data = matter(str).data;
-  let urlPath = LFS_URL;
-  if (data.number) {
-    urlPath = LFS_URL + `episodes/${data.number}/`;
-  }
-  let sizes = "100vw";
+  let sizes = "(max-width: 1000px) 100vw"; // This seems key
   let metadata = "";
   try {
     // New image source is host URL plus episode number plus filename.
@@ -42,7 +44,6 @@ async function imageShortcode(src, alt = src, size = "medium") {
       metadataOptions
     );
   }
-
   let imageAttributes = {
     alt,
     sizes,
@@ -57,9 +58,9 @@ async function imageShortcode(src, alt = src, size = "medium") {
 }
 
 async function featuredImageShortcode(content, src, alt) {
-  let fullSrc = LFS_URL + `episodes/${src}?nf_resize=smartcrop&w=1000`;
+  let fullSrc = LFS_URL + `episodes/${src}`;
   const metadataOptions = {
-    widths: [1000],
+    widths: [400],
     formats: ["avif", "jpeg"],
     outputDir: "build/img/",
     cacheOptions: {
@@ -83,14 +84,25 @@ async function featuredImageShortcode(content, src, alt) {
     // Optionally return placeholder
     returnedImage = await Image(
       "https://upload.wikimedia.org/wikipedia/commons/1/14/Rubber_Duck_(8374802487).jpg",
-      metadataOptions
+      {
+        widths: [400],
+        formats: ["avif", "jpeg"],
+        outputDir: "build/img/",
+        cacheOptions: {
+          // if a remote image URL, this is the amount of time before it fetches a fresh copy
+          duration: "100d",
+          // project-relative path to the cache directory
+          directory: ".cache",
+          removeUrlQueryParams: true,
+        },
+      }
     );
   }
   return `<div
   class="p-0 w-3/12 sm:w-full bg-cover overflow-hidden aspect-square sm:aspect-video"
   style="background-image: url('${returnedImage.avif[0].url}')"
   >${content}
-</div>`;
+</div>`; // returnedImage.avif[0] is smallest, and returnedImage.avif[n] is largest for n sizes. But currently these images are not responsive. One thing I could do is make it a standard image element to support responsive sizes.
 }
 
 async function backgroundImageShortcode(content, src) {
