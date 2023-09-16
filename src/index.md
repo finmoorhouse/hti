@@ -4,43 +4,66 @@ layout: page.njk
 description: Conversations about ideas that matter.
 ---
 
-<span class="font-sans text-lg">Hear This Idea is a podcast about ideas that matter.</span>
+<div
+  class="rounded-lg ring-2 ring-slate-200 mb-4 shadow-md sm:bg-contain bg-contain relative
+  overflow-hidden p-0 sm:pt-[280px] max-w-[1200px] sm:bg-top bg-top pt-[200px] bg-zinc-800"
+  style="background-image: url({{ 'pages/home/hti-mosaic-bw.png' | bgsrcfilter }})"
+>
+<!-- This div needs some work, e.g. to work on mobile, and to looks nice. Maybe make it yellow. -->
+<!-- {% image "pages/home/logo.png" "Podcast cover art" %} -->
+<div class="absolute inset-0 bg-gradient-to-t from-transparent to-yellow-800 opacity-80 z-0 mix-blend-screen sm:max-h-full max-h-[300px]"></div>
+<div class="absolute inset-0 bg-gradient-to-t from-slate-800 to-transparent opacity-100 z-0 mix-blend-multiply from-30% to-50%"></div>
+<div class="bg-zinc-800 sm:bg-opacity-50 sm:bg-blend-multiply bg-opacity-70 bg-blend-normal align-middle m-0 z-1 relative sm:p-8 pb-6 p-4">
+<h1 class="text-white sm:text-3xl text-2xl">Good ideas for big problems.</h1>
+<p class="relative font-sans sm:text-lg text-md text-white p-0 z-10 m-0 mt-6"><b>Hear This Idea</b> is a podcast about ideas for solving important problems, and the people trying to figure them out. Check out <a href='/episodes' class='text-white'>our episodes</a>, or listen anywhere you get podcasts:</p>
+<div class="flex flex-wrap md:justify-start justify-start rounded-md mx-auto not-prose mt-4">
 
-{% image 'pages/home/fandl.jpg' 'Alt text' %}
+{% for item in links.items %}
+<a href="{{item.url}}" class="text-center no-underline border mr-3 border-yellow-400 bg-yellow-300 font-sans outline-yellow-500 outline-[3px] px-3 py-1 rounded-lg block outline-offset-[-3px] hover:bg-yellow-200 shadow-sm mb-2 mt-1" target="_blank">{{item.name}}</a>
+{% endfor %}
+
+</div>
+</div>
+<!-- <div class="absolute inset-0 bg-gradient-to-t from-slate-600 to-transparent opacity-80 z-0 mix-blend-multiply hidden"></div> -->
+</div>
+<hr/>
 
 The hosts are long-time friends [Fin Moorhouse](https://www.finmoorhouse.com) (right) and [Luca Righetti](https://www.lucarighetti.com) (left). Luca is a Research Fellow at [Open Philanthropy](https://openphilanthropy.org/), and Fin is a Research Scholar at the [Future of Humanity Institute](https://www.fhi.ox.ac.uk).[^1]
 
 [^1]: Small print: Hear This Idea is an entirely personal project, and is not affiliated with our current employers!
 
-We write an accompanying article [for each episode](/episodes)  which includes a full transcript, reading recommendations, and as many  links as we can find. You can browse all our guests' recommendations on  our [library page](/library).
-
-## Where to listen
-
-<div class="flex flex-wrap">
-{% for item in links.items %}
-<a href="{{item.url}}" class="no-underline bg-gold-400 font-sans outline-gold-500 outline-[3px] mx-2 px-4 py-2 rounded-lg block hover:outline outline-offset-[-3px] mb-0 my-[-10px]" target="_blank">{{item.name}}</a>
-{% endfor %}
-</div>
-
+We write an accompanying article [for each episode](/episodes) which includes a full transcript, reading recommendations, and as many links as we can find.
 
 ## Feedback
 
-We value feedback of any kind, and you can leave some through our [feedback form](https://feedback.hearthisidea.com/listener). As a thank you for taking time to leave feedback, you'll be able to **redeem a free book** from a list of books that we highly recommend. You're welcome to fill out the form anonymously.
+You can leave us [quick feedback about anything here](https://feedback.hearthisidea.com/quick-feedback).
 
-<a href='https://feedback.hearthisidea.com/listener' class="no-underline bg-gold-400 font-sans outline-gold-500 outline-[3px] m-2 px-5 py-3 rounded-lg inline-block hover:outline outline-offset-[-3px]">
+We also have a more structured (5–10 minute) [feedback form](https://feedback.hearthisidea.com/listener). For taking time to fill it out, you'll be able to **redeem a free book** from a list of books that we highly recommend. Anonymous is fine.
+
+<a href='https://feedback.hearthisidea.com/listener' class="text-center no-underline border border-yellow-400 bg-yellow-300 font-sans outline-yellow-500 outline-[3px] my-2 px-3 py-2 rounded-lg inline-block outline-offset-[-3px] hover:bg-yellow-200 shadow-sm">
 Give us feedback →
 </a>
 
 Note that each episode also has an episode-specific feedback link.
 
-## Amplify grants
+## Amplify grants 📢
 
-Over the next few months, we’re running a small grants program for podcasts and other creative  media projects that spread ideas to help humanity navigate this century. Consider applying!
+Last year, we ran a [small grants program](/grants) for podcasts and other creative media projects that spread ideas to help humanity navigate this century. We're happy to have supported some great projects!
 
-<a href='/grants' class="no-underline bg-gold-400 font-sans outline-gold-500 outline-[3px] m-2 px-5 py-3 rounded-lg inline-block hover:outline outline-offset-[-3px]">
-Learn more →
+<a href='/amplify-grantees' class="text-center no-underline border border-yellow-400 bg-yellow-300 font-sans outline-yellow-500 outline-[3px] my-2 px-3 py-2 rounded-lg inline-block outline-offset-[-3px] hover:bg-yellow-200 shadow-sm">
+See the Amplify projects →
 </a>
 
 ## Support the show
 
-The best way to support the show is to leave an honest rating on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hear-this-idea/id1496501781), [Spotify](https://open.spotify.com/show/442fxr9pe0tbDtqEikODch), or elsewhere. Written reviews are especially appreciated. You can also [tip the show here](/donate).
+The best way to support the show is to leave an honest rating on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hear-this-idea/id1496501781), [Spotify](https://open.spotify.com/show/442fxr9pe0tbDtqEikODch), or elsewhere. Written reviews are especially appreciated.
+
+If you want to part with your money, [here are some suggestions](/donate).
+
+{% image 'pages/home/fandl.jpg' 'Alt text' %}
+
+## Thanks
+
+Above all this show is made possible by our amazing producer [Jason Cotrebil](https://audiolift.co/).
+
+Thanks also to [Claudia](https://www.linkedin.com/in/claudia-moorhouse-584077206/) for creating full transcripts of each episode, to [Jonas Kgomo](https://jonas-kgomo.github.io/) for helping improve a previous version of this website, and to [Type III Audio](https://preview.type3.audio/) for letting us use their audio player.
