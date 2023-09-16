@@ -105,8 +105,11 @@ async function featuredImageShortcode(content, src, alt) {
 </div>`; // returnedImage.avif[0] is smallest, and returnedImage.avif[n] is largest for n sizes. But currently these images are not responsive. One thing I could do is make it a standard image element to support responsive sizes.
 }
 
+
+
+// One thing I can do with this shortcode is move ~all the html to the episode.njk template, and just get it to return the background image URL
 async function backgroundImageShortcode(content, src) {
-  let fullSrc = LFS_URL + `episodes/${src}?nf_resize=smartcrop&w=1000`;
+  let fullSrc = LFS_URL + `episodes/${src}`;
   const metadataOptions = {
     widths: [1000],
     formats: ["avif", "jpeg"],
@@ -123,7 +126,6 @@ async function backgroundImageShortcode(content, src) {
     //console.log("Downloading:", fullSrc);
     // New image source is host URL plus episode number plus filename.
     updatedSrc = fullSrc;
-    // Docs on resizing images with Netlify LFS: https://docs.netlify.com/large-media/transform-images/
     returnedImage = await Image(updatedSrc, metadataOptions);
   } catch (error) {
     // Handle error
@@ -136,11 +138,44 @@ async function backgroundImageShortcode(content, src) {
     );
   }
   return `<div
-    class="rounded-lg ring-2 ring-slate-200 p-0 mb-8 shadow-md w-full bg-cover relative overflow-hidden  "
+    class="rounded-lg ring-2 ring-slate-200 p-0 mb-2 shadow-md w-full bg-cover relative overflow-hidden  "
     style="background-image: url('${returnedImage.avif[0].url}')"
-    ><div class="p-4 z-10 relative w-full h-full pt-10 md:pt-[130px]">${content}</div>
+    ><div class="p-4 z-10 relative w-full h-full">${content}</div>
     <div class="absolute inset-0 bg-gradient-to-t from-slate-800 to-transparent opacity-80 z-0 mix-blend-multiply"></div>
   </div>`;
+}
+
+// This is both a filter and a shortcode currently. It returns just the url of the 100px width version of the image passed to it. It doesn't work on episode pages, for some reason.
+async function generateBackgroundImageSrc(src) {
+  let fullSrc = LFS_URL + `${src}`;
+  const metadataOptions = {
+    widths: [1000],
+    formats: ["avif", "jpeg"],
+    outputDir: "build/img/",
+    cacheOptions: {
+      // if a remote image URL, this is the amount of time before it fetches a fresh copy
+      duration: "10d",
+      // project-relative path to the cache directory
+      directory: ".cache",
+      removeUrlQueryParams: true,
+    },
+  };
+  try {
+    console.log("Downloading:", fullSrc);
+    // New image source is host URL plus episode number plus filename.
+    updatedSrc = fullSrc;
+    returnedImage = await Image(updatedSrc, metadataOptions);
+  } catch (error) {
+    // Handle error
+    console.error("Error retrieving LFS image:", error);
+
+    // Optionally return placeholder
+    returnedImage = await Image(
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/Rubber_Duck_(8374802487).jpg",
+      metadataOptions
+    );
+  }
+  return returnedImage.avif[0].url;
 }
 
 // Other shortcodes
@@ -166,6 +201,7 @@ module.exports = {
   imageShortcode,
   featuredImageShortcode,
   backgroundImageShortcode,
+  generateBackgroundImageSrc,
   dateToString,
   aside,
 };
