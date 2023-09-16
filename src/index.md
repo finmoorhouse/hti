@@ -32,7 +32,7 @@ The hosts are long-time friends [Fin Moorhouse](https://www.finmoorhouse.com) (r
 
 [^1]: Small print: Hear This Idea is an entirely personal project, and is not affiliated with our current employers!
 
-We write an accompanying article [for each episode](/episodes) which includes a full transcript, reading recommendations, and as many links as we can find.
+{% image 'pages/home/fandl.jpg' 'Alt text' %}
 
 ## Feedback
 
@@ -59,8 +59,6 @@ See the Amplify projects →
 The best way to support the show is to leave an honest rating on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hear-this-idea/id1496501781), [Spotify](https://open.spotify.com/show/442fxr9pe0tbDtqEikODch), or elsewhere. Written reviews are especially appreciated.
 
 If you want to part with your money, [here are some suggestions](/donate).
-
-{% image 'pages/home/fandl.jpg' 'Alt text' %}
 
 ## Thanks
 
