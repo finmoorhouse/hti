@@ -23,6 +23,7 @@ collections:
     folder: "src/episodes"
     create: true # This allows you to create new instances in the CMS
     slug: "{{number}}-{{path}}"
+    sortable_fields: ["number","date"]
     editor:
       preview: false
     fields:
