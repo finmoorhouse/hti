@@ -6,8 +6,7 @@ extraStyle:
 
 {% set var = number+"/"+backgroundImage %} {% bg number+"/"+backgroundImage %}
 <span
-  class="px-3 py-1 rounded-lg bg-opacity-50 bg-slate-800 font-sans mb-3 text-slate-200
-  bg-blend-multiply inline-block border border-slate-400 shadow-sm border-opacity-50 align-top sm:text-base text-sm"
+  class="px-3 py-1 rounded-lg bg-opacity-50 bg-slate-800 font-sans mb-3 text-slate-200 bg-blend-multiply inline-block border border-slate-400 shadow-sm border-opacity-50 align-top sm:text-base text-sm"
 >
   Episode {{ number }} &#8226; {% if page.date %}
   {{
@@ -18,7 +17,9 @@ extraStyle:
     })
   }}
 </span>
-<h1 class="mb-4 text-slate-50 align-bottom inline-block md:mt-[130px] sm:text-4xl text-2xl sm:font-bold font-normal mt-12">
+<h1
+  class="mb-4 text-slate-50 align-bottom inline-block md:mt-[130px] sm:text-4xl text-2xl sm:font-bold font-normal mt-12"
+>
   {{ title }}
 </h1>
 {% endif %} {% endbg %} {% if content | toc %}
@@ -48,7 +49,7 @@ extraStyle:
 ></script>
 <type-3-player
   mp3-url="{{ audio }}"
-  custom-css="span > div.-z-50 {border: 1px solid #c5d2dc; box-shadow: 0 1px 8px 0 rgb(0 0 0 / 0.05), 0 1px 2px -1px rgb(0 0 0 / 0.1);}"
+  custom-css="span > div.-z-50 {border: 1px solid #c5d2dc;}"
   background-color="#f1f5f9"
   analytics="none"
   primary-color="#374151"
@@ -59,11 +60,11 @@ extraStyle:
   secondary-font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
 >
 </type-3-player>
-
+<!-- Can add to player: box-shadow: 0 1px 8px 0 rgb(0 0 0 / 0.05), 0 1px 2px -1px rgb(0 0 0 / 0.1);}" -->
 <div class="flex flex-wrap mt-2 mb-2 justify-center">
   <a
     href="/episodes"
-    class="rounded-md font-sans no-underline py-2 px-3 mr-4 hover:border-gray-300 border-white font-medium text-gray-700 hover:bg-gray-100  sm:inline-block hidden "
+    class="rounded-md font-sans no-underline py-1 px-3 font-medium text-gray-700 hover:outline outline-1 outline-gray-300 box-border sm:inline-block hidden"
     >← Back to all episodes</a
   >
   <!-- <span
@@ -73,10 +74,12 @@ extraStyle:
   > -->
   <a
     href="https://feedback.hearthisidea.com/episode?title={{ title }}&number=2"
-    class="ml-4 rounded-md font-sans no-underline py-2 px-3 hover:border-gray-300 border-white font-medium text-gray-700 hover:bg-gray-100 inline-block"
-    >Give us feedback ↗</a
+    class="ml-4 rounded-md font-sans no-underline py-1 px-3 font-medium text-gray-700 inline-block hover:outline outline-1 outline-gray-300 box-border"
+    >Leave feedback ↗</a
   >
 </div>
+
+<hr class="sm:mt-8 mt-4 sm:mb-8 mb-6" />
 
 <div
   class="block desktop:hidden text-sm px-8 py-2 font-sans mb-4 bg-slate-100 rounded-md ring-gray-300 hover:ring-1"
@@ -90,7 +93,12 @@ extraStyle:
     <h2>Contents</h2>
     <p>{{ content | wordStats }}</p>
     {{ content | toc | safe }}
-    <a href="#top">Back to top</a>
+    <br/>
+    <a
+      href="#top"
+      class="no-underline rounded-sm outline outline-1 outline-gray-300 p-2 ml-2 hover:bg-slate-100 box-border"
+      >Back to top &#8593;</a
+    >
   </div>
 </nav>
 {% endif %}
@@ -98,8 +106,6 @@ extraStyle:
 <div
   class="hidden md:block absolute inset-x-[calc(-50vw+32ch)] top-[-100px] bg-slate-100 bottom-10 h-[650px] px-[50px] -z-10"
 ></div>
-
-<hr />
 
 {{ content | safe }}
 
