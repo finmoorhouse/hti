@@ -11,7 +11,7 @@ pagination:
 <div
   class="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 lg:mx-[-10em] auto-rows-min sm:auto-cols-min"
 >
-  {% for post in pagination.items %}
+  {% for post in pagination.items | sort(true, false, 'data.number') %}
   <a href="{{ post.url }}" class="no-underline p-0 rounded-md overflow-hidden  leading-6 ring-2 ring-gray-100 hover:bg-slate-100 hover:ring-gray-300 text-slate-50 shadow-sm flex flex-row sm:flex-col">
 
       {% if post.data.backgroundImage %} {% set backgroundImage =
