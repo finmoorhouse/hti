@@ -28,7 +28,7 @@ description: Conversations about ideas that matter.
 </div>
 <hr/>
 
-The hosts are long-time friends [Fin Moorhouse](https://www.finmoorhouse.com) (right) and [Luca Righetti](https://www.lucarighetti.com) (left). Luca is a Research Fellow at [Open Philanthropy](https://openphilanthropy.org/), and Fin is a Research Scholar at the [Future of Humanity Institute](https://www.fhi.ox.ac.uk).[^1]
+The hosts are long-time friends [Fin Moorhouse](https://www.finmoorhouse.com) (right) and [Luca Righetti](https://www.lucarighetti.com) (left). Luca is a Research Fellow at [Open Philanthropy](https://openphilanthropy.org/), and Fin is a Researcher at [Longview Philanthropy](https://www.longview.org/).[^1]
 
 [^1]: Small print: Hear This Idea is an entirely personal project, and is not affiliated with our current employers!
 
