@@ -40,11 +40,11 @@
   <meta property="og:title" content="Hear This Idea">
   {% endif %}
   
-  <!-- Share image -->
-  {% if shareImage %}
-  <meta name="twitter:image" content="{{ shareImage }}">
-  <meta property="og:image" content="{{ shareImage }}">
-  <meta name="image" content="{{ shareImage }}">
+  <!-- Share image for episodes -->
+  {% if featuredImage %}
+  <meta name="twitter:image" content="https://hti-images.netlify.app/episodes/{{ number }}/{{ featuredImage }}">
+  <meta property="og:image" content="https://hti-images.netlify.app/episodes/{{ number }}/{{ featuredImage }}">
+  <meta name="image" content="https://hti-images.netlify.app/episodes/{{ number }}/{{ featuredImage }}">
   {% else %}
   <meta name="twitter:image" content="https://hti-images.netlify.app/share-images/hti-share.jpg">
   <meta property="og:image" content="https://hti-images.netlify.app/share-images/hti-share.jpg">
