@@ -8,11 +8,9 @@ https://www.hearthisidea.com
 
 ## About
 
-This is the current version of the website for the podcast https://www.hearthisidea.com. It was made by me, [Fin Moorhouse](https://finmoorhouse.com/).
+This is the current version of the website for the podcast https://www.hearthisidea.com. It was made by [me](https://finmoorhouse.com/).
 
-This is a static site built on [Eleventy](https://www.11ty.dev/) (11ty) and hosted on [Netlify](https://www.netlify.com/), with [Tailwind CSS](https://tailwindcss.com/) and a small number of additional plugins. The previous version of the site was built using [Gatsby JS](https://www.gatsbyjs.com/).
-
-The `/episodes` page has a Nunjucks shortcode for sidenotes, heavily inspired by Gwern's post on ['Sidenotes In Web Design'](https://gwern.net/sidenote).
+This is a static site built on [Eleventy](https://www.11ty.dev/) (11ty) and hosted on [Netlify](https://www.netlify.com/), with [Tailwind CSS](https://tailwindcss.com/) and a small number of additional plugins. The [previous version](https://github.com/finmoorhouse/hearthisidea.com/) of the site was built using [Gatsby JS](https://www.gatsbyjs.com/).
 
 ## Installation
 
@@ -39,10 +37,24 @@ A few particular frustrations began to accumulate:
 
 Why switch to 11ty? I spent some time looking for static site generators which were simpler, and better suited to a more novice developer building a site with fewer fancy requirements. I settled on 11ty because it has a decent plugin ecosystem, it's built around JS, which I know relatively well, and it seems to have a very friendly support community. So far it's working out well — it feels pitched at just the level of simplicity vs capability that I want. I might switch to something like Next in the future, but I don't currently see a reason to do so.
 
-### How do the images work?
+### Images
 
-A major question for me 
+In the [previous version](https://github.com/finmoorhouse/hearthisidea.com/) of this site, I hosted images in the repo itself. But this felt wrong, since in order to run the site locally, you needed to download the best part of 1GB of data.
 
-Comments, questions, and pull requests are welcome!
+I found it surprisingly difficult to find a solution for hosting images using Eleventy that allowed me to (i) process them with `eleventy-image`, (ii) use the standard Markdown image syntax rather than some kind of custom shortcode, and (iii) didn't feel too kludgy or inefficient. I couldn't find a way to get all three, which is strange, since I thought many people would be in my predicament. The approach I went for was to host my images on a [Netlify Large Media](https://docs.netlify.com/large-media/setup/) setup (using Git LFS); and then Eleventy would download, process, and cache the images. I forfeited (ii), since I can't get this to work with the standard Markdown image syntax. 
+
+This still feels a bit fiddly, even if it weren't for the fact that Netlify [recently discontinued](https://docs.netlify.com/large-media/setup/) their Large Media offering, so my setup will probably break in months to years. I plan to switch to Cloudinary, and maybe get Cloudinary to do all processing server-side, bypassing `netlify-image`.
+
+Any ideas on this front greatly appreciated!
+
+## Netlify CMS
+
+I installed [Netlify CMS](https://v1.netlifycms.org/) to give a way to edit the site without directly interfacing with `git`.
+
+It seems to work quite nicely (though adding images remains a kludge and doesn't play well with the media interface, as mentioned).
+
+---
+
+Comments, questions, and pull requests are all welcome!
 
 ![The Eleventy mascot](https://www.11ty.dev/img/built/IdthKOzqFA-350.png)
