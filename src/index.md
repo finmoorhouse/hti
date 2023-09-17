@@ -11,7 +11,7 @@ description: Conversations about ideas that matter.
 >
 <!-- This div needs some work, e.g. to work on mobile, and to looks nice. Maybe make it yellow. -->
 <!-- {% image "pages/home/logo.png" "Podcast cover art" %} -->
-<div class="absolute inset-0 bg-gradient-to-t from-transparent to-yellow-800 opacity-80 z-0 mix-blend-screen sm:max-h-full max-h-[300px]"></div>
+<div class="absolute inset-0 bg-gradient-to-t from-transparent to-amber-600 opacity-80 z-0 mix-blend-screen sm:max-h-full max-h-[300px]"></div>
 <div class="absolute inset-0 bg-gradient-to-t from-slate-800 to-transparent opacity-100 z-0 mix-blend-multiply from-30% to-50%"></div>
 <div class="bg-zinc-800 sm:bg-opacity-50 sm:bg-blend-multiply bg-opacity-70 bg-blend-normal align-middle m-0 z-1 relative sm:p-8 pb-6 p-4">
 <h1 class="text-white sm:text-3xl text-2xl">Good ideas for big problems.</h1>
