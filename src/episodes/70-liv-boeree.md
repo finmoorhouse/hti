@@ -2,7 +2,7 @@
 title: Liv Boeree on Healthy vs Unhealthy Competition
 audio: https://pinecast.com/listen/5c7460a5-d4fd-48c9-9775-3ac2c219184d.mp3
 featuredImage: liv-share.png
-backgroundImage: liv-bg.png
+backgroundImage: liv-bg-4.png
 path: boeree
 number: 70
 date: 2023-09-20
@@ -36,9 +36,7 @@ In this episode we talk about:
 ### On the analogy between powerful AI and powerful corporations
 * [Comment from Gwern](https://www.lesswrong.com/posts/JrLExmCZWTxkvK8ih/?commentId=v78JnLPJzD9idTQvi) on LessWrong —
 
->Corporations are not superintelligences. They are, in fact, extremely stupid, much stupider than the sum of their parts (a million corporate employees sum to a lot less than a million times smarter human), suffer from severe diseconomies of scale, and subject to only the [weakest forms of natural selection](https://gwern.net/backstop#artificial-persons) due to their inability to replicate themselves reliably leading to the permanent existence of very large dispersion in efficiency/quality between corporations. (You will never see a single especially-well-run corporation take over most of the business world, the way you repeatedly saw more-fit COVID viruses drive to extinction lesser variants.) They are *so* stupid that they cannot walk and chew bubblegum at the same time, and must choose, because they can only have 1 top priority at a time - and CEOs exist mostly to repeat the top priority that ["we do *X*"](https://apenwarr.ca/log/20190926).
-
-Why then do we have corporations and they have any real-world power at all? Because they are simply very large and parallel and potentially-immortal, and are the least-bad organizations human minds can reliably form at present given the blackbox of human minds & inability to copy them. Not because they are optimal or intelligent.
+>Corporations are not superintelligences. They are, in fact, extremely stupid, much stupider than the sum of their parts (a million corporate employees sum to a lot less than a million times smarter human), suffer from severe diseconomies of scale, and subject to only the [weakest forms of natural selection](https://gwern.net/backstop#artificial-persons) due to their inability to replicate themselves reliably leading to the permanent existence of very large dispersion in efficiency/quality between corporations. (You will never see a single especially-well-run corporation take over most of the business world, the way you repeatedly saw more-fit COVID viruses drive to extinction lesser variants.) They are *so* stupid that they cannot walk and chew bubblegum at the same time, and must choose, because they can only have 1 top priority at a time - and CEOs exist mostly to repeat the top priority that ["we do *X*"](https://apenwarr.ca/log/20190926). // Why then do we have corporations and they have any real-world power at all? Because they are simply very large and parallel and potentially-immortal, and are the least-bad organizations human minds can reliably form at present given the blackbox of human minds & inability to copy them. Not because they are optimal or intelligent.
 
 * [A Physicist Solves the City](https://www.nytimes.com/2010/12/19/magazine/19Urban_West-t.html) (New York Times) —
 
@@ -47,3 +45,5 @@ Why then do we have corporations and they have any real-world power at all? Beca
 ## Transcript
 
 *Coming soon!*
+
+{% image "liv-bg-2.png" "An Ai image of a poker game with a robot" %}
