@@ -15,7 +15,7 @@ path: "amplify-grantees"
 
 We’re really excited by all these projects. In particular, we’re glad to have found a number of grantees looking to reach relatively neglected audiences, including through non-English language content in Spanish, French, and Hindi.
 
-A huge thanks to [Nonlinear](https://www.nonlinear.org/) (especially [Drew Spartz](https://forum.effectivealtruism.org/users/meta)) for helping connect us with funding, and handling much of the logistics.[^1]
+Thanks to [Drew Spartz](https://forum.effectivealtruism.org/users/meta) from [Nonlinear](https://www.nonlinear.org/) for helping connect us with funding, and handling much of the logistics.[^1]
 
 [^1]: This project was originally supported through the FTX Future Fund’s regranting program. However, following the [collapse of FTX](https://80000hours.org/2022/11/regarding-the-collapse-of-ftx/) and convictions of immoral and/or illegal actions, we did not want to support the project through those means. Fortunately, we found a new donor with the help of the [Nonlinear Emergency Fund](https://www.lesswrong.com/posts/SkoxdYCAozBPfcJrP/announcing-nonlinear-emergency-funding). All funding the grantees received came from that donor.
 

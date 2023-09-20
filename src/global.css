@@ -43,6 +43,14 @@ main {
   position: relative;
 }
 
+/* .prose *::selection {
+  background: #ffffb2; 
+}
+.prose *::-moz-selection {
+  background: #ffffb2; 
+} */
+
+
 .obfuscate {
   unicode-bidi: bidi-override;
   direction: rtl;
