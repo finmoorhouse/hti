@@ -2,6 +2,8 @@
 title: About the show
 layout: page.njk
 description: Conversations about ideas that matter.
+extraStyle:
+  ["/style/home.css"]
 ---
 
 <div
@@ -9,17 +11,44 @@ description: Conversations about ideas that matter.
   overflow-hidden p-0 sm:pt-[280px] max-w-[1200px] sm:bg-top bg-top pt-[200px] bg-zinc-800"
   style="background-image: url({{ 'pages/home/hti-mosaic-bw.png' | bgsrcfilter }})"
 >
+
 <!-- This div needs some work, e.g. to work on mobile, and to looks nice. Maybe make it yellow. -->
 <!-- {% image "pages/home/logo.png" "Podcast cover art" %} -->
-<div class="absolute inset-0 bg-gradient-to-t from-transparent to-amber-600 opacity-80 z-0 mix-blend-screen sm:max-h-full max-h-[300px]"></div>
-<div class="absolute inset-0 bg-gradient-to-t from-slate-800 to-transparent opacity-100 z-0 mix-blend-multiply from-30% to-50%"></div>
+
+<!-- https://codepen.io/jasonhibbs/pen/dyKEdvY -->
+<div class="blobs z-2" role="presentation">
+    <div class="blob-rotate">
+        <div class="blob-move">
+            <div class="blob"></div>
+        </div>
+    </div>
+    <div class="blob-rotate">
+        <div class="blob-move">
+            <div class="blob"></div>
+        </div>
+    </div>
+    <div class="blob-rotate">
+        <div class="blob-move">
+            <div class="blob"></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="absolute inset-0 bg-pink-600 opacity-30 z-0 mix-blend-overlay sm:max-h-full max-h-[300px]"></div>
+
+<!-- bg-gradient-to-t from-transparent to-amber-600 -->
+<div class="absolute inset-0 bg-gradient-to-t from-slate-900 to-transparent opacity-100 z-0 mix-blend-multiply from-30% to-50%"></div>
 <div class="bg-zinc-800 sm:bg-opacity-50 sm:bg-blend-multiply bg-opacity-70 bg-blend-normal align-middle m-0 z-1 relative sm:p-8 pb-6 p-4">
-<h1 class="text-white sm:text-3xl text-2xl">Good ideas for big problems.</h1>
+<div class="absolute inset-0 -z-1 mix-blend-normal opacity-10 sm:max-h-full max-h-[300px] bg-repeat" style="background-image: url({{ 'pages/home/noise-dark.png' | bgsrcfilter }})"></div>
+<h1 class="text-white sm:text-3xl text-2xl relative z-1">Good ideas for big problems.</h1>
 <p class="relative font-sans sm:text-lg text-md text-white p-0 z-10 m-0 mt-6"><b>Hear This Idea</b> is a podcast about ideas for solving important problems, and the people trying to figure them out. Check out <a href='/episodes' class='text-white'>our episodes</a>, or listen anywhere you get podcasts:</p>
 <div class="flex flex-wrap md:justify-start justify-start rounded-md mx-auto not-prose mt-4">
 
 {% for item in links.items %}
-<a href="{{item.url}}" class="text-center no-underline border mr-3 border-yellow-400 bg-yellow-300 font-sans outline-yellow-500 outline-[3px] px-3 py-1 rounded-lg block outline-offset-[-3px] hover:bg-yellow-200 shadow-sm mb-2 mt-1" target="_blank">{{item.name}}</a>
+<a href="{{item.url}}" class="relative text-center no-underline border mr-3 border-yellow-400 bg-yellow-300 font-sans outline-yellow-500 outline-[3px] px-3 py-1 rounded-lg block outline-offset-[-3px] hover:bg-yellow-200 shadow-sm mb-2 mt-1 z-1" target="_blank">{{item.name}}</a>
 {% endfor %}
 
 </div>
@@ -27,6 +56,7 @@ description: Conversations about ideas that matter.
 <!-- <div class="absolute inset-0 bg-gradient-to-t from-slate-600 to-transparent opacity-80 z-0 mix-blend-multiply hidden"></div> -->
 </div>
 <hr/>
+
 
 The hosts are long-time friends [Fin Moorhouse](https://www.finmoorhouse.com) (right) and [Luca Righetti](https://www.lucarighetti.com) (left). Luca is a Research Fellow at [Open Philanthropy](https://openphilanthropy.org/), and Fin is a Researcher at [Longview Philanthropy](https://www.longview.org/).[^1]
 
