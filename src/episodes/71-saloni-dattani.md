@@ -1,6 +1,6 @@
 ---
 title: Saloni Dattani on Malaria Vaccines and Missing Data in Global Health
-audio: 
+audio: https://pinecast.com/listen/9eef99f9-56b7-46b0-b2d6-9bf2a77dac47.mp3
 featuredImage: dattani-share.png
 backgroundImage: malaria-bg-2.jpg
 path: dattani
@@ -35,6 +35,13 @@ In this episode we talk about:
 * [Missing Data In Global Health And Why It Matters | Saloni Dattani | EAGxCambridge 2023](https://www.youtube.com/watch?v=Ikx53I77NI8) (recorded talk)
 * [What is an Emergency? The Case for Rapid Malaria Vaccination](https://marginalrevolution.com/marginalrevolution/2023/10/what-is-an-emergency-the-case-of-rapid-malaria-vaccination.html) by Alex Tabarrock in Marginal Revolution
 * [Will no one rid me of this turbulent pest?](https://www.lesswrong.com/posts/gjs3q83hA4giubaAw/will-no-one-rid-me-of-this-turbulent-pest) by Metacelsus (on the technical requirements for a mosquito gene drive)
+## Corrections
+
+- The [*Cinchona* tree](https://en.wikipedia.org/wiki/Cinchona) is not pronounced "kin-chona" but rather [/sɪŋˈkoʊnə/](http://ipa-reader.xyz/?text=s%C9%AA%C5%8B%CB%88ko%CA%8An%C9%99) or [/sɪnˈtʃoʊnə/](http://ipa-reader.xyz/?text=s%C9%AAn%CB%88t%CA%83o%CA%8An%C9%99), i.e. "syn-kona" or "syn-chona"
+- "Sporozoite" is not pronounced with an -e as in "bee" sound at the end, but rather [/spɔːrəˈzəʊ.aɪts/](/spɔːrəˈzəʊ.aɪts/) or [/spɒrəˈzəʊ.ɪts/](/spɒrəˈzəʊ.ɪts/)[^1], i.e. "spore" – "oh" – "zo"-as-in-"Zoe" – "ites"-as-in-"nights" 
+
+[^1]: ChatGPT generated these [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) words so they might not be entirely accurate!
+
 ## Transcript
 
 *Coming soon!*
