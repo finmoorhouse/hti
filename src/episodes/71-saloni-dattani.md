@@ -1,7 +1,7 @@
 ---
 title: Saloni Dattani on Malaria Vaccines and Missing Data in Global Health
 audio: https://pinecast.com/listen/9eef99f9-56b7-46b0-b2d6-9bf2a77dac47.mp3
-featuredImage: dattani-share.png
+featuredImage: saloni-share.png
 backgroundImage: malaria-bg-2.jpg
 path: dattani
 number: 71
