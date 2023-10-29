@@ -58,7 +58,7 @@ async function imageShortcode(src, alt = src, size) {
 }
 
 async function featuredImageShortcode(content, src, alt) {
-  let fullSrc = LFS_URL + `episodes/${src}`;
+  let fullSrc = LFS_URL + `${src}`;
   const metadataOptions = {
     widths: [400],
     formats: ["avif", "jpeg"],
@@ -109,7 +109,7 @@ async function featuredImageShortcode(content, src, alt) {
 
 // One thing I can do with this shortcode is move ~all the html to the episode.njk template, and just get it to return the background image URL
 async function backgroundImageShortcode(content, src) {
-  let fullSrc = LFS_URL + `episodes/${src}`;
+  let fullSrc = LFS_URL + `${src}`;
   const metadataOptions = {
     widths: [1000],
     formats: ["avif", "jpeg"],
@@ -138,7 +138,7 @@ async function backgroundImageShortcode(content, src) {
     );
   }
   return `<div
-    class="rounded-lg ring-2 ring-slate-200 p-0 mb-2 shadow-md w-full bg-cover relative overflow-hidden  "
+    class="rounded-lg ring-2 ring-slate-200 dark:ring-flexoki-600  p-0 mb-2 shadow-md w-full bg-cover relative overflow-hidden  "
     style="background-image: url('${returnedImage.avif[0].url}')"
     ><div class="p-4 z-10 relative w-full h-full">${content}</div>
     <div class="absolute inset-0 bg-gradient-to-t from-slate-800 to-transparent opacity-80 z-0 mix-blend-multiply"></div>

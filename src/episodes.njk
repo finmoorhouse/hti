@@ -12,22 +12,22 @@ pagination:
   class="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 lg:mx-[-10em] auto-rows-min sm:auto-cols-min"
 >
   {% for post in pagination.items | sort(true, false, 'data.number') %}
-  <a href="{{ post.url }}" class="no-underline p-0 rounded-md overflow-hidden  leading-6 ring-2 ring-gray-100 hover:bg-slate-100 hover:ring-gray-300 text-slate-50 shadow-sm flex flex-row sm:flex-col">
+  <a href="{{ post.url }}" class="no-underline p-0 rounded-md overflow-hidden  leading-6 ring-2 ring-gray-100 dark:ring-flexoki-800 dark:ring-1 hover:bg-slate-100 hover:ring-gray-300 dark:hover:bg-flexoki-950 dark:hover:ring-flexoki-600 text-slate-50  shadow-sm flex flex-row sm:flex-col">
 
       {% if post.data.backgroundImage %} {% set backgroundImage =
       post.data.backgroundImage %} {% set episodeNumber = post.data.number %} {%
-      featured ""+episodeNumber+"/"+backgroundImage, "Alt text" %} {% if
+      featured "episodes/"+episodeNumber+"/"+backgroundImage, "Alt text" %} {% if
       post.data.number %}
       <!-- <span class="font-mono my-0">{{ post.data.number }}</span> {% endif %}
       <h2 class="font-medium my-0 text-slate-50">{{ post.data.title }}</h2> -->
 
       {% endfeatured %} {% endif %}
 
-      <div class="p-2 sm:border-t-2 border-gray-100 relative sm:text-sm text-xs flex-1" >
-        <span class="font-mono my-0 py-4 text-slate-500">{{
+      <div class="p-2 sm:border-t-2 border-gray-100 dark:border-flexoki-800 relative sm:text-sm text-xs flex-1 dark:sm:border-t" >
+        <span class="font-mono my-0 py-4 text-slate-500 dark:text-flexoki-600">{{
           post.data.number
         }}</span>
-        <h2 class="font-medium my-0 z-10 py-2 pb-0">
+        <h2 class="font-medium my-0 z-10 py-2 pb-0 dark:text-flexoki-200">
           {{ post.data.title }}
         </h2>
       </div>
@@ -37,19 +37,19 @@ pagination:
 </div>
 
 <nav
-  class="flex mt-12 mb-2 justify-center border-t-2 pt-8 border-gray-100"
+  class="flex mt-12 mb-2 justify-center border-t-2 pt-8 border-gray-100 dark:border-flexoki-800 dark:border-t"
   aria-label="Pagination"
 >
   {% if pagination.href.previous %}
   <a
     href="{{ pagination.href.previous }}"
-    class="block rounded-md bg-slate-100 font-sans no-underline p-2 px-3 mx-2 border border-gray-300 shadow-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-300"
+    class="block rounded-md bg-slate-100 font-sans no-underline p-2 px-3 mx-2 border border-gray-300 shadow-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-300 dark:text-flexoki-300 dark:bg-flexoki-950 dark:border-flexoki-800 dark:focus:ring-0"
     >← Previous Page</a
   >
   {% endif %} {% if pagination.href.next %}
   <a
     href="{{ pagination.href.next }}"
-    class="block rounded-md bg-slate-100 font-sans no-underline p-2 px-3 mx-2 border border-gray-300 shadow-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-300"
+    class="block rounded-md bg-slate-100 font-sans no-underline p-2 px-3 mx-2 border border-gray-300 shadow-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 ring-offset-2 ring-yellow-300 dark:text-flexoki-300 dark:bg-flexoki-950 dark:border-flexoki-800 dark:focus:ring-0"
     >Next Page →</a
   >
   {% endif %}

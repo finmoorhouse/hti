@@ -14,6 +14,25 @@
 
   <!-- Analytics -->
   <script defer data-domain="hearthisidea.com" src="https://plausible.io/js/script.js"></script>
+
+  <!-- Dark mode switching code -->
+  <script>
+    // On page load or when changing themes, best to add inline in `head` to avoid FOUC
+    if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark')
+    } else {
+      document.documentElement.classList.remove('dark')
+    }
+
+    // Whenever the user explicitly chooses light mode
+    // localStorage.theme = 'light'
+
+    // Whenever the user explicitly chooses dark mode
+    // localStorage.theme = 'dark'
+
+    // Whenever the user explicitly chooses to respect the OS preference
+    // localStorage.removeItem('theme')
+  </script>
   
   <!-- Twitter meta tags -->
   <meta name="twitter:card" content="summary_large_image">
@@ -71,23 +90,73 @@
   
   <title>{% if title %}{{ title }} - {% endif %}{{ site.author }}</title>
 </head>
-<body id="top">
-  <nav class="max-w-2xl pt-4 pb-2  flex justify-between mx-auto px-4">
-    <header class="aspect-square w-16 bg-slate-800 rounded-md shadow-lg hover:ring-4 ring-slate-300"><a href="/" class=" decoration-dotted font-mono uppercase  text-slate-100 h-full text-center leading-[0.8rem] flex items-center"><span class="align-middle inline">Hear This Idea</span></a></header>
-    <ul class="flex flex-none gap-x-2 sm:pr-12 mt-2">
+<body id="top" class="bg-white dark:bg-flexoki-black">
+  <nav class="max-w-2xl xs:pt-4 pt-2 xs:px-4 px-2 pb-2  flex justify-between mx-auto ">
+    <header class="aspect-square w-16  bg-slate-800 dark:bg-flexoki-900 rounded-md shadow-lg hover:ring-4 dark:hover:ring-2 ring-slate-300 dark:ring-flexoki-600 hidden xxs:inline"><a href="/" class=" decoration-dotted font-mono uppercase  text-slate-100  h-full text-center leading-[0.8rem] flex items-center"><span class="align-middle inline">Hear This Idea</span></a></header>
+    <ul class="flex flex-none gap-x-1 sm:gap-x-2  mt-2">
     {% for item in nav.items %}
-    <li class="inline"><a href="{{ item.url }}"
+    <li class="inline dark:text-flexoki-200"><a href="{{ item.url }}"
       {% if (item.url in page.url and item.url!="/") or (item.url == "/" and page.url == "/") %}
-      aria-current="page" data-state="active" class="opacity-100  decoration-dotted bg-slate-100 rounded-md px-3 py-2 border border-gray-300 shadow-sm"
+      aria-current="page" data-state="active" class="opacity-100  decoration-dotted bg-slate-100 dark:bg-flexoki-950 rounded-md px-3 py-2 border border-gray-300 dark:border-flexoki-900 shadow-sm"
       {% else %}
-      class="opacity-50 decoration-dotted px-3 py-2 hover:outline outline-1 outline-gray-300 rounded-md box-border"
+      class="opacity-50 decoration-dotted px-3 py-2 hover:outline outline-1 outline-gray-300 dark:outline-flexoki-700 rounded-md box-border"
       {% endif %} target="_self">{{ item.name }}</a>
     </li>
     {% endfor %}
+    <li class="inline cursor-pointer sm:px-2 h-8 px-0" id="theme-toggle" type="button">
+      <a href="{{ item.url }}"
+      class="opacity-100 decoration-dotted p-0 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-md box-border  relative top-1"
+      target="_self">
+      <div id="theme-toggle-dark-icon" class="hidden bg-slate-800 opacity-50"></div>
+      <div id="theme-toggle-light-icon" class="hidden bg-flexoki-300"></div>
+    </a>
+    </li>
   </ul></nav>
-  <main class="prose font-serif pt-12 pb-16">
+  <main class="prose font-serif pt-12 pb-16 dark:prose-invert prose-flexoki">
     {{ content | safe }}
     {#<small >{{ site.author }} &copy; {{ site.copyrightYear }}</small>#}
   </main>
+  <script>
+    var themeToggleDarkIcon = document.getElementById("theme-toggle-dark-icon");
+    var themeToggleLightIcon = document.getElementById("theme-toggle-light-icon");
+
+    // Change the icons inside the button based on previous settings
+    if (
+        localStorage.getItem("theme") === "dark" ||
+        (!("theme" in localStorage) &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches)
+    ) {
+        themeToggleLightIcon.classList.remove("hidden");
+    } else {
+        themeToggleDarkIcon.classList.remove("hidden");
+    }
+
+    var themeToggleBtn = document.getElementById("theme-toggle");
+
+    themeToggleBtn.addEventListener("click", function () {
+        // Toggle icons inside button
+        themeToggleDarkIcon.classList.toggle("hidden");
+        themeToggleLightIcon.classList.toggle("hidden");
+        // If set via local storage previously
+        if (localStorage.getItem("theme")) {
+            if (localStorage.getItem("theme") === "light") {
+                document.documentElement.classList.add("dark");
+                localStorage.setItem("theme", "dark");
+            } else {
+                document.documentElement.classList.remove("dark");
+                localStorage.setItem("theme", "light");
+            }
+        // If NOT set via local storage previously
+        } else {
+            if (document.documentElement.classList.contains("dark")) {
+                document.documentElement.classList.remove("dark");
+                localStorage.setItem("theme", "light");
+            } else {
+                document.documentElement.classList.add("dark");
+                localStorage.setItem("theme", "dark");
+            }
+        }
+    });
+</script>
 </body>
 </html>

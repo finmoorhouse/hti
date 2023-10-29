@@ -3,7 +3,7 @@
 
 :root {
     --blob-size: 600px;
-    --blob-speed: 6s;
+    --blob-speed: 4s;
     --blob-speed-scale: calc(0.75 * var(--blob-speed));
     --blob-speed-move: calc(1 * var(--blob-speed));
     --blob-speed-rotate: calc(2 * var(--blob-speed));
