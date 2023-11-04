@@ -24,6 +24,8 @@ Still, to run the site locally:
 
 ## Notes
 
+Some unordered notes on making this site.
+
 ### Why switch from Gatsby to 11ty?
 
 I started using [GatsbyJS](https://www.gatsbyjs.com) around 2019, when it was a popular option for small to medium static sites. Since then, it has grown to become a more comprehensive and powerful tool, but also a more complex one. I get the feeling it is now focused on sites maintained by full-time developers, or teams of developers.
@@ -47,11 +49,17 @@ This still feels a bit fiddly, even if it weren't for the fact that Netlify [rec
 
 Any ideas on this front greatly appreciated!
 
-## Netlify CMS
+### Netlify CMS
 
 I installed [Netlify CMS](https://v1.netlifycms.org/) to give a way to edit the site without directly interfacing with `git`.
 
 It seems to work quite nicely (though adding images remains a kludge and doesn't play well with the media interface, as mentioned).
+
+### Dark mode
+
+I was intimidated by how to add a dark mode, but it wasn't so tricky. Tailwind [supports dark modes](https://tailwindcss.com/docs/dark-mode) well — the trick is to toggle a `.dark` class on the top-level `<html>` element (using JS), and then you use the `dark:` modifier Tailwind gives you.
+
+In my `tailwind.config.js`, I added the colours from [Steph Ango's] delightful(https://stephango.com/) [Flexoki](https://stephango.com/flexoki) colour scheme.
 
 ---
 
