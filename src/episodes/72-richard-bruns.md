@@ -15,7 +15,7 @@ date: 2023-11-04
 In this episode we talk about the importance of indoor air quality (IAQ), and how to improve it. Including:
 
 * The health burden of particulate matter (especially PM 2.5)
-* How many additional respiratory virus infections are caused by unclean air
+* How many additional respiratory virus infections are caused by unclean air?
 * Estimating the total DALY cost of unclean indoor air in the US
 * How much pandemic risk could be reduced from improving IAQ?
 * How economists convert health losses into dollar figures — and how *not* to put a price on life
