@@ -36,6 +36,8 @@ In this episode we talk about the importance of indoor air quality (IAQ), and ho
 * [Air Safety to Combat Global Catastrophic Biorisks](https://docs.google.com/document/d/e/2PACX-1vQmAmdB2BmzVJ42zhFwpnPz0Cl1GFTSDMi4Qx_RvVNCMfFZ_wvqby4wpIRdB0KK0XiiXSsCMYbKkROP/pub#h.bqwo4aq0txbbhttps://drive.google.com/file/d/1QKusCnLzUs041nIuiq6nMxSIRcXaGiKq/view) (report on IAQ interventions)
 ## Transcript
 
+*Note that this transcript is **machine-generated**, by a model which is typically accurate but sometimes hallucinates entire sentences. Please check with the original audio before using this transcript to quote our guest.*
+
 {% image "air-simulation-4.png" "An image depicting a simulation of indoor air flow" %}
 
 ### Introduction
