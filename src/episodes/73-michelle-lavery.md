@@ -1,17 +1,17 @@
 ---
 title: Michelle Lavery on the Science of Animal Welfare
 audio: https://pinecast.com/listen/fade2653-f599-4839-a706-a2b23dc34a1f.mp3
-featuredImage: michelle-share.png
-backgroundImage: michelle-bg-8.jpg
 path: lavery
 number: 73
+featuredImage: michelle-share.png
+backgroundImage: michelle-bg-8.jpg
 date: 2023-11-19
 ---
-
 Michelle Lavery is a Program Associate with [Open Philanthropy’s Farm Animal Welfare team](https://www.openphilanthropy.org/focus/farm-animal-welfare/), with a focus on the science and study of animal behaviour & welfare. Michelle has a PhD from the University of Guelph where she focused on aquatic ecology and the lives of fish.
 
 {% image "michelle.jpg" "Michelle Lavery" %}
 
+<<<<<<< HEAD
 In this episode we talk about:
 
 - How do scientists study animal emotions in the first place? How is a "science" of animal emotion even feasible?
@@ -449,3 +449,6 @@ Oh yeah, thank you for having me. It was lovely.
 
 That was Michelle Lavery on the science of animal welfare. As always, if you want to learn more, you can read the write-up at hearthisidea.com forward slash episodes forward slash Lavery. There you'll find links to all the papers and books referenced throughout our interview, plus a whole lot more. And if you enjoyed this podcast and find it valuable, then one of the best ways to help us out is to write a review on whatever platform you're listening to. You can also give us a shout out on Twitter, or I guess now X, where at hear this idea. We'd also have a short feedback survey, which would only take you somewhere between five to 10 minutes to fill out. We read every submission and as a thank you, you'll also get a free book from us. A big thanks as always to our producer Jason for editing these episodes.
 Thanks very much to you for listening.
+=======
+\[﻿Coming soon!]
+>>>>>>> 3ea597ef0881dc9311ee6f7453eab94bbd455f37
