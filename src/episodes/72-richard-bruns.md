@@ -718,7 +718,6 @@ So, if someone who is listening to this is still at a very early career stage an
 
 That was an excellent answer. And then finally, yeah, if there are any books or any books that you've read, that you've read in the past, papers, just any resources, kind of, let's say two or three of them that you'd be keen to recommend with respect to indoor eye quality, then now is your chance.
 
-
 **Richard Bruns**
 
 I'm constantly doing meta-analysis kind of things for like, I do a big literature review and I remember a few papers. I can send you a link to particular papers, like I'll try to find a toll booth study afterwards. And honestly, your blog post was a very good summary of the available evidence. I'm very kind. I don't think I can recommend, I didn't notice that you were missing anything important. So yeah, you're a good source there. You've done your homework.
@@ -737,5 +736,4 @@ All right. Thank you.
 
 **Fin**
 
-That was Richard Bruns on indoor air quality and Far-UVC. for watching. is to write just an honest review wherever you're listening to this, Spotify, Apple, wherever, we'd appreciate that. And you can also follow us on Twitter, we are just at HearThisIdea. Okay,
-as always a big thanks to our producer Jason for editing these episodes and thank you very much for listening.
+That was Richard Bruns on indoor air quality and Far-UVC. for watching. is to write just an honest review wherever you're listening to this, Spotify, Apple, wherever, we'd appreciate that. And you can also follow us on Twitter, we are just at [@hearthisidea](https://twitter.com/hearthisidea). Okay, as always a big thanks to our producer Jason for editing these episodes and thank you very much for listening.
