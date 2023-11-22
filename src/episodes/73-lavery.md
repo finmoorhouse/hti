@@ -1,7 +1,7 @@
 ---
 title: Michelle Lavery on the Science of Animal Welfare
 audio: https://pinecast.com/listen/c4ee676f-5ad1-4d8c-bd61-9ff3b1a662ab.mp3
-path: Lavery
+path: lavery
 number: 73
 featuredImage: lavery-share.png
 backgroundImage: lavery-bg.png
