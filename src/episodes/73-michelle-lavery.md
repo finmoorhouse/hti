@@ -3,13 +3,13 @@ title: Michelle Lavery on the Science of Animal Welfare
 audio: https://pinecast.com/listen/c4ee676f-5ad1-4d8c-bd61-9ff3b1a662ab.mp3
 path: lavery
 number: 73
-featuredImage: lavery-share.png
-backgroundImage: lavery-bg.png
+featuredImage: michelle-share.png
+backgroundImage: michelle-bg-8.jpg
 date: 2023-11-22
 ---
 Michelle Lavery is a Program Associate with [Open Philanthropy’s Farm Animal Welfare team](https://www.openphilanthropy.org/focus/farm-animal-welfare/), with a focus on the science and study of animal behaviour & welfare.
 
-{% image "michelle-lavery.jpg" "Michelle Lavery" %}
+{% image "michelle.jpg" "Michelle Lavery" %}
 
 In this episode we talk about:
 
@@ -30,7 +30,6 @@ In this episode we talk about:
 * *[The Science of Animal Welfare](https://global.oup.com/academic/product/the-science-of-animal-welfare-9780198848998?cc=gb&lang=en&)* by Marian Stamp Dawkins
 * The [Welfare Footprint Project — Quantifying animal pain](https://welfarefootprint.org/)
 * More Twitter accounts to follow
-
   * [Campbell Centre for the Study of Animal Welfare](https://twitter.com/ccsaw_uofg?lang=en)
   * [UBC Animal Welfare](https://twitter.com/ubcAWP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
   * [Dr Heather Browning](https://twitter.com/zoophilosophy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
@@ -312,7 +311,7 @@ One thing I'm also curious about is the future of animal welfare science. things
 
 **Michelle Lavery**
 
-Yeah, I think, so two suggestions. I think brain imaging has been really interesting in understanding brains that are very different from ours. So, for example, fish have a very different way of kind of developing from just the little embryo tube that we all start as. The brain actually folds outwards rather than kind of folding in on itself, which means that different parts of that tube that end up as the brain end up in very different places than a mammalian brain. So they don't, for example, have a hippocampus. They don't have like frontal lobes as such. And so we don't know where, which parts of the brain light up or interact or do different things to control different abilities, different experiences, that kind of thing. And so that's been brain imaging, different techniques for brain imaging, both alive and not alive, have been really useful for kind of detangling that kind of stuff. AI, I am not, I'm not a to be honest, well-versed enough in AI to understand how it might interact with the study of animal sentience, necessarily. But I can definitely tell you... that people are using it to monitor welfare on farms. So there's lots of algorithms and kind of programs being thought up for particularly picking out lame animals. So looking at kind of like biomechanical markers and then looking at differences in how those track and then identifying, for example, lame cattle that need to be pulled out and treated or lame chickens that potentially need to be killed. human eyes would not detect until much later in the progression of lameness. And so I think that's potentially a tool that could be useful for catching welfare problems earlier, especially ones that are visible like on a camera observation kind of situation. But the other, the other technology that I'm, I'm excited about, and also trepidatious about is CRISPR. So I'm trained as a pure biologist, and so I think CRISPR is our latest field game changer across the board. And I think with caution and responsibility and nuance, it could potentially be applied to a variety of different problems in think there are ways that you could accelerate that kind of trait selection or trait modification in ways that could potentially minimize the need for painful procedures. So for example, one conversation that's being had in animal welfare science right now is sometimes around dehorning cattle. So young cattle... and the world. And so that's one area where people are thinking about using CRISPR for just like eliminating the development of horns in cattle. One other area that might be interesting to think about this is chickens are often de-beaked, so they have their beaks cut off to prevent feather pecking and self-injury and injuring other chickens in the flock. And it's really painful and it can cause neuromas, which means chronic pain, like beyond the healing of the injury. And again, wouldn't it be maybe just easier if chickens were born with blunter beaks? And so that's kind of one element.
+Yeah, I think, so two suggestions. I think brain imaging has been really interesting in understanding brains that are very different from ours. So, for example, fish have a very different way of kind of developing from just the little embryo tube that we all start as. The brain actually folds outwards rather than kind of folding in on itself, which means that different parts of that tube that end up as the brain end up in very different places than a mammalian brain. So they don't, for example, have a hippocampus. They don't have like frontal lobes as such. And so we don't know where, which parts of the brain light up or interact or do different things to control different abilities, different experiences, that kind of thing. And so that's been brain imaging, different techniques for brain imaging, both alive and not alive, have been really useful for kind of detangling that kind of stuff. AI, I am not, I'm not a to be honest, well-versed enough in AI to understand how it might interact with the study of animal sentience, necessarily. But I can definitely tell you... that people are using it to monitor welfare on farms. So there's lots of algorithms and kind of programs being thought up for particularly picking out lame animals. So looking at kind of like biomechanical markers and then looking at differences in how those track and then identifying, for example, lame cattle that need to be pulled out and treated or lame chickens that potentially need to be killed. human eyes would not detect until much later in the progression of lameness. And so I think that's potentially a tool that could be useful for catching welfare problems earlier, especially ones that are visible like on a camera observation kind of situation. [...]
 
 **Luca / Fin**
 
