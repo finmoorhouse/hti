@@ -31,6 +31,10 @@ Our listenership skews towards people in their mid-twenties and early-careers; a
 
 You can [see all our previous episodes here](https://hearthisidea.com/episodes). Previous guests include [Peter Singer](https://en.wikipedia.org/wiki/Peter_Singer), [Eva Vivalt](https://en.wikipedia.org/wiki/Eva_Vivalt), [Jeffrey Sachs](https://en.wikipedia.org/wiki/Jeffrey_Sachs), [Lord John Bird](https://en.wikipedia.org/wiki/John_Bird,_Baron_Bird), [Glen Weyl](https://en.wikipedia.org/wiki/Glen_Weyl), and [Isabelle Boemeke](https://twitter.com/isabelleboemeke?lang=en).
 
+### Who are we?
+
+Fin and Luca were previously researchers at the [Future of Humanity ](https://www.fhi.ox.ac.uk/)[Institute](https://www.fhi.ox.ac.uk/). Now Luca is a Research Fellow at [Open Philanthropy](https://openphilanthropy.org/), and Fin is a Researcher at [Longview Philanthropy](https://www.longview.org/). Before that, Luca studied economics and Fin studied philosophy.
+
 ## Before the interview
 
 If you would like to, please send us questions and topics you’d be interested to talk about (or prefer to skip, for whatever reason). This isn’t necessary (by default we write our own questions), but we want to give you the option. We’d also be happy to send you questions in advance for you to give feedback on or prepare for.
