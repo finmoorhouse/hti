@@ -74,6 +74,8 @@ Some thoughts we’ve collected on what seems to make for especially great inter
 - **Veering off on fun tangents.** Some of the best moments in previous episodes have come from guests 
 - **Concrete examples.** Especially when explaining abstract or technical ideas, concrete examples and stories are extremely useful to help the listener keep up. We’ll prompt you for these.
 
+[This post](https://stanpinsent.wordpress.com/2022/12/05/how-to-be-a-more-effective-podcast-guest/) gives even more advice on how to do a great podcast interview as a guest.
+
 ## What happens after recording
 
 After the interview, we’ll send off the recording to our editor, and we typically have a first pass ready within a couple weeks. Before we publish it, we’ll send it to you in case you’d like to listen over and suggest any changes or cuts.
