@@ -11,7 +11,7 @@ google: https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9oZWF
 spotify: https://open.spotify.com/episode/3qSldSU2hVpgKwHWCEutyD?si=7gHqdjXRQJqNy7GCNsqIgw
 apple: https://podcasts.apple.com/us/podcast/ajay-karpur-on-metagenomic-sequencing/id1496501781?i=1000566463813
 ---
-[Ajay Karpur](https://www.ajaykarpur.com/about/) is a senior research software engineer at RAND, working with the Meselson Center, which is dedicated to reducing risks from biological threats and emerging technologies. He's hoping to start tweeting again soon, at [@ajaykarpur](https://twitter.com/ajaykarpur).
+[Ajay Karpur](https://www.ajaykarpur.com/about/) is an engineer and entrepreneur working on projects related to biosecurity. He's hoping to start tweeting again soon, at [@ajaykarpur](https://twitter.com/ajaykarpur).
 
 Joining as a guest co-host on this episode was [Janvi Ahuja](https://www.fhi.ox.ac.uk/team/janvi-ahuja/), who is a PhD student in computational biology at Oxford University, an affiliate with the Future of Humanity Institute, and since recording this interview, part of the Johns Hopkins Centre for Health Security [‘Emerging Leaders in Biosecurity’](https://www.centerforhealthsecurity.org/our-work/emergingbioleaders/) program. She's tweeting at [@jn_ahuja](https://twitter.com/jn_ahuja)
 
@@ -67,7 +67,7 @@ In our conversation, we discuss:
 
 **Fin 0:06** 
 
-Our main focus in this conversation was a technology called ‘metagenomic sequencing’, which is a way of comprehensively looking at all the genetic material in some sample, rather than just looking for a specific known pathogen, like how PCR tests for COVID are just looking for COVID but will ignore other things. Now, when experts try to imagine a world that is secure against future pandemics, including pandemics worse than COVID, it turns out that having this ability to really quickly and cheaply spot new pathogens just looks hugely important. So we talk about how to make sure this technology becomes much more accessible, and how metagenomic sequencing could make the world safer against biological threats. We also talk about new ways of funding high impact research, refuges against worst case pandemics, and how and why you should get involved with this work if you have an engineering background. Big thanks to Ajay and Janvi. I learned so much on this one. Okay, here's the episode. Ajay and Janvi, thanks very much for coming on. 
+\[...] Our main focus in this conversation was a technology called ‘metagenomic sequencing’, which is a way of comprehensively looking at all the genetic material in some sample, rather than just looking for a specific known pathogen, like how PCR tests for COVID are just looking for COVID but will ignore other things. Now, when experts try to imagine a world that is secure against future pandemics, including pandemics worse than COVID, it turns out that having this ability to really quickly and cheaply spot new pathogens just looks hugely important. So we talk about how to make sure this technology becomes much more accessible, and how metagenomic sequencing could make the world safer against biological threats. We also talk about new ways of funding high impact research, refuges against worst case pandemics, and how and why you should get involved with this work if you have an engineering background. Big thanks to Ajay and Janvi. I learned so much on this one. Okay, here's the episode. Ajay and Janvi, thanks very much for coming on.
 
 **Ajay** 
 
