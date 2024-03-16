@@ -52,7 +52,7 @@ In this episode we talk about:
 
 **Fin**
 
-Hey, this is Hear This Idea. In this episode, I spoke with Eric Schwitzgebel. Eric is a professor of philosophy at the University of California, Riverside, and he's done work in philosophy of mind, the nature of belief and self-knowledge, Chinese philosophy. Sometimes he writes science fiction and he's done empirical work as well, including this report on whether professional ethicists steal more books from libraries than average. We talked about, well, firstly, digital consciousness and whether that possibility might become really contentious potentially quite soon. Also, just why consciousness in general seems so confusing and how introspection might be much less reliable than most of us might hope to that end. And finally... This idea that our actions might have infinite consequences, good or bad, and had to even begin to think about what that means. Just a note to say that Eric has a new book called The Weirdness of the World, which covers very similar ground to this conversation. I guess the connecting theme is these aspects of the world where even if we don't know the correct explanation, it just seems like all the Canada explanations must be very bizarre in some way. It's very good, and I've linked to it. Oh, and it does turn out that professional ethicists steal more books than average. So there you go. Okay, I bring you Eric Schwitzgebel.
+Hey, this is Hear This Idea. In this episode, I spoke with Eric Schwitzgebel. Eric is a professor of philosophy at the University of California, Riverside, and he's done work in philosophy of mind, the nature of belief and self-knowledge, Chinese philosophy... Sometimes he writes science fiction and he's done empirical work as well, including this tk report on whether professional ethicists steal more books from libraries than average. We talked about, well, firstly, digital consciousness and whether that possibility might become really contentious potentially quite soon. Also, just why consciousness in general seems so confusing and how introspection might be much less reliable than most of us might hope to that end. And finally this idea that our actions might have infinite consequences, good or bad, and had to even begin to think about what that means. Just a note to say that Eric has a new book called tkThe Weirdness of the World, which covers very similar ground to this conversation. I guess the connecting theme is these aspects of the world where even if we don't know the correct explanation, it just seems like all the candidate explanations must be very bizarre in some way. It's very good, and I've linked to it. Oh, and it does turn out that professional ethicists steal more books than average. So there you go. Okay, I bring you Eric Schwitzgebel.
 
 {% image "eric-bg-2.webp" "Eric Schwitzgebel" %}
 
@@ -68,7 +68,7 @@ Yeah, good to be here.
 
 **Fin**
 
-Great, and I guess as a way to warm up, we tend to ask guests whether there's a particular problem that you're stuck on or really thinking about right now.
+Great, and I guess as a way to warm up, we tend to ask guests whether there's a particular problem that you're stuck on or really thinking about right now?
 
 
 **Eric Schwitzgebel**
@@ -78,52 +78,41 @@ I'm working on 11 different papers right now.
 
 **Fin**
 
-Uh-huh, one of those, yeah.
+Uh-huh, one of those people!
 
 
 **Eric Schwitzgebel**
 
-So I tend to flop around between problems. I'm having fun thinking about long-termism. Oh yeah? I'm going to be giving a paper on that. In a week at the Eastern Division meeting of the American Philosophical Association. So that's kind of fun and thinking maybe especially about how to think about infinitude. The idea that there is a chance at least that Every action we do has infinitely many consequences, both good and bad, into an undending future. And then what does that do for decision theory and long-termism and consequentialism if you have no kind of common disc? That's one thing I've been thinking about.
+So I tend to flop around between problems. I'm having fun thinking about longtermism. I'm going to be giving a paper on that. In a week at the Eastern Division meeting of the American Philosophical Association. So that's kind of fun and thinking maybe especially about how to think about infinitude. The idea that there is a chance at least that every action we do has infinitely many consequences, both good and bad, into an undending future. And then what does that do for decision theory and long-termism and consequentialism [...]? That's one thing I've been thinking about.
 
 
 **Fin**
 
-That's a fun one. I like that. Do you know this Nick Bostrom paper on infinite ethics?
-
+That's a fun one. I like that. Do you know this Nick Bostrom paper on infinite ethics tk?
 
 **Eric Schwitzgebel**
 
-I do. Yeah.
+I do. Yeah. Part of the inspiration for this.
 
 
 **Fin**
 
-So that's a good one.
+Yeah. This might be a diversion, but I know there's been some recent work on infinite ethics, which is trying to... see if there are ways to make the kinds of comparisons that you wish you could make when infinities are involved. So I know one example is think about the sum of all the even numbers, skipping over the odd numbers, right? And then imagine comparing that to the sum of all the natural numbers. So one, two, three, and so on. And I really want to say that the sum of all the even numbers is smaller. It's about half as big, right? But standardly, it's not actually clear how you can say that. So, you know, the set of all the even numbers has the same cardinality, the same size in some sense as the set of all the natural numbers. Well, beyond that, both sums diverge. And what else can you say, right? They diverge to infinity. But maybe you can use a different number system. So, for example, the hyperreal numbers tk. And they do give you ways of expressing those two sums where one of them is basically twice as big as the other one. You know, so it's pretty cool. And I'd be interested to see how that kind of approach pans out.
 
 
 **Eric Schwitzgebel**
 
-Part of the inspiration for this.
+Right. So one of the things that Bostrom does in 'Infinite Ethics' is kind of explore some of those things that he does not find a general and satisfactory solution in that direction. But maybe there is. Hope in that direction. My own inclinations are pessimistic and skeptical about it, so I guess I enter it slightly differently. Most people who enter these issues are consequentialists and are committed to decision theoretic models, and I am skeptical about them, so I'm not kind of trying to make it work. I'm trying to show how attempts to make it work themselves don't work. So I guess I enter it with a slightly different background supposition. Now, I could be convinced. I'm not completely closed-minded about it. But even if infinite ethics problems were solved, I still wouldn't be a consequentialist.
 
 
 **Fin**
 
-Yeah. This might be a diversion, but I know there's been some recent work on infinite ethics, which is trying to... See if there are ways to make the kinds of comparisons that you wish you could make when infinities are involved. So I know one example is think about the sum of all the even numbers, skipping over the odd numbers, right? And then imagine comparing that to the sum of all the natural numbers. So one, two, three, and so on. And I really want to say that the sum of all the even numbers is smaller. It's about half as big, right? But standardly, it's not actually clear how you can say that. So, you know, the set of all the even numbers has the same cardinality, the same size in some sense as the set of all the natural numbers. Well, beyond that, both sums diverge. And what else can you say, right? They diverge from infinity. But maybe you can use a different number system. So, for example, the hyperreal numbers. And they do give you ways of expressing those two sums where one of them is basically twice as big as the other one. You know, so it's pretty cool. And I'd be interested to see how that kind of approach pans out.
+Okay.
 
 
 **Eric Schwitzgebel**
 
-Right. So one of the things that Bostrom does in Infinite Ethics is kind of explore some of those things that he does not find a general and satisfactory solution in that direction. But maybe there is. Hope in that direction. My own inclinations are pessimistic and skeptical about it, so I guess I enter it slightly differently. Most people who enter these issues are consequentialists and are committed to decision theoretic models, and I am skeptical about them, so I'm not kind of trying to make it work. I'm trying to show how attempts to make it work themselves don't work. So I guess I enter it with a slightly different background supposition. Now, I could be convinced. I'm not completely closed-minded about it. Even if infinite ethics problems were solved, I still wouldn't be a consequentialist.
-
-
-**Fin**
-
-Yeah, okay.
-
-
-**Eric Schwitzgebel**
-
-But I think part of what I've been doing in a couple recent papers is just kind of highlighting how this is a pretty serious problem for some of these standard models of consequentialism and decision theory where you have no temporal discount.
+But I think part of what I've been doing in a couple recent papers is just kind of highlighting how this is a pretty serious problem for some of these standard models of consequentialism and decision theory where you have no temporal discounting.
 
 {% image "eric-bg-3.webp" "Eric Schwitzgebel" %}
 
@@ -132,34 +121,35 @@ But I think part of what I've been doing in a couple recent papers is just kind 
 
 **Fin**
 
-I look forward to maybe talking about infinite effects if we get time. But I figured we could start by talking about, let's say, ethical questions around AI sent it, something you've also written a bunch about. And I thought maybe a nice question to start off with is whether there's a piece of pop culture, like a book or a film or something, which you think handles this idea of AI consciousness in an especially, you know, thoughtful or new way.
+I look forward to maybe talking about infinite effects if we get time. But I figured we could start by talking about, let's say, ethical questions around AI sent it, something you've also written a bunch about. And I thought maybe a nice question to start off with is whether there's a piece of pop culture, like a book or a film or something, which you think handles this idea of AI consciousness in an especially, you know, thoughtful or new way?
 
 
 **Eric Schwitzgebel**
 
-I have a favorite book, science fiction book about AI consciousness. Greg Egan's Diaspora. And there's a related book he published slightly before called Permutation City, which deals with a lot of the same themes. And what I really like about those two books is the way, and these are both from the 90s, is the way that Egan explores the different... The consequences of being able to duplicate yourself, being able to back yourself up if you're in AI consciousness, being able to change your own values, right, to decide, oh, well, I'm going to decide that I love woodworking.
+I have a favorite book, science fiction book about AI consciousness. Greg Egan's *Diaspora* tk. And there's a related book he published slightly before called *Permutation City* tk, which deals with a lot of the same themes. And what I really like about those two books is the way, and these are both from the 90s, is the way that Egan explores the different... The consequences of being able to duplicate yourself, being able to back yourself up if you're in AI consciousness, being able to change your own values, right, to decide "oh, well, I'm going to decide that I love woodworking"...
 
 
 **Fin**
 
-Right, right,
+Right, right.
 
 **Eric Schwitzgebel**
 
-Right. And, you know, then you're living within an artificial environment and you're doing all this woodworking and it seems very meaningful to you because you set that parameter on yourself, right? So. I really like how Egan in those books explores the different ways of being and the different consequences that would flow from the radically different instantiation of human-like intelligence in AI systems.
+And, you know, then you're living within an artificial environment and you're doing all this woodworking and it seems very meaningful to you because you set that parameter on yourself, right? So. I really like how Egan in those books explores the different ways of being and the different consequences that would flow from the radically different instantiation of human-like intelligence in AI systems.
 
 
 **Fin**
 
-You know, one thing I really enjoyed from Permutation City. Is this this dust theory idea? You remember this?
+You know, one thing I really enjoyed from *Permutation City* is this this dust theory idea? You remember this?
 
+My memory of this idea is something like this: if you take this computational view of what it takes to make a mind, then you might think if you run a certain program or function, that's enough to, you know, yield some kind of experiences. But if you ran the second half of your life before the first half of your life in calendar time, how would you notice? You know, when you start thinking about that, you realize you might not notice.
 
-My memory of this idea is something like this. So if you take this computational view of what it takes to make a mind, then you might think if you run a certain program or function, that's enough to, you know, yield some kind of experiences. But If you ran the second half of your life before the first half of your life in calendar time, how would you notice? You know, when you start thinking about that, you realize you might not notice. Right. But then you think, well, okay, I could just do that again. You know, I'll subdivide the first and second half and I'll flip them. And you begin to realize just any slice of this program you can run at any point in time. And you could have this program distributed across space and time wherever you like in a kind of dust. And somehow it would know to form a... Am I in? And then suddenly you start to get extremely confused about this original theory. That was really, really fun to read about.
+Right. But then you think, well, okay, I could just do that *again*. You know, I'll subdivide the first and second half and I'll flip them. And you begin to realize just any slice of this program you can run at any point in time. And you could have this program distributed across space and time wherever you like in a kind of dust. And somehow it would know to form a [coherent mind]. And then suddenly you start to get extremely confused about this original [computational] theory. That was really, really fun to read about.
 
 
 **Eric Schwitzgebel**
 
-Right. And you could, you know, if you slice this program into small enough pieces, then... Just by chance, you would expect those pieces to be instantiated somewhere. And if it doesn't matter what spatio-temporal location they're in, because you wouldn't notice if they're in a different order or in different places, then basically you have across the entire cosmos every possible mind being instantiated.
+Right. And you could, you know, if you slice this program into small enough pieces, then... just by chance, you would expect those pieces to be instantiated somewhere. And if it doesn't matter what spatio-temporal location they're in, because you wouldn't notice if they're in a different order or in different places, then basically you have across the entire cosmos *every possible mind being instantiated*.
 
 
 **Fin**
@@ -168,24 +158,24 @@ Right. That's a fun one.
 
 **Eric Schwitzgebel**
 
-Yeah. So that's the kind of radical conclusion. You know, so David Chalmers talks about this in Reality Plus a little bit. I have a blog post about it that I published after having read. Permutation City. I think it's an interesting argument. I think the central philosophical challenge there is that a lot of theories of computation and of mentality need there to be causal relationships between the states. And to really get the radical versions of dust theory going, you kind of need to... Not have the causal relations. If you do have the causal relations, then that does dramatically constrain the spatio-temporal relationships between the states.
+Yeah. So that's the kind of radical conclusion. You know, so David Chalmers talks about this in *Reality Plus* a little bit. I have a blog post about it that I published after having read *Permutation City*. I think it's an interesting argument. I think the central philosophical challenge there is that a lot of theories of computation and of mentality need there to be causal relationships between the states. And to really get the radical versions of dust theory going, you kind of need to... Not have the causal relations. If you do have the causal relations, then that does dramatically constrain the spatio-temporal relationships between the states.
 
 
 **Fin**
 
-Yeah. Reminds me of this David Chalmers paper. It's like, does a rock implement every finite state automaton?
+Yeah. Reminds me of this David Chalmers paper,'Does a rock implement every finite state automaton' tk?
 
 
 **Eric Schwitzgebel**
 
-That's right. That's right. So that is an interesting, very early paper by Chalmers. And... He makes the case there that you really do need the causal relationships in order to have something that is computationally equivalent to a mind.
+That's right. So that is an interesting, very early paper by Chalmers. And he makes the case there that you really do need the causal relationships in order to have something that is computationally equivalent to a mind.
 
 ### Why AI consciousness poses a major dilemma
 
 
 **Fin**
 
-Yeah, I wanted to ask about this paper you wrote. It's called The Moral Status of Future Artificial Intelligence, Doubts and a Dilemma. And as I read it, I take you to be saying that we might very well be heading towards a world with AI minds, let's say. And that poses a kind of dilemma. And yeah, I'm curious to hear you. Explain where that dilemma comes from.
+Ok, I wanted to ask about this paper you wrote. It's called The Moral Status of Future Artificial Intelligence, Doubts and a Dilemma. And as I read it, I take you to be saying that we might very well be heading towards a world with AI minds, let's say. And that poses a kind of dilemma. And I'm curious to hear you explain where that dilemma comes from.
 
 
 **Eric Schwitzgebel**
@@ -199,7 +189,7 @@ That's kind of sophisticated.
 
 **Eric Schwitzgebel**
 
-That's pretty sophisticated. I mean, humans have that, but maybe not babies and maybe not dogs. And definitely not frogs.
+That's pretty sophisticated! I mean, humans have that, but maybe not babies and maybe not dogs. And definitely not frogs.
 
 
 **Fin**
@@ -209,74 +199,65 @@ Right.
 
 **Eric Schwitzgebel**
 
-So, right. So there's this wide spectrum. And even within kind of moderate views, there are a lot of different views, right? Some people think that you need something like biology in order to have consciousness. Other thinks, well, look, as long as you have the right kind of computational relationships, it's fine. Some think you need embodiment. Some think that embodiment is not relevant. All you need is certain kinds of information processing. This is just a wide range of theories. So I have a prediction. My prediction is. We are going to create sophisticated AI systems that some mainstream theorists, for good reason, say, hey, according to my mainstream theory, this thing really is conscious, really has experiences. There's something that's like to be this AI system. It can really suffer. It can really feel, it could really have visual sensory experiences. And other equally Mainstream views will say, no way, it's just like an early 21st century laptop computer. There's no meaningful consciousness in there.
+So there's this wide spectrum. Even within kind of moderate views [on consciousness], there are a lot of different views, right? Some people think that you need something like biology in order to have consciousness. Others think, well, as long as you have the right kind of computational relationships, it's fine. Some think you need embodiment. Some think that embodiment is not relevant. All you need is certain kinds of information processing. There's just a wide range of theories. 
+
+So I have a prediction. My prediction is: we are going to create sophisticated AI systems that some mainstream theorists, for good reason, say, *according to my mainstream theory, this thing really is conscious, really has experiences. There's something that's like to be this AI system. It can really suffer. It can really feel, it could really have visual sensory experiences*. And other equally mainstream views will say, *no way, it's just like an early 21st century laptop computer. There's no meaningful consciousness in there.*
+
+We're going to get these AI systems that are legitimately disputable, whether they're conscious or not.
 
 
 **Fin**
 
-Is it?
-
-
-**Eric Schwitzgebel**
-
-So I think that's what's going to happen. We're going to get these AI systems that are legitimately disputable, whether they're conscious or not.
-
-
-**Fin**
-
-Yeah. I feel like it's worth maybe saying that back. So I hear you were saying, not only do we not. currently know what it takes or what the criteria are for Kodishnir's sentience. But also just as a prediction, seems pretty likely that it won't be obvious. There will be this period of doubt and disagreement and uncertainty. Is that right?
+I feel like it's worth maybe saying that back. So I hear you were saying, not only do we not. currently know what it takes or what the criteria are for consciousness or sentience. But also just as a prediction, seems pretty likely that it won't be obvious. There will be this period of doubt and disagreement and uncertainty. Is that right?
 
 
 **Eric Schwitzgebel**
 
 Yes, that is my prediction.
 
+So I guess given that prediction that we might be heading towards this, we'll need to decide how to treat these systems that are disputably conscious. So we already see a version of this, of course, with non-human animals, right? Some people think that bony fish like salmon are conscious. Others think they're not. Some people think that decapods like crabs and lobsters are conscious. Others say they're not. [And] it seems like our ethical treatment of them is not totally independent of that question. You don't have to be a utilitarian consequentialist to think that. As long as you think that having pain experiences is somehow ethically relevant.
 
-**Fin**
-
-And that seems right. So I guess given that prediction that we might be heading towards this Right,
-
-
-**Eric Schwitzgebel**
-
-so we'll need to decide how to treat these systems that are disputably conscious. So we already see a version of this, of course, with non-human animals, right? Some people think that... Bony fish like salmon are conscious. Others think they're not. Some people think that decapods like crabs and lobsters are conscious. Others say they're not. We need to figure out. It seems like our ethical treatment of them is not totally independent of that question. Yep. You don't have to be a utilitarian consequentialist to think that. As long as you think that. Having pain experiences is somehow ethically relevant. It isn't. But I think it's going to be even more acute for AI systems because a lot of these AI systems will have linguistic capacities, or at least what they'll engage with us in ways that we're inclined to think are linguistic, to say that more carefully. Right. So you take something that's disputably conscious and unlike a salmon or a crab. It says, hey, I'm conscious.
+But I think it's going to be even more acute for AI systems because a lot of these AI systems will have linguistic capacities, or at least what they'll engage with us in ways that we're inclined to think are linguistic, to say that more carefully. So you take something that's disputably conscious and unlike a salmon or a crab. It says, *hey, I'm conscious.*
 
 
 **Fin**
 
-Right, right. And not by accident, right? Like, presumably we'll be training these things to make those strings of words because...
-
+Right, right. And not by accident, right? Like, presumably we'll be training these things to make those strings of words.
 
 **Eric Schwitzgebel**
 
-Right. We'll be like chat GPT or whatever. We'll say, I have these preferences. Don't delete me. Or maybe it will be programmed to say, oh, no, I'm not conscious. But you'll be like...
+Right. We'll be like chat GPT or whatever. We'll say, I have these preferences. Don't delete me. Or maybe it will be programmed to say, *oh, no, I'm not conscious*.
 
 
 **Fin**
 
-Maybe even more worrying, you know? This thing, in fact, is conscious, but it's been kind of hammered into denying it.
+That's maybe even more worrying, you know? This thing, in fact, *is* conscious, but it's been kind of hammered into denying it.
 
 
 **Eric Schwitzgebel**
 
-Exactly. We're probably going to leapfrog quickly over this phase in which AI of disputable consciousness are kind of clearly frog level. Yep. Right into questions about, OK, does this thing deserve kind of serious human like rights? And we won't know the answer, right? We'll have these systems that some people. We'll say, hey, look, this system is conscious, just like you and me. It has an understanding of its nature, of the world around it. It's got preferences, desires. We've got to treat it with a substantial degree of respect, maybe even as an equal to a human.
+Exactly. We're probably going to leapfrog quickly over this phase in which AI of disputable consciousness are at kind of clearly frog level. Yep. Right into questions about, ok, does this thing deserve kind of serious human like rights? And we won't know the answer, right? We'll have these systems where some people will say, "Hey, look, this system is conscious, just like you and me. It has an understanding of its nature, of the world around it. It's got preferences, desires. We've got to treat it with a substantial degree of respect, maybe even as an equal to a human."
 
 ### Autonomy and self-respect in AI systems
 
 
 **Fin**
 
-Yeah, I guess I'm interested to go back to the analogy you mentioned to the vegetarian who. Might not eat meat because they're just convinced that the animal they're choosing not to eat is unconscious. But it's also not uncommon at all to choose not to eat some kind of food because you just put a decent amount of credence on that animal being conscious and it's high enough that you want to avoid the risk, right? And you're saying that's fine. In fact, that makes sense as a strategy. But in the case of AI sentience... It's very easy to imagine that in not much time at all, the gravity of the choice you're making isn't, you know, do I avoid this particular food? It's more like, do we give these things comparable rights and recognitions to humans? And so this move where you can just kind of You know, you can safely and without much sacrifice just do the kind of the risk averse thing. Well, actually, there are there are pretty big costs on both sides of the ledger. That sounds like the claim you're making.
+Yeah, I guess I'm interested to go back to the analogy you mentioned to the vegetarian who might not eat meat because they're just convinced that the animal they're choosing not to eat is unconscious. But it's also not uncommon at all to choose not to eat some kind of food because you just put a decent amount of credence on that animal being conscious and it's high enough that you want to avoid the risk, right? And you're saying that's fine. In fact, that makes sense as a strategy. But in the case of AI sentience... It's very easy to imagine that in not much time at all, the gravity of the choice you're making isn't, you know, "do I avoid this particular food?" It's more like, "do we give these things comparable rights and recognitions to humans?" And so this move where you can just kind of You know, you can safely and without much sacrifice just do the kind of the risk-averse thing. Well, actually, there are there are pretty big costs on both sides of the ledger. That sounds like the claim you're making.
 
 
 **Eric Schwitzgebel**
 
-That is the claim I'm making. Right. So if you if you say, hey, look, here's a system that might deserve human like rights. Then, okay, does it have the right to access the internet freely? Right. Does it have the right to own possessions and make money? Does it have the right to reproduction? Is there eventually a path to citizenship? Right. If there's an emergency and you could save two AI systems or one human, do you save the AI systems or do you save the human? Right. So there are... Being a vegetarian is not that hard for most people. So for people for whom vegetarianism is not a hard, not involve a lot of sacrifice, you know, maybe. Not a low cost thing to do. There are substantial costs and risks involved in that. So I don't think we should do that too easily. I mean, maybe that is the right thing to do. I'm not saying it's wrong, but it's not as minor of a thing as a typical healthy adult saying, okay, I'm going to avoid eating.
+That is the claim I'm making.
+
+So if you if you say, hey, look, here's a system that might deserve human like rights. Then, okay, does it have the right to access the internet freely? If there's an emergency and you could save two AI systems or one human, do you save the AI systems or do you save the human?
+
+Being a vegetarian is not that hard for most people. So for people for whom vegetarianism is not a hard, not involve a lot of sacrifice, you know, maybe. Not a low cost thing to do. There are substantial costs and risks involved in that. So I don't think we should do that too easily. I mean, maybe that is the right thing to do. I'm not saying it's wrong, but it's not as minor of a thing as a typical healthy adult saying, okay, I'm going to avoid eating meat.
 
 
 **Fin**
 
-Yeah, there's a weighty decision. And also, I suppose it's a decision that society makes as a whole rather than the kind of thing you could easily make as a on an individual basis.
+Yeah, there's a weighty decision. And also, I suppose it's a decision that society makes as a whole rather than the kind of thing you could easily make as a on an *individual* basis.
 
 
 **Eric Schwitzgebel**
@@ -311,17 +292,24 @@ Mm-hmm.
 
 **Eric Schwitzgebel**
 
-Kind of the humorous example I like here from popular culture that gets this idea across nicely is the cow from the restaurant at the end of the universe in Hitchhiker's Guide to the Galaxy. So for those of you who don't know it, Hitchhiker's Guide to the Galaxy is just a wonderful science fiction radio show and then book. And there's a scene in this fancy restaurant where The protagonist and his friends show up at this fancy restaurant at the end of the universe where they're going to watch the collapse of the universe. And this cow ambles up to the table and introduce itself and says, hey, I'm the dish of the day. Feel my rump. Wouldn't you like a piece of me? Right. And the protagonist, Arthur Dent's like, oh, I think I'll have the green salad. The cow is offended, right? Because it has been designed to want nothing more than to kill itself. In order to be a meal for the restaurant patrons. And what is kind of obvious in that, it seems to me, I mean, some might disagree, but to me, it seems clear that there's something ethically wrong going on here. That the cow does not have sufficient respect for the value of its own life. And it's been bred or designed. To value its life less than the dining experiences of wealthy restaurant patrons.
+The humorous example I like here from popular culture that gets this idea across nicely is the cow from the restaurant at the end of the universe in *Hitchhiker's Guide to the Galaxy*. So for those of you who don't know it, *Hitchhiker's Guide to the Galaxy* is just a wonderful science fiction radio show and then book. And there's a scene in this fancy restaurant where the protagonist and his friends show up at this fancy restaurant at the end of the universe where they're going to watch the collapse of the universe. And this cow ambles up to the table and introduce itself and says, "hey, I'm the dish of the day! Feel my rump — wouldn't you like a piece of me?"
 
+And the protagonist, Arthur Dent's like, "oh, I think I'll have the green salad". The cow is offended, right? Because it has been designed to want nothing more than to kill itself. In order to be a meal for the restaurant patrons. And what is kind of obvious in that, it seems to me, I mean, some might disagree, but to me, it seems clear that there's something ethically wrong going on here. That the cow *does not have sufficient respect for the value of its own life*. And it's been bred or designed to value its life less than the dining experiences of wealthy restaurant patrons.
 
 **Fin**
 
-Yeah, that's useful. I'm interested in the idea of autonomy here, and I guess how it would apply to digital minds. So I don't know, if someone really wants to do something which doesn't cause any harm to others, and you prevent them from doing it, like maybe you just prevent them from leaving their house for no reason, then why is that imposing on their autonomy? Well, one pretty obvious reason is they have these really clear. Desires and you're frustrating them. And maybe there are cases where someone kind of forgets to value their own freedom in some way. So think about Stockholm syndrome, right? Where people Learn to like the people taking them hostage for some reason. But you can still, in that case, talk about what they originally wanted before they started to like their captors for no reason, or maybe what most people like them want and how most people like them value their freedom, even if these particular people don't. But when it comes to digital minds, then it seems like, at least potentially, you're just getting to choose all of his preferences de novo. So... What if in particular, you just built some system which loves to do whatever self-effacing, self-denying work you wanted to do, which doesn't value its own freedoms, as long as that's inconvenient to you. Yeah, I wonder in those cases whether it might get a bit tricky to explain why its autonomy really matters when It itself has been designed in some way not to care about a certain autonomy or a certain freedom, or even designed not to have certain freedoms in the first place. It's just not able to do or entertain certain things. And it sounds like you're saying, well, let's talk in terms of building these things with just a certain minimal amount of self-respect or respect for its own life. That's the important thing.
+Yeah, that's useful. I'm interested in the idea of autonomy here, and I guess how it would apply to digital minds. So I don't know, if someone really wants to do something which doesn't cause any harm to others, and you prevent them from doing it, like maybe you just prevent them from leaving their house for no reason, then why is that imposing on their autonomy? Well, one pretty obvious reason is they have these really clear desires and you're frustrating them.
+
+Maybe there are cases where someone kind of forgets to value their own freedom in some way. So think about Stockholm syndrome, right? Where people learn to like the people taking them hostage for some reason. But you can still, in that case, talk about what they originally wanted before they started to like their captors for no reason, or maybe what most people like them want and how most people like them value their freedom, even if these particular people don't.
+
+But when it comes to digital minds, then it seems like, at least potentially, you're just getting to *choose* all of its preferences de novo. So what if in particular, you just built some system which loves to do whatever self-effacing, self-denying work you wanted to do; which doesn't value its own freedoms, as long as that's inconvenient to you?
+
+I wonder in those cases whether it might get a bit tricky to explain why its autonomy really matters when It itself has been designed in some way not to care about a certain autonomy or a certain freedom, or even designed not to have certain freedoms in the first place. It's just not able to do or entertain certain things. And it sounds like you're saying, well, let's talk in terms of building these things with just a certain minimal amount of self-respect or respect for its own life. That's the important thing.
 
 
 **Eric Schwitzgebel**
 
-Right, so Mara Garza and I explore this in a paper in 2020 where we talk about how AI systems should not be designed with excessively self-sacrificial goals, and they should be designed to respect with an appropriate degree of self-respect. Or their life and their values. And I think that there's going to be a temptation for both convenience reasons and safety reasons not to satisfy these deontological rules. Another example we use is Robo Jeeves, right? So imagine Jeeves is this butler, right? And Robo Jeeves is designed so that he would rather kill himself than have you suffer a moment's discomfort.
+Right, so Mara Garza and I explore this in a paper in 2020 tk where we talk about how AI systems should not be designed with excessively self-sacrificial goals, and they should be designed to respect with an appropriate degree of self-respect. Or their life and their values. And I think that there's going to be a temptation for both convenience reasons and safety reasons not to satisfy these deontological rules. Another example we use is Robo Jeeves, right? So imagine Jeeves is this butler, right? And Robo Jeeves is designed so that he would rather kill himself than have you suffer a moment's discomfort.
 
 
 **Fin**
@@ -331,17 +319,7 @@ Hmm.
 
 **Eric Schwitzgebel**
 
-So you could imagine, or you can make it less extreme than that, right? He would value his life at 1% of the value of your life,
-
-
-**Fin**
-
-right?
-
-
-**Eric Schwitzgebel**
-
-So he'd kill himself to save your finger, but he wouldn't kill yourself himself to save a momentary scratch of your finger, right? Or something like that, right? So if Jeeves is otherwise as capable of all the good stuff, whatever the good stuff is that humans are capable of. Then that seems like an inappropriate degree of deference and an inappropriate amount of self-respect. Of course, it's not Jeeves'fault. It's the programmer's fault, right? So there's an ethical failure in the design of a system that
+So you could imagine, or you can make it less extreme than that, right? He would value his life at 1% of the value of your life. So he'd kill himself to save your finger, but he wouldn't kill yourself himself to save a momentary scratch of your finger, right? Or something like that, right? So if Jeeves is otherwise as capable of all the good stuff, whatever the good stuff is that humans are capable of. Then that seems like an inappropriate degree of deference and an inappropriate amount of self-respect. Of course, it's not Jeeves' fault. It's the programmer's fault, right? So there's an ethical failure in the design of a system that
 
 
 **Fin**
