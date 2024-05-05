@@ -23,7 +23,7 @@ We’re excited to have the chance to speak to you!
 
 ## What is this show about?
 
-**Hear This Idea** is a podcast about new thinking relating to [effective altruism](https://www.effectivealtruism.org/).
+**Hear This Idea** is a podcast about ideas for solving important problems, and the people trying to figure them out.
 
 We produce this podcast because we really enjoy it; but also because we hope the podcast can have some positive impact — by providing useful information about important topics, and motivating people to work on them.
 
