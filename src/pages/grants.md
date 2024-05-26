@@ -33,7 +33,7 @@ We want to amplify ideas associated with [effective altruism](https://www.effect
 
 We’re excited to support projects (new and existing) in English **and other languages** — sharing important ideas with new, global, audiences. 
 
-Although the first round of applications has closed, you can express interest in future rounds by [following this link](https://grants.hearthisidea.com/apply).
+Although the first round of applications has closed, you can express interest in future rounds by [following this link](https://tally.so/r/mODJZk).
 
 The rest of this page explains more details about why we're running this program, and what we were looking to support.
 
