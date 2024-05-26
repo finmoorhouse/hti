@@ -66,11 +66,11 @@ The hosts are long-time friends [Fin Moorhouse](https://www.finmoorhouse.com) (r
 
 ## Feedback
 
-You can leave us [quick feedback about anything here](https://feedback.hearthisidea.com/quick-feedback).
+You can leave us [quick feedback about anything here](https://tally.so/r/woeLp5).
 
-We also have a more structured (5–15 minute) [feedback form](https://feedback.hearthisidea.com/listener). For taking time to fill it out, you'll be able to **redeem a free book** from a list of books that we highly recommend. Anonymous is fine.
+We also have a more structured (5–15 minute) [feedback form](https://tally.so/r/nPd680). For taking time to fill it out, you'll be able to **redeem a free book** from a list of books that we highly recommend. Anonymous is fine.
 
-<a href='https://feedback.hearthisidea.com/listener' class="text-center no-underline border border-yellow-400 bg-yellow-300 font-sans outline-yellow-500 outline-[3px] my-2 px-3 py-2 rounded-lg inline-block outline-offset-[-3px] hover:bg-yellow-200 shadow-sm dark:text-flexoki-800 hover:dark:text-flexoki-800">
+<a href='https://tally.so/r/nPd680' class="text-center no-underline border border-yellow-400 bg-yellow-300 font-sans outline-yellow-500 outline-[3px] my-2 px-3 py-2 rounded-lg inline-block outline-offset-[-3px] hover:bg-yellow-200 shadow-sm dark:text-flexoki-800 hover:dark:text-flexoki-800">
 Give us feedback →
 </a>
 
