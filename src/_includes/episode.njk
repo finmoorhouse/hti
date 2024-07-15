@@ -68,10 +68,11 @@ extraStyle:
 <type-3-player
   mp3-url="{{ audio }}"
   custom-css="
-  [id^='t3a-player-root'] {border: 1px solid #c5d2dc;}
+  [id^='t3a-player-root'] {border: 1px solid #c5d2dc; padding-bottom: 12px;}
   "
   background-color="#f1f5f9"
   analytics="none"
+  sticky="true"
   primary-color="#374151"
   secondary-color="#737e8a"
   accent-color="#ffcd0a"
@@ -84,7 +85,7 @@ extraStyle:
 >
 </type-3-player>
 <!-- Can add to player: box-shadow: 0 1px 8px 0 rgb(0 0 0 / 0.05), 0 1px 2px -1px rgb(0 0 0 / 0.1);}" -->
-<div class="flex flex-wrap mt-2 mb-2 justify-center">
+<div class="flex flex-wrap mt-5 justify-center">
   <a
     href="/episodes"
     class="rounded-md font-sans no-underline py-1 px-3 font-medium text-gray-700 hover:outline outline-1 outline-gray-300 dark:outline-flexoki-800 box-border sm:inline-block hidden dark:text-flexoki-300"
@@ -104,7 +105,7 @@ extraStyle:
   >
 </div>
 
-<hr class="sm:mt-8 mt-4 sm:mb-8 mb-6" />
+<hr class="sm:mt-5 mt-4 sm:mb-8 mb-6" />
 
 <details
   open
@@ -132,7 +133,7 @@ extraStyle:
 
 <!-- Block to add subtle background -->
 <div
-  class="hidden md:block absolute inset-x-[calc(-50vw+32ch)] top-[-100px] bg-slate-100 dark:bg-flexoki-980 bottom-10 h-[650px] px-[50px] -z-10"
+  class="hidden md:block absolute inset-x-[calc(-50vw+32ch)] top-[-100px] bg-slate-100 dark:bg-flexoki-980 bottom-10 h-[575px] px-[50px] -z-10"
 ></div>
 
 {{ content | safe }}
