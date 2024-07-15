@@ -11,7 +11,7 @@ path: "amplify-grantees"
 
 </div>
 
-[Amplify creative grants](https://hearthisidea.com/grants/) is a small grants program for supporting podcasts and other creative media projects that spread ideas to help humanity navigate this century. We're happy to announce our first round of grantees!
+[Amplify creative grants](https://hearthisidea.com/grants/) was a small grants program for supporting podcasts and other creative media projects that spread ideas to help humanity navigate this century. We're happy to announce our grantees!
 
 We’re really excited by all these projects. In particular, we’re glad to have found a number of grantees looking to reach relatively neglected audiences, including through non-English language content in Spanish, French, and Hindi.
 
@@ -23,7 +23,25 @@ Thanks to [Drew Spartz](https://forum.effectivealtruism.org/users/meta) from [No
 
 ### Laura González Salmerón, Pablo Stafforini and Pablo Melchor
 
-[Laura](https://www.linkedin.com/in/laura-gonz%C3%A1lez-salmer%C3%B3n/),[ Pablo](https://www.stafforini.com/), an[ Pablo](https://www.linkedin.com/in/pmelchor/) will start a new podcast called *La bisagra de la historia* (The hinge of history); a podcast **interviewing Spanish-speaking researchers and entrepreneurs** working on some of this century's most pressing problems.
+{% image 'pages/grants/historia.png' 'La bisagra de la historia' %}
+
+[Laura](https://www.linkedin.com/in/laura-gonz%C3%A1lez-salmer%C3%B3n/),[ Pablo](https://www.stafforini.com/), and[ Pablo](https://www.linkedin.com/in/pmelchor/) started a new podcast called [*La bisagra de la historia*](https://labisagradelahistoria.org/) (“The hinge of history”); a podcast **interviewing Spanish-speaking researchers and entrepreneurs** working on some of this century's most pressing problems. [Here's the announcement post](https://forum.effectivealtruism.org/posts/en5NZ3jcxhriKjsnv/announcing-la-bisagra-de-la-historia-a-spanish-speaking).
+
+> [W]e talk in depth with experts in diverse fields: artificial intelligence, law, economics, ethics, politics […] about what are the great challenges of our time, and what can we do to confront them.
+
+### James Ozden and Amy Odene
+
+{% image 'pages/grants/hiltls.png' 'How I Learned to Love Shrimp' %}
+
+[James Ozden](https://jamesozden.com/) and [Amy Odene](https://www.linkedin.com/in/amy-odene-29901414b/) started a podcast called [*How I Learned to Love Shrimp*](https://www.howilearnedtoloveshrimp.com/); focused on **effective animal advocacy**. We hope that the show will further promote effective, evidence-based methods in animal advocacy, as well as directly advocate for important changes. [You can see all episodes here](https://www.biounethical.com/episodes).
+
+### Leah Pierson and Sophie Gibert
+
+{% image 'pages/grants/biounethical.jpg' 'Bio(un)ethical' %}
+
+[Leah Pierson](https://www.leahpierson.com/) and [Sophie Gibert](https://www.sophiegibert.com/) are PhD students in global health and philosophy respectively. They started a podcast called *[Bio(un)ethical](https://www.biounethical.com)*, where they **interview bioethicists** about standards, rules, and norms in medicine and public health.
+
+> On each episode, we interview an expert on an important and controversial issue in bioethics. For instance, in our first few episodes, we consider the following questions: [Should there be risk limits on research involving consenting participants?](https://www.biounethical.com/episodes/episode/78a7228c/1-robert-steel-can-research-be-too-risky) Does the IRB system do more harm than good? Should patients with intractable mental illness have access to medical aid in dying? What is the point of teaching ethics to professional school students?
 
 ### Jérémy Perret
 
@@ -44,14 +62,6 @@ Varun Agrawal is starting an interview podcast in Hinglish (mostly Hindi, but wi
 ### Trevor Martin
 
 Trevor Martin will produce a **video introduction to forecasting**, aimed at becoming a comprehensive overview of forecasting principles and tools to help newcomers get up to speed quickly. Trevor has consistently ranked in the top 5 users by points on [Metaculus](https://www.metaculus.com/).
-
-### James Ozden and Amy Odene
-
-[James Ozden](https://jamesozden.com/) and [Amy Odene](https://www.linkedin.com/in/amy-odene-29901414b/) are starting a podcast focused on **effective animal advocacy**. We hope that the show will further promote effective, evidence-based methods in animal advocacy, as well as directly advocate for important changes.
-
-### Leah Pierson and Sophie Gibert
-
-[Leah Pierson](https://www.leahpierson.com/) and [Sophie Gibert](https://www.sophiegibert.com/) are PhD students in global health and philosophy respectively. They are starting a podcast called BioUnethical where they **interview bioethicists** about standards, rules, and norms in medicine and public health.
 
 ### Nathan Barnard
 
