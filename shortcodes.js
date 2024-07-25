@@ -57,6 +57,8 @@ async function imageShortcode(src, alt = src, size) {
   });
 }
 
+// Featured image shortcode
+
 async function featuredImageShortcode(content, src, alt) {
   let fullSrc = LFS_URL + `${src}`;
   const metadataOptions = {
@@ -194,7 +196,7 @@ function dateToString(date) {
 }
 
 function aside(content) {
-  return `<aside class="rounded-md px-8 py-2 bg-slate-100">${content}</aside>`;
+  return `<aside class="rounded-md px-8 py-2 bg-amber-50 dark:bg-flexoki-950 ring-amber-300 hover:ring-amber-400 ring-1 dark:ring-yellow-800 dark:ring-1 dark:hover:ring-yellow-600">${content}</aside>`;
 }
 
 module.exports = {
