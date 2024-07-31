@@ -1,6 +1,6 @@
 ---
 title: Elizabeth Seger on Open Source AI
-audio: https://pinecast.com/listen/53812091-a56a-41e1-ab60-c858019bddcd.mp3
+audio: https://pinecast.com/listen/56712a2f-e38e-458f-bb2a-4274cef22da5.mp3
 path: seger
 number: 77
 featuredImage: seger-share.png
