@@ -33,8 +33,6 @@ In this episode we talked about open source the risks and benefits of open sourc
 
 ## Resources
 
-Here's a markdown formatted list with appropriate descriptions for each link:
-
 - [Report: Open-sourcing highly capable foundation models (Seger et al.)](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
 - [Lawrence Lessig on open source AI risks](https://www.transformernews.ai/p/lawrence-lessig-open-source-ai-risks)
 - [Podcast: The Promise and Peril of Open Source AI with Elizabeth Seger and Jeffrey Ladish](https://www.humanetech.com/podcast/the-promise-and-peril-of-open-source-ai-with-elizabeth-seger-and-jeffrey-ladish)
