@@ -112,3 +112,9 @@ img[width][height] {
   mask-image: var(--svg-mask-moon);
   mask-position: 50% 50%;
 }
+img:before{
+  padding: 1.5em;
+  padding-top: 2em;
+  display: inline-block;
+  margin: auto;
+}

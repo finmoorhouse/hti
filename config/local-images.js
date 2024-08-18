@@ -1,4 +1,8 @@
-// Image shortcode
+// Note: this file is obsolete, and is not used in the current version of the site.
+// It is kept for reference purposes only.
+// This file downloads remotely hosted images and processes them locally using @11ty/eleventy-img
+// The current way of processing images (in config/cloud-images.js) generates Cloudinary URLs for images hosted on Cloudinary
+// This bypasses any local hosting, which speeds up the build process.
 
 const Image = require("@11ty/eleventy-img");
 const LFS_URL = "https://hti-images.netlify.app/";
@@ -107,8 +111,6 @@ async function featuredImageShortcode(content, src, alt) {
 </div>`; // returnedImage.avif[0] is smallest, and returnedImage.avif[n] is largest for n sizes. But currently these images are not responsive. One thing I could do is make it a standard image element to support responsive sizes.
 }
 
-
-
 // One thing I can do with this shortcode is move ~all the html to the episode.njk template, and just get it to return the background image URL
 async function backgroundImageShortcode(content, src) {
   let fullSrc = LFS_URL + `${src}`;
@@ -180,30 +182,10 @@ async function generateBackgroundImageSrc(src) {
   return returnedImage.avif[0].url;
 }
 
-// Other shortcodes
-
-function dateToString(date) {
-  // Check if date is a string
-  if (typeof date === "string") {
-    // Parse into Date object
-    date = new Date(date);
-  }
-  // Format date
-  return date.toLocaleDateString("en-GB", {
-    year: "numeric",
-    month: "short",
-  });
-}
-
-function aside(content) {
-  return `<aside class="rounded-md px-8 py-2 bg-amber-50 dark:bg-flexoki-950 ring-amber-300 hover:ring-amber-400 ring-1 dark:ring-yellow-800 dark:ring-1 dark:hover:ring-yellow-600">${content}</aside>`;
-}
 
 module.exports = {
-  imageShortcode,
-  featuredImageShortcode,
-  backgroundImageShortcode,
-  generateBackgroundImageSrc,
-  dateToString,
-  aside,
-};
+    imageShortcode,
+    featuredImageShortcode,
+    backgroundImageShortcode,
+    generateBackgroundImageSrc,
+  };

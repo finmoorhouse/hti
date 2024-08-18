@@ -42,7 +42,7 @@ extraStyle:
 <!-- bg-gradient-to-t from-transparent to-amber-600 -->
 <div class="absolute inset-0 bg-gradient-to-t from-slate-900 to-transparent opacity-100 z-0 mix-blend-multiply from-30% to-50%"></div>
 <div class="bg-zinc-800 sm:bg-opacity-50 sm:bg-blend-multiply bg-opacity-70 bg-blend-normal align-middle m-0 z-1 relative sm:p-8 pb-6 p-4">
-<div class="absolute inset-0 -z-1 mix-blend-normal opacity-10 sm:max-h-full max-h-[300px] bg-repeat" style="background-image: url({{ 'pages/home/noise-dark.png' | bgsrcfilter }})"></div>
+<div class="absolute inset-0 -z-1 mix-blend-normal opacity-10 sm:max-h-full max-h-[300px] bg-repeat" style="background-image: url(https://res.cloudinary.com/hear-this-idea/image/upload/pages/home/noise-dark.png)"></div>
 <h1 class="text-white sm:text-3xl text-2xl relative z-1 dark:text-flexoki-50">Good ideas for big problems.</h1>
 <p class="relative font-sans sm:text-lg text-md text-white dark:text-flexoki-200 p-0 z-10 m-0 mt-6"><b>Hear This Idea</b> is a podcast about ideas for solving important problems, and the people trying to figure them out. Check out <a href='/episodes' class='text-white'>our episodes</a>, or listen anywhere you get podcasts:</p>
 <div class="flex flex-wrap md:justify-start justify-start rounded-md mx-auto not-prose mt-4">
@@ -62,7 +62,7 @@ The hosts are long-time friends [Fin Moorhouse](https://www.finmoorhouse.com) (r
 
 [^1]: Small print: Hear This Idea is an entirely personal project, and is not affiliated with our current employers!
 
-{% image 'pages/home/fandl.jpg' 'Alt text' %}
+{% image 'pages/home/fandl.jpg' 'Fin and Luca' %}
 
 ## Feedback
 
