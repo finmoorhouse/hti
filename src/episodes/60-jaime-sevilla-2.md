@@ -14,11 +14,7 @@ status: "live"
 
 Jaime Sevilla is the Director of [Epoch](https://epochai.org/), a team of researchers investigating and forecasting the development of advanced AI. This is his second time on the podcast.
 
-<div class="episode-image_variable">
-
-{% image "jaime.jpg" "Jaime Sevilla" %}
-
-</div>
+{% image "jaime-2" "Jaime Sevilla" %}
 
 Over the next few episodes, we will be exploring the potential for [catastrophe cause by advanced artificial intelligence](https://80000hours.org/problem-profiles/artificial-intelligence/). Why? First, you might think that AI is likely to become transformatively powerful within our lifetimes. Second, you might think that such transformative AI could result in catastrophe unless we’re very careful about how it gets implemented.
 
@@ -51,6 +47,8 @@ Fin spoke with Jaime about investigating progress in all three factors. In parti
   - [Revisiting algorithmic progress](https://epochai.org/blog/revisiting-algorithmic-progress)
   - [Literature review of Transformative Artificial Intelligence timelines](https://epochai.org/blog/literature-review-of-transformative-artificial-intelligence-timelines)
   - [Trends in GPU price-performance](https://epochai.org/blog/trends-in-gpu-price-performance)
+
+{% image "jaime-3" "Jaime Sevilla" %}
 
 ## Transcript
 
