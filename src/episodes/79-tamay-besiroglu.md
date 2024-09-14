@@ -3,7 +3,7 @@ title: Tamay Besiroglu on Explosive Growth from AI
 audio: https://pinecast.com/listen/b3f7b933-6858-4f8c-9407-651edd68436a.mp3
 path: besiroglu
 number: 79
-featuredImage: moebius_city_8.png
+featuredImage: moebius_city_8.jpg
 backgroundImage: moebius_city_8
 date: 2024-09-14
 ---
