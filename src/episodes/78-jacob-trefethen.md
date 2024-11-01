@@ -11,7 +11,7 @@ date: 2024-09-08
 
 He tweets as [@jacobtref](https://twitter.com/JacobTref/) and blogs about science at [blog.jacobtrefethen.com](https://blog.jacobtrefethen.com/).
 
-{% cloudImage 'jacob' 'Jacob Trefethen' %}
+{% cloudImage 'jacob-2' 'Jacob Trefethen' %}
 
 In this episode we talk about:
 
