@@ -708,13 +708,9 @@ In the next 100 years, nuclear materials may become much easier to develop as we
 
 **Carl**: So Reagan walked in, and all of his advisers were in the shower. He looks over, goes, sits on the toilet, and says, "I'll take the throne."
 
-**Fin**: That's very good. Nice.
-
 And so they had 3 days of negotiations face to face, really coming off the height of the Cold War, to try to figure out if they could reach an accommodation.
 
-**Fin**: Mhmm.
-
-**Carl**: You have to remember, the story of Gorbachev is not what we know yet. He was relatively unknown, and people didn't know whether he would be a reformer or a hardliner in sheep's clothing. He and Reagan had this tremendous rapport, actually. They saw eye to eye on so many things. Over the course of a few days, they were able to reach agreement on a few things. First, that a nuclear war could not be won and must never be fought.
+You have to remember, the story of Gorbachev is not what we know yet. He was relatively unknown, and people didn't know whether he would be a reformer or a hardliner in sheep's clothing. He and Reagan had this tremendous rapport, actually. They saw eye to eye on so many things. Over the course of a few days, they were able to reach agreement on a few things. First, that a nuclear war could not be won and must never be fought.
 
 A really important insight. Reagan, it appears, really took the threat of nuclear war seriously. It troubled him.
 
