@@ -62,7 +62,9 @@ The hosts are long-time friends [Fin Moorhouse](https://www.finmoorhouse.com) (r
 
 [^1]: Small print: Hear This Idea is an entirely personal project, and is not affiliated with our current employers!
 
-{% image 'pages/home/fandl.jpg' 'Fin and Luca' %}
+<div class="max-w-[28rem] mx-auto">
+    {% image 'pages/home/fandl.jpg' 'Fin and Luca' %}
+</div>
 
 ## Feedback
 
