@@ -75,9 +75,15 @@ We talked about:
 
 *Let us know if we missed any resources and we'll add them.*
 
+{% image 'da-vinci-7' 'Da Vinci's drawings %}
+
 ## Transcript
 
-*Note that this transcript will be **machine-generated**, by a model which makes frequent mistakes and sometimes hallucinates entire sentences. Please check with the original audio before using this transcript to quote our guest.*
+{% aside %}
+
+Note that this transcript is **machine-generated**, by a model which makes frequent mistakes and sometimes hallucinates entire sentences. Please check with the original audio before using this transcript to quote our guest.
+
+{% endaside %}
 
 ### Intro
 
@@ -124,6 +130,8 @@ I think this approach is beginning to have an impact. But the set of ideas I've 
 So two examples of this: Operation Warp Speed—the government said to Moderna and Pfizer, if you develop a vaccine which is safe and effective, then we will buy 300 million doses. Or the NASA-SpaceX collaboration. When NASA retired the Space Shuttle, we had to give the Russians $50 million per astronaut per ride to the International Space Station, and no one thought this was a good idea. So NASA said to SpaceX, if you develop a rocket that can go to the International Space Station, deliver and retrieve cargo, and ultimately crew, not only will we buy rides on the rocket, but we will provide milestone payments for intermediate progress towards that goal. 
 
 So in general, I think these approaches are massively underutilized, and we should be increasing the extent to which both the government and the private sector are utilizing these.
+
+{% image 'space-3' 'Space' %}
 
 **Matt:** That's interesting. So these conditional commitments, of which prizes are maybe one type, we could say have a role in, you know, self-driving cars, SpaceX, and, you know, the COVID-19 vaccines, which is actually a pretty spectacular record if you think of it in that broader way. Yeah.
 
