@@ -3,7 +3,7 @@ title: Max Smeets on Barriers to Cyberweapons
 audio: https://pinecast.com/listen/f9c3d4cc-0c75-489a-9237-edb245682466.mp3
 path: smeets
 number: 83
-featuredImage: smeets-bg-5-small.jpg
+featuredImage: smeets-bg-3-small.jpg
 backgroundImage: smeets-bg-5-b
 date: 2025-03-13
 ---
