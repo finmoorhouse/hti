@@ -61,7 +61,7 @@
   
   <!-- Share image for episodes -->
   {% if featuredImage %}
-    {% if featuredImage contains 'https' %}
+    {% if 'https' in featuredImage %}
   <meta name="twitter:image" content="{{ featuredImage }}">
   <meta property="og:image" content="{{ featuredImage }}">
   <meta name="image" content="{{ featuredImage }}">
