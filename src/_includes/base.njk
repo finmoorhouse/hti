@@ -61,9 +61,15 @@
   
   <!-- Share image for episodes -->
   {% if featuredImage %}
+    {% if featuredImage contains 'https' %}
+  <meta name="twitter:image" content="{{ featuredImage }}">
+  <meta property="og:image" content="{{ featuredImage }}">
+  <meta name="image" content="{{ featuredImage }}">
+    {% else %}
   <meta name="twitter:image" content="https://hti-images.netlify.app/episodes/{{ number }}/{{ featuredImage }}">
   <meta property="og:image" content="https://hti-images.netlify.app/episodes/{{ number }}/{{ featuredImage }}">
   <meta name="image" content="https://hti-images.netlify.app/episodes/{{ number }}/{{ featuredImage }}">
+    {% endif %}
   {% else %}
   <meta name="twitter:image" content="https://hti-images.netlify.app/share-images/hti-share.jpg">
   <meta property="og:image" content="https://hti-images.netlify.app/share-images/hti-share.jpg">

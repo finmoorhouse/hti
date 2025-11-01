@@ -3,7 +3,7 @@ title: Dean Spears on the Case for People
 audio: https://pinecast.com/listen/831dcc3b-87a8-4722-b536-10732b2009df.mp3
 path: spears
 number: 84
-featuredImage: crowd-12.jpg
+featuredImage: https://res.cloudinary.com/hear-this-idea/image/upload/episodes/84/crowd-12-share-small.jpg
 backgroundImage: crowd-12
 date: 2025-11-01
 ---
